@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Fri Sep 18 2026
+Last updated: Sat Sep 19 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,035,730
+1,036,340
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,327
+1,280
 
 Hotlists Alerted On
 
@@ -98,14 +98,14 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-11,575
+11,618
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Motor Vehicle Theft/Stolen
-Larceny/Theft Offenses
 Drugs/Narcotics
+Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Stolen Property Offenses
 
@@ -342,7 +342,6 @@ Marquette County MI SO
 Marshall TX PD
 Marysville MI PD
 Matteson IL PD
-Mauldin SC PD
 Maumee OH PD
 Melvindale MI PD
 Menominee County SO MI
@@ -731,7 +730,6 @@ Fort Worth TX PD
 Frankenmuth MI PD - New Business
 Franklin County IL SO
 Franklin IN PD
-Franklin WI PD
 Fraser MI DPS
 Fruitport Township MI PD
 Fulshear TX PD
@@ -865,7 +863,6 @@ Livingston County IL SO
 Lockland OH PD
 Lodi OH PD
 Logansport IN PD
-Long Beach IN PD
 Lorain County OH SO
 Louisville Metro KY PD
 Louisville OH PD

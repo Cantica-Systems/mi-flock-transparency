@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Thu Sep 17 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-165,821
+165,360
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-68
+69
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,018
+1,023
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -97,8 +97,8 @@ Offense Types used for LPR searches in the last 30 days.
 Larceny/Theft Offenses
 Financial Crime (Embezzlement/Fraud)
 Stolen Property Offenses
-Drugs/Narcotics
 Weapons Offense (Guns/Shots Fired)
+Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
 
@@ -390,7 +390,6 @@ Fort Loramie OH PD
 Frankenmuth MI PD - New Business
 Franklin County MO SO
 Franklin IN PD
-Franklin WI PD
 Fraser MI DPS
 Fulton County IN SO
 Fulton IL PD
@@ -484,7 +483,6 @@ Lafayette TN PD
 LaGrange KY PD
 Lake Delton WI PD
 Lansing IL PD
-Lasalle IL PD
 Lathrup Village MI PD
 Lawrence County IN SO
 Lawrence District Attorney PA
