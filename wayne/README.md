@@ -27,3 +27,5 @@ raw/
 Watched daily for a search-audit CSV: Livonia MI PD, Highland Park MI PD.
 
 Guessed slugs (ad-hoc probe, not daily): Dearborn MI PD, Dearborn Heights MI PD, Westland MI PD, Canton Township MI PD, Inkster MI PD, Garden City MI PD, Redford Twp MI PD, Romulus MI PD, Van Buren MI PD, Huron Township MI PD, Melvindale MI PD, Hamtramck MI PD, Harper Woods MI DPS, Grosse Pointe Woods MI DPS, Grosse Pointe Park MI DPS, Plymouth MI PD, Plymouth Township MI PD, Northville MI PD, Northville Twp MI PD, Detroit MI PD.
+
+Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, and accuracy notes.

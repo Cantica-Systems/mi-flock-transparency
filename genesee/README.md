@@ -24,3 +24,5 @@ raw/
 ```
 
 Guessed slugs (ad-hoc probe, not daily): Grand Blanc Twp MI PD, Fenton MI PD.
+
+Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, and accuracy notes.

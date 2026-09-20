@@ -41,3 +41,5 @@ Guessed slugs (ad-hoc probe, not daily): Ottawa County MI SO, Grand Haven MI DPS
 | `searchDate` | UTC timestamp of the search |
 | `networkCount` | networks/devices included in that search |
 | `offenseType` | stated search reason |
+
+Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, and accuracy notes.

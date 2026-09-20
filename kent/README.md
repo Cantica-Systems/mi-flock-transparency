@@ -52,3 +52,5 @@ Guessed slugs (ad-hoc probe, not daily): Kentwood MI PD, East Grand Rapids MI PD
 | `searchDate` | UTC timestamp of the search |
 | `networkCount` | networks/devices included in that search |
 | `offenseType` | stated search reason |
+
+Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, and accuracy notes.
