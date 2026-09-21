@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Sun Sep 20 2026
+Last updated: Mon Sep 21 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-663,006
+657,592
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-240
+230
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-15,398
+15,285
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
