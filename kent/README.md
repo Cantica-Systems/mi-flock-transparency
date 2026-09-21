@@ -1,14 +1,14 @@
 # Kent County Flock archive
 
-This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kent County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
+This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kent County agencies. It collects the data those portals publish (search audits, share lists, and page snapshots) before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
-- **Grand Rapids City PD** — `https://transparency.flocksafety.com/grand-rapids-mi-pd`
-- **Kent County Sheriff’s Office** — `https://transparency.flocksafety.com/kent-county-mi-so`
-- **Walker PD** — `https://transparency.flocksafety.com/walker-mi-pd`
-- **Wyoming PD** — `https://transparency.flocksafety.com/wyoming-mi-pd`
-- **Grandville PD** — `https://transparency.flocksafety.com/grandville-pd-mi`
-- **Lowell PD** — `https://transparency.flocksafety.com/lowell-mi-pd`
-- **Rockford Dept of Public Safety** — `https://transparency.flocksafety.com/rockford-dept-of-public-safety-mi`
+- **Grand Rapids City PD**, `https://transparency.flocksafety.com/grand-rapids-mi-pd`
+- **Kent County Sheriff’s Office**, `https://transparency.flocksafety.com/kent-county-mi-so`
+- **Walker PD**, `https://transparency.flocksafety.com/walker-mi-pd`
+- **Wyoming PD**, `https://transparency.flocksafety.com/wyoming-mi-pd`
+- **Grandville PD**, `https://transparency.flocksafety.com/grandville-pd-mi`
+- **Lowell PD**, `https://transparency.flocksafety.com/lowell-mi-pd`
+- **Rockford Dept of Public Safety**, `https://transparency.flocksafety.com/rockford-dept-of-public-safety-mi`
 
 Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
 
@@ -39,7 +39,7 @@ Search-audit CSVs are partitioned by **search time**. A search from 31 August li
 
 Share lists are the current portal snapshot. `git log -p data/kent-county-so/sharing_outbound.csv` shows when partners were added or removed.
 
-Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
+Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as a dash in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
 Guessed slugs (ad-hoc probe, not daily): Kentwood MI PD, East Grand Rapids MI PD, Plainfield Twp MI.
 
@@ -53,4 +53,4 @@ Guessed slugs (ad-hoc probe, not daily): Kentwood MI PD, East Grand Rapids MI PD
 | `networkCount` | networks/devices included in that search |
 | `offenseType` | stated search reason |
 
-Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, and accuracy notes.
+Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, accuracy, and licensing notes.

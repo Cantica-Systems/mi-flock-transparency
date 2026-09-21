@@ -7,15 +7,15 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Kent | [`kent/`](kent/) | Grand Rapids PD, Kent County SO, Walker, Wyoming, Grandville, Lowell, Rockford DPS |
 | Ottawa | [`ottawa/`](ottawa/) | Holland PD |
 | Kalamazoo | [`kalamazoo/`](kalamazoo/) | Kalamazoo DPS, Portage PD |
-| Muskegon | [`muskegon/`](muskegon/) | none yet — Muskegon PD portal is live without a public search-audit CSV |
-| Allegan | [`allegan/`](allegan/) | none yet — guessed slugs kept for ad-hoc probe |
+| Muskegon | [`muskegon/`](muskegon/) | none yet; Muskegon PD portal is live without a public search-audit CSV |
+| Allegan | [`allegan/`](allegan/) | none yet; guessed slugs kept for ad-hoc probe |
 | Wayne | [`wayne/`](wayne/) | Taylor PD, Sumpter Twp PD |
-| Oakland | [`oakland/`](oakland/) | none yet — Ferndale portal is inactive; Troy has no audit CSV |
-| Macomb | [`macomb/`](macomb/) | none yet — guessed slugs kept for ad-hoc probe |
-| Washtenaw | [`washtenaw/`](washtenaw/) | none yet — Milan portal has no public search-audit CSV |
-| Genesee | [`genesee/`](genesee/) | none yet — guessed slugs kept for ad-hoc probe |
-| St. Clair | [`st-clair/`](st-clair/) | none yet — guessed slugs kept for ad-hoc probe |
-| Lenawee | [`lenawee/`](lenawee/) | none yet — guessed slugs kept for ad-hoc probe |
+| Oakland | [`oakland/`](oakland/) | none yet; Ferndale portal is inactive; Troy has no audit CSV |
+| Macomb | [`macomb/`](macomb/) | none yet; guessed slugs kept for ad-hoc probe |
+| Washtenaw | [`washtenaw/`](washtenaw/) | none yet; Milan portal has no public search-audit CSV |
+| Genesee | [`genesee/`](genesee/) | none yet; guessed slugs kept for ad-hoc probe |
+| St. Clair | [`st-clair/`](st-clair/) | none yet; guessed slugs kept for ad-hoc probe |
+| Lenawee | [`lenawee/`](lenawee/) | none yet; guessed slugs kept for ad-hoc probe |
 
 Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](#about-this-archive) for trademark, ownership, privacy, and accuracy notes.
 
@@ -71,6 +71,14 @@ Read the label next to a figure before comparing agencies. Kent County Sheriff's
 Coverage follows which agencies publish a portal, not which agencies operate the technology. An agency absent from this archive may still run cameras.
 
 This is a convenience copy for research and public accountability. It is not an official record and it is not legal advice. For an authoritative or evidentiary copy, request the records from the agency under the Michigan Freedom of Information Act.
+
+### Licensing
+
+Cantica Systems' own contributions to this repository, meaning the README and SNAPSHOT prose, the folder layout, and the selection and arrangement of what is collected here, are released under CC0 1.0 Universal. See [`LICENSE`](LICENSE). Use them for anything, with or without credit.
+
+The agency records under `data/` are the public records of the agencies that published them. Cantica Systems claims no rights in them and grants none. Whether any rights subsist in them is a question for those agencies.
+
+The page snapshots under `raw/` reproduce portal content belonging to Flock Group Inc. and to the agencies. They are retained so figures can be traced to their source. CC0 does not cover them and this repository grants no license to them.
 
 ### Corrections
 

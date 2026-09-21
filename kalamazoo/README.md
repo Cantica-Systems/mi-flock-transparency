@@ -1,9 +1,9 @@
 # Kalamazoo County Flock archive
 
-This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kalamazoo County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
+This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Kalamazoo County agencies. It collects the data those portals publish (search audits, share lists, and page snapshots) before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
-- **Kalamazoo DPS** — `https://transparency.flocksafety.com/kalamazoo-mi-pd`
-- **Portage PD** — `https://transparency.flocksafety.com/portage-mi-pd`
+- **Kalamazoo DPS**, `https://transparency.flocksafety.com/kalamazoo-mi-pd`
+- **Portage PD**, `https://transparency.flocksafety.com/portage-mi-pd`
 
 Kent County agencies are in [kent-co-mi-flock](../kent/). Ottawa County is in [ottawa-co-mi-flock](../ottawa/). Muskegon County is in [muskegon-co-mi-flock](../muskegon/). Allegan County is in [allegan-co-mi-flock](../allegan/). Kalamazoo County is in [kalamazoo-co-mi-flock](../kalamazoo/).
 
@@ -29,7 +29,7 @@ Search-audit CSVs are partitioned by **search time**. A search from 31 August li
 
 Share lists are the current portal snapshot. `git log -p` shows when partners were added or removed.
 
-Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as — in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
+Agencies pick which summary widgets to publish. A blank `stats.csv` cell (shown as a dash in [`SNAPSHOT.md`](SNAPSHOT.md)) means that figure was not on the page. The public search-audit CSV is the record this archive is built from; a portal with no audit file is not a completed snapshot.
 
 Guessed slugs (ad-hoc probe, not daily): Kalamazoo County SO, Kalamazoo Township PD, Richland Village PD, Vicksburg PD, Western Michigan University PD.
 
@@ -43,4 +43,4 @@ Guessed slugs (ad-hoc probe, not daily): Kalamazoo County SO, Kalamazoo Township
 | `networkCount` | networks/devices included in that search |
 | `offenseType` | stated search reason |
 
-Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, and accuracy notes.
+Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](../README.md#about-this-archive) for trademark, ownership, privacy, accuracy, and licensing notes.
