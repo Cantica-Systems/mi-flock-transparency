@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Tue Sep 22 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,029,864
+1,023,023
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,258
+1,289
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-11,451
+11,359
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1106,7 +1106,6 @@ Tippecanoe County IN SO
 Titusville FL PD
 Toledo OH PD
 Tolleson AZ PD
-Town of Newburgh NY PD
 Traverse City MI PD
 Treasure Island FL PD
 Trenton IL PD

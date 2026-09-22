@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Tue Sep 22 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-657,592
+653,579
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-230
+224
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-15,285
+15,110
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -120,8 +120,8 @@ Offense Types used for LPR searches in the last 30 days.
 Hit and Run/Car Accident
 Assault/Battery Offenses (Domestic)
 Motor Vehicle Theft/Stolen
-Wanted Person (Arrest Warrant/Fugitive)
 Burglary/Breaking & Entering
+Assault/Battery Offenses
 
 Sharing Network Data With
 
@@ -315,7 +315,6 @@ Calumet Park IL PD
 Cambridge City IN PD
 Campton Hills IL PD
 Canton IL PD
-Canton OH PD
 Cape Girardeau County MO SO
 Cape Girardeau MO PD
 Carbondale IL PD
@@ -859,7 +858,6 @@ Kendallville IN PD
 Kenmore Village NY PD
 Kennesaw State University GA PD
 Kenosha County WI SO
-Kenosha WI PD
 Kent County MI SO
 Kenton County KY SO
 Kentwood MI PD
@@ -922,9 +920,9 @@ Las Vegas NM PD
 LaSalle Co. IL SO - New
 Lathrup Village MI PD
 Lavon TX PD
+Lawrence County District Attorney's Office PA
 Lawrence County IL SO
 Lawrence County IN SO
-Lawrence District Attorney PA
 Lea County NM SO
 Lebanon IN PD
 Lebanon KY PD
@@ -2121,8 +2119,8 @@ Lake Delton WI PD
 Lakeside Park-Crestview Hills KY PD
 Lansing IL PD
 Lathrup Village MI PD
+Lawrence County District Attorney's Office PA
 Lawrence County IN SO
-Lawrence District Attorney PA
 Lawrence IN PD
 Lebanon TN PD
 Lee County IL SO

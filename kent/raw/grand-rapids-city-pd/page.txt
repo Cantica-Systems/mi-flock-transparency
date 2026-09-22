@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Tue Sep 22 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-506,677
+503,535
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,078
+1,086
 
 Hotlists Alerted On
 
@@ -123,13 +123,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,861
+10,767
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
+Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
 Drugs/Narcotics
 Homicide/Death Investigation
@@ -910,9 +910,9 @@ Las Vegas NM PD
 LaSalle Co. IL SO - New
 Lathrup Village MI PD
 Lavon TX PD
+Lawrence County District Attorney's Office PA
 Lawrence County IL SO
 Lawrence County IN SO
-Lawrence District Attorney PA
 Lea County NM SO
 Lebanon KY PD
 Lebanon OH PD
@@ -1753,6 +1753,7 @@ Willoughby Hills OH PD
 Willoughby OH PD
 Willow Springs IL PD
 Willowbrook IL PD
+Willowick OH PD
 Wilmette IL PD
 Wilmington OH PD
 Wilmore KY PD
@@ -1935,7 +1936,6 @@ Carterville IL PD
 Cass County IN SO
 Cass County MI SO
 Caswell County NC SO
-Catawba County NC SO
 Catawba Nation Tribal SC PD
 Cedar County IA SO
 Cedar Lake IN PD
@@ -2381,8 +2381,8 @@ Laurel Park NC PD
 Laurens County GA SO
 Laurens County SC SO
 Lavonia GA PD
+Lawrence County District Attorney's Office PA
 Lawrence County IN SO
-Lawrence District Attorney PA
 Lawrence IN PD
 Lebanon TN PD
 Lee County GA SO
