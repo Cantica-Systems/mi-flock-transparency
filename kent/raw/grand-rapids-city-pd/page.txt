@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-503,535
+506,205
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,086
+1,089
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,767
+10,648
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -316,7 +316,6 @@ Calumet Park IL PD
 Cambridge City IN PD
 Campton Hills IL PD
 Canton IL PD
-Canton OH PD
 Cape Girardeau County MO SO
 Cape Girardeau MO PD
 Carbondale IL PD
@@ -846,7 +845,6 @@ Kendallville IN PD
 Kenmore Village NY PD
 Kennesaw State University GA PD
 Kenosha County WI SO
-Kenosha WI PD
 Kent County MI SO
 Kenton County KY SO
 Kentwood MI PD
@@ -1923,7 +1921,6 @@ Camden SC PD
 Camilla GA PD
 Canton GA PD
 Canton IL PD
-Canton OH PD
 Cape Girardeau MO PD
 Carlyle IL PD
 Carmel IN PD
@@ -1955,7 +1952,6 @@ Chatham County GA PD
 Chatham-Savannah Counter Narcotics Team
 Chatsworth GA PD
 Cheatham County TN SO
-Chenoa IL PD
 Cherokee County GA SO
 Chester County SC SO
 Chester Township OH PD

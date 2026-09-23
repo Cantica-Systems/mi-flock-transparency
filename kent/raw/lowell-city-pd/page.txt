@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -81,13 +81,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-116,532
+117,118
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-17
+15
 
 Hotlists Alerted On
 
@@ -105,8 +105,8 @@ Top Offense Types
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
-Hit and Run/Car Accident
 Counterfeiting/Forgery
+Hit and Run/Car Accident
 Welfare Check
 Financial Crime (Embezzlement/Fraud)
 
@@ -431,7 +431,7 @@ Kent County MI SO
 Kentwood MI PD
 Lafayette TN PD
 Lathrup Village MI PD
-Lawrence District Attorney PA
+Lawrence County District Attorney's Office PA
 Lee County IL SO
 Licking County OH SO
 Lincoln Park MI PD

@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,023,023
+1,018,295
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,289
+1,318
 
 Hotlists Alerted On
 
@@ -98,13 +98,13 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-11,359
+11,247
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
 Larceny/Theft Offenses
+Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
 Drugs/Narcotics
 Obstructing the Police (Fleeing/Eluding)
@@ -626,7 +626,6 @@ Calumet Park IL PD
 Cambridge City IN PD
 Camilla GA PD
 Canton IL PD
-Canton OH PD
 Carlyle IL PD
 Carmel IN PD
 Carroll County OH SO
@@ -641,7 +640,6 @@ Charter Township of Buena Vista MI PD
 Chateau Village (MI)
 Chatham County GA PD
 Cheatham County TN SO
-Chenoa IL PD
 Cherokee County GA SO
 Chester Township OH PD
 Chesterfield Twp MI PD
@@ -846,7 +844,7 @@ Lakewood OH PD
 Lansing IL PD
 LaSalle Co. IL SO - New
 Lathrup Village MI PD
-Lawrence District Attorney PA
+Lawrence County District Attorney's Office PA
 Lawrence IN PD
 Lebanon TN PD
 Lee County IL SO

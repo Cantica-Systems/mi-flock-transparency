@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-59,695
+61,828
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-51
+54
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -395,6 +395,7 @@ Florence Co. WI SO
 Florissant MO PD
 Flushing City MI PD
 Forest Park OH PD
+Forest View IL PD
 Fort Worth TX PD
 Frankenmuth MI PD - New Business
 Franklin IN PD
