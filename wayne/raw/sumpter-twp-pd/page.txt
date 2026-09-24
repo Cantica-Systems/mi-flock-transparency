@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,273
+11,181
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-14
+13
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-28
+26
 
 Sharing Network Data With
 
@@ -58,6 +58,7 @@ Adrian MI PD
 Adrian Township MI PD
 Albion MI DPS
 Allegan County SO MI
+Almont MI PD
 Alpena County MI SO
 Antrim County SO MI
 Armada MI PD
@@ -187,6 +188,7 @@ Ottawa County MI SO
 Pentwater MI PD
 Pittsfield Twp MI PD
 Plymouth MI PD
+Plymouth Township MI PD
 Pokagon Tribal MI PD
 Port Huron MI PD
 Portage MI PD

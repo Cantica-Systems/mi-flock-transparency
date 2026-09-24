@@ -5,7 +5,7 @@ Visit Flock
 Livonia MI PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -30,19 +30,19 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-642,680
+644,073
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-431
+493
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,946
+2,901
 Policy & Trust
 
 What's Detected
