@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-422,392
+421,489
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-179
+169
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,918
+6,937
 
 Sharing Network Data With
 
@@ -376,7 +376,6 @@ Campbell County VA SO
 Campton Hills IL PD
 Canfield OH PD
 Canton IL PD
-Canton OH PD
 Canton Township MI PD
 Cape Girardeau County MO SO
 Cape Girardeau MO PD
@@ -408,7 +407,6 @@ Cedar Bluff VA PD
 Cedar County IA SO
 Cedar Lake IN PD
 Cedar Rapids IA PD
-Cedarburg WI PD [Inactive]
 Cedartown GA PD
 Centerville IN PD
 Centerville OH PD
@@ -531,7 +529,6 @@ Colonial Beach VA PD
 Colquitt County GA SO
 Columbia County FL SO
 Columbia County WI SO
-Columbia Heights MN PD [Inactive]
 Columbus GA PD
 Columbus IN PD
 Columbus Regional Airport Authority OH PD
@@ -639,15 +636,6 @@ Dickinson County MI SO
 Dickson County TN SO
 Dickson TN PD
 Dixmoor IL PD
-DNU - Guernsey County OH SO
-DNU - Herculaneum MO PD (Condor)
-DNU - Muncie PD IN (Raven)
-DNU - Norris TN PD (FLEX)
-DNU - Salem TWP PA PD (RAVEN)
-DNU - Sweetwater TN PD (Flex)
-DNU - Vernon Hills PD (IL) Raven
-DNU Creston OH PD
-DNU PD
 Dodge City KS PD
 Dodge County WI SO
 Dolton IL PD
@@ -760,7 +748,6 @@ Fenton MI PD
 Ferdinand IN PD
 Ferguson MO PD
 Ferguson Township PA PD
-Ferndale MI PD [INACTIVE]
 Festus MO PD
 Findlay Township PA PD
 Fishers IN PD
@@ -793,7 +780,6 @@ Fort Thomas KY PD
 Fort Wayne IN PD
 Fort Worth TX PD
 Fortville IN PD
-Fox Chapel PA PD [Inactive]
 Fox Lake IL PD
 Fox Point WI PD
 Fox Valley IL Parks District
@@ -1177,7 +1163,6 @@ Kendallville IN PD
 Kenmore Village NY PD
 Kennesaw State University GA PD
 Kenosha County WI SO
-Kenosha WI PD
 Kent County MI SO
 Kent OH PD
 Kenton County KY SO
@@ -1262,10 +1247,10 @@ LaSalle Co. IL SO - New
 Lathrup Village MI PD
 Lauderdale County TN SO
 Lavon TX PD
+Lawrence County District Attorney's Office PA
 Lawrence County IL SO
 Lawrence County IN SO
 Lawrence County TN SO
-Lawrence District Attorney PA
 Lawrence IN PD
 Lawrenceburg KY PD
 Lea County NM SO
@@ -1303,7 +1288,6 @@ Lincoln Park MI PD
 Lincoln Township PD MI
 Lincoln University PD MO
 Lincolnshire IL PD
-Lincolnwood IL PD
 Linden IN PD
 Lindenhurst PD (IL)
 Lisle IL PD
@@ -1653,7 +1637,6 @@ New Madrid County MO SO
 New Paris OH PD
 New Richmond OH PD
 New Richmond WI PD
-New Sewickley TWP PA PD [Inactive]
 Newark OH PD
 Newburgh Heights OH PD
 Newport TN PD
@@ -1715,7 +1698,6 @@ Northlake IL PD
 Northville Twp MI PD
 Norton Shores MI PD
 Norwalk OH PD
-Norwalk OH PD - DNU
 Norwood OH PD
 Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
 Novi MI PD
@@ -1729,7 +1711,6 @@ Oak Creek WI PD
 Oak Forest IL PD
 Oak Grove KY PD
 Oak Lawn IL PD
-Oak Park IL PD [Inactive]
 Oak Park MI Dept of Public Safety
 Oak Ridge TN PD
 Oakbrook Terrace IL PD
@@ -1908,7 +1889,6 @@ Plainfield IN PD
 Plainfield Twp MI
 Plainview TN PD
 Pleasant Hill IA PD
-Pleasant Hills PA PD [Inactive]
 Pleasant Prairie WI PD
 Plover WI PD
 Plymouth MI PD
@@ -2022,7 +2002,6 @@ Robinson IL PD
 Robinson Township PA PD
 Rochester IL PD
 Rochester IN PD
-Rochester Township PA PD [Inactive]
 Rock County WI SO
 Rock Falls IL PD
 Rock Hill SC PD
@@ -2073,7 +2052,6 @@ Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
-Saginaw Valley State University PD (MI) [Inactive]
 Saint Clair Shores MI PD
 Saint Croix Falls MN PD
 Saint Croix Falls WI PD
@@ -2263,7 +2241,6 @@ Streetsboro OH PD
 Strongsville OH PD
 Struthers OH PD
 Sturgis MI PD
-Sturtevant WI PD [Inactive]
 Sturthers OH PD
 Sugar Mountain NC PD
 Sugarcreek Township OH PD
@@ -2348,7 +2325,6 @@ Troy MI PD
 Troy OH PD
 Trumbull County OH SO
 Tulsa County OK SO
-Tunica County MS SO [Inactive]
 Tuscarawas County OH SO
 Tuscola County MI SO
 Twiggs County GA SO
@@ -2526,7 +2502,6 @@ West Des Moines IA PD
 West Dundee IL PD
 West Hazleton PA PD
 West Hennepin MN Public Safety Department
-West Homestead PA PD [Inactive]
 West Lafayette IN PD
 West Mifflin PA PD
 West Milton OH PD
