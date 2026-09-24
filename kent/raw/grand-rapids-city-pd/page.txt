@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Wed Sep 23 2026
+Last updated: Thu Sep 24 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-506,205
+507,775
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,089
+1,057
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,648
+10,428
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1941,7 +1941,6 @@ Cedartown GA PD
 Centerville OH PD
 Centralia IL PD
 Chadbourn NC PD
-Chambers County TX SO
 Charleston IL PD
 Charleston MO DPS
 Charleston SC PD
@@ -2059,7 +2058,6 @@ Department of Natural Resources - GA
 Dickinson County MI SO
 Dickson County TN SO
 Dickson TN PD
-Dodge County GA SO
 Dolton IL PD
 Douglas County IL SO
 Douglas GA PD
@@ -2138,6 +2136,7 @@ Flushing City MI PD
 Folly Beach SC PD
 Forest City NC PD
 Forest Park OH PD
+Forest View IL PD
 Forsyth County GA SO
 Fort Loramie OH PD
 Fort Oglethorpe GA PD
@@ -2300,7 +2299,6 @@ Indiana Department of Corrections
 Indiana Department of Natural Resources
 Indiana State Police IN PD
 Indianapolis International Airport IN PD
-Indianapolis Metro PD IN
 Ingalls IN PD
 Inkster MI PD
 Iowa Department of Corrections

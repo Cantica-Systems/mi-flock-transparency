@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Wed Sep 23 2026
+Last updated: Thu Sep 24 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-656,398
+656,336
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-225
+222
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-14,907
+14,812
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -2159,7 +2159,6 @@ Marathon County WI SO
 Marion County OH SO
 Marion County WV SO
 Marion Health PD (IN)
-Marion IL PD
 Marion IN PD
 Markle IN PD
 Marquette County MI SO
