@@ -5,7 +5,7 @@ Visit Flock
 Muskegon MI PD
 Transparency Portal
 
-Last updated: Wed Sep 23 2026
+Last updated: Thu Sep 24 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-221,517
+221,089
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-73
+74
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,648
+3,637
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
