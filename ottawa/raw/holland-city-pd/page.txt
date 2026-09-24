@@ -6,7 +6,7 @@ Visit Flock
 Holland MI PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -42,6 +42,47 @@ Holland Department of Public Safety News
 2026- FSC was used in a multi-state fraud/identity theft investigation. Suspects rented U-haul vehicles to commit a variety of crimes. License plate information of the rented U-haul vehicles were obtained by detectives and the FSC system was used to locate the suspect vehicles in the Grand Rapids area. Suspects were arrested and several items of evidence were located inside the U-haul vehicles.
 
 2026 Detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. Detectives received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody.
+In the Michigan News
+MANCELONA, MI
+6/1/2026
+
+SEXUAL ASSAULT
+
+Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+LPR
+Read full story
+CLINTON TOWNSHIP, MI
+5/28/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+LPR
+Read full story
+JACKSON, MI
+5/25/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+LPR
+Read full story
+SILVER CREEK TOWNSHIP, MI
+5/21/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+LPR
+Read full story
+ORION TOWNSHIP, MI
+5/19/2026
+
+CARJACKING
+
+Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+LPR
+Read full story
 Data & Usage Summary
 
 Data Retention
@@ -60,7 +101,7 @@ Total Number of Plates searched by HPD
 
 Total user search sessions over the last 30 days.
 
-230
+233
 Top 5 Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -69,7 +110,7 @@ Weapons Offense (Guns/Shots Fired)
 Hit and Run/Car Accident
 Larceny/Theft Offenses
 Assault/Battery Offenses
-Assault/Battery Offenses (Domestic)
+Motor Vehicle Theft/Stolen
 Policy & Trust
 
 Holland City ALPR System
@@ -103,7 +144,7 @@ These Checks are case-driven and because a vehicle is associated with criminal a
 
 Each check requires justification by entering a complaint number and law enforcement reason for the check into the system. (Policy strictly limits to law enforcement only)
 
-Each check is completely tracked and able to be audited.
+Each check is completely tracked and able to be audited
 
 What the ALPR System Does Do
 
@@ -112,6 +153,17 @@ From January 1, 2026 through August 31, 2026 the percentage of searches in the s
 An extremely high percentage of information comes into the system and is automatically deleted after 30 days without ever being viewed by anyone.
 
 In addition, if you are not involved in any criminal activity- the chance of having your vehicle viewed drops to a substantially lower percentage.
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
 
 HPD ALPR Policy
 
@@ -133,18 +185,6 @@ Public Search Audit
 Download to view searches performed over the last 30 days.
 
 Download CSV
-SOC 2 Type II
-
-Independently audited controls covering security, availability, and confidentiality.
-
-ISO 27001
-
-Information security management aligned with international standards.
-
-Adherence to Key Privacy Principles
-
-Built to focus on data minimization, purpose limitation, and transparency.
-
 More Info
 
 Data Security
@@ -172,5 +212,121 @@ The Holland Police Department is accredited through the Michigan Law Enforcement
 Accreditation standards related to ALPR were recently updated. HPD already operates within these new standards.
 
 Our department will annually report our audit as a proof to meet the accreditation standards.
+
+ALPR Court Rulings on Fourth Amendment Challenges
+
+FEDERAL CASES
+
+FIFTH CIRCUIT
+
+United States v. Porter, 170 F.4th 381, 386 (5th Cir. 2026), petition for cert. filed, No. 26-5121, (U.S. July 20, 2026) (holding that use of an LPR, a system that provides only periodic observations of a vehicle on public streets and highways and not comprehensive tracking of an individual’s movements, “did not constitute a search, so no warrant was required”).
+
+NINTH CIRCUIT
+
+United States v. Yang, 958 F.3d 851, 862 (9th Cir. 2020) (Bey, J., concurring) (concluding that the ALPR query was not a search because it did not reveal the whole of the defendant’s movements).
+
+ELEVENTH CIRCUIT
+
+United States v. Wilcox, 415 F. App’x 990, 992 (11th Cir. 2011) (per curiam) (holding that motorists have no reasonable expectation of privacy in license plates exposed to public view).
+
+SIXTH CIRCUIT
+
+United States v. Ellison, 462 F.3d 557, 561 (6th Cir. 2006) (“[A] motorist has no reasonable expectation of privacy in the information contained on his license plate under the Fourth Amendment.”).
+
+TENTH CIRCUIT
+
+United States v. Matthews, 615 F.2d 1279, 1285 (10th Cir. 1980) (holding that motorists have no reasonable expectation of privacy in license plates exposed to public view)
+
+UNITED STATES DISTRICT COURTS
+
+KANSAS
+
+United States v. Oakes, No. 25-cr-40006, 2026 WL 1020818, at *8 (D. Kan. Apr. 15, 2026) (denying motion to suppress finding “no privacy interest in a license plate number and that license plate readers are outside Carpenter’s reach”).
+
+NORTH DAKOTA
+
+United States v. Lawrence, No. 3:22-CR-69, 2026 WL 765307, at *1-2 (D.N.D. Mar. 18, 2026) (denying motion to suppress and finding that use of ALPR data does not constitute a search under the Fourth Amendment).
+
+VIRGINIA
+
+Schmidt v. City of Norfolk, 819 F. Supp. 3d 492, 504-17 (E.D. Va.), appeal filed, No. 26-1227 (4th Cir. Feb. 26, 2026) (granting summary judgment, finding operation of 176 ALPR cameras located in seventy-five clusters does not constitute a search and distinguishing the “quality of the data collected here and that collected in Carpenter and Beautiful Struggle”).
+
+INDIANA
+
+United States v. Griffin, No. 1:24-CR-00190, 2025 WL 1474679, at *8-9 (S.D. Ind. May 22, 2025) (denying motion to suppress because no reasonable expectation of privacy and noting that defendant’s “movements were not tracked and this case does not rise to the level of the GPS tracker in Jones or the AIR Program in Leaders of a Beautiful Struggle”).
+
+PENNSYLVANIA
+
+Heller v. Brookhaven Borough, No. Civ. A. No. 25-5550, 2026 WL 381175, at *7-8 (E.D. Pa. Feb. 11, 2026) (dismissing § 1983 claim finding that “installation and general operation” of ALPR system does not constitute a Fourth Amendment search but finding that allegation that querying the system with no articulable law enforcement basis for doing so stated a viable claim for relief that survives a motion to dismiss).
+
+OLKAHOMA
+
+United States v. Schoggins, No. CR-25-189, 2026 WL 713083, at *4 (E.D. Okla. Jan. 28, 2026), report and recommendation adopted, No. 25-CR-189, 2026 WL 371256 (E.D. Okla. Feb. 10, 2026) (recommending denial of motion to suppress four months of ALPR data and finding that “[t]his Court does not perceive that the same expectation is afforded the reader information which provides historical location data on a public highway” as is afforded cell phone data).
+
+FLORIDA
+
+United States v. Floyd, 811 F. Supp. 3d 1345, 1348-50 (M.D. Fla. 2025) (denying motion to suppress and finding defendant “lacks a reasonable expectation of privacy in his license plate and in the information stored in the license plate reader systems”).
+
+ILLINOIS
+
+Scholl v. Illinois State Police, 776 F. Supp. 3d 701, 714-21 (N.D. Ill. 2025) (granting motion to dismiss, finding that ALPR scanning of license plates did not constitute a Fourth Amendment search, and upholding constitutionality of Illinois’s statewide ALPR program).
+
+OHIO
+
+United States v. Sturdivant, 786 F. Supp. 3d 1098, 1108-14 (N.D. Ohio 2025), appeal docketed, No. 26-3426 (6th Cir. May 12, 2026) (finding no reasonable expectation of privacy in the appearance of a vehicle or its license plate and distinguishing ALPR data, involving twenty-six images over six weeks, from the comprehensive tracking in Carpenter).
+
+NEBRASKA
+
+United States v. Jiles, No. 8:23-CR-98, 2024 WL 891956, at *19 (D. Neb. Feb. 29, 2024) (finding that accessing ALPR data was not a Fourth Amendment search because its limited volume and utility differed fundamentally from GPS and cell-site location information).
+
+ARIZONA
+
+Sidor v. Thornell, No. CV-25-08141, 2025 WL 3282976, at *8-11 (D. Ariz. Oct. 24, 2025), report and recommendation adopted, No. CV-25-08141, 2025 WL 3281746 (D. Ariz. Nov. 25, 2025) (denying habeas petition finding no reasonable expectation of privacy in cross-country trip that generated one ALPR image in 24 hours but noting that “the mere use of ALPRs is not yet a search in American law—though in a more developed record, or a future more rife with cameras, it might well be a search”).
+
+FLORIDA
+
+Schemel v. City of Marco Island Fla., No. 2:22-cv-79, 2025 WL 2958798, at *2-3 (M.D. Fla. Oct. 17, 2025), appeal docketed, No. 25-13913 (11th Cir. Nov. 6, 2026) (dismissing for failure to state Fourth Amendment claim because ALPRs are “hardly comparable” to the facts in Carpenter where “ALPRs do not track the whole of Plaintiffs’ physical movements—or anything analogous”).
+
+CALIFORNIA
+
+United States v. Rubin, 556 F. Supp. 3d 1123, 1129-30 (N.D. Cal. 2021) (finding that law enforcement’s access to historical ALPR data did not constitute a Fourth Amendment search because it did not provide a detailed log of the defendant’s movements).
+
+ILLINOIS
+
+United States v. Brown, No. 19 CR 949, 2021 WL 4963602, at *2-4 (N.D. Ill. Oct. 26, 2021) (denying motion to suppress because agents “did not conduct a search under the Fourth Amendment when they queried the automatic license plate reader databases”)
+
+STATE COURT CASES
+
+ARIZONA
+
+State v. Sidor, 558 P.3d 621, 629-32 (Ariz. Ct. App. 2024) (holding that ALPR database query, which was supported by reasonable suspicion and returned one photo of the defendant’s license plate, did not constitute an unconstitutional search where it produced only a limited snapshot of the vehicle’s travel).
+
+MASSACHUSETTS
+
+Commonwealth v. McCarthy, 142 N.E.3d 1090, 1101-06 (Mass. 2020) (holding that ALPR use did not invade a reasonable expectation of privacy because the limited network did not reveal the whole of the defendant’s movements or “the privacies of life”).
+
+PENNSYLVANIA
+Commonwealth v. Watkins, 304 A.3d 364, 369-72 (Pa. Super. Ct. 2023) (holding that there is no reasonable expectation of privacy in a license plate displayed in plain view and therefore use of a license plate reader was not a search).
+
+SOUTH CAROLINA
+
+State v. Faile, No. 2023-001055, 2026 WL 1894722, at *3-4 (S.C. Ct. App. July 1, 2026) (per curiam) (holding no privacy interest, and therefore no Fourth Amendment violation, in two license plate photos taken by Flock camera that “did not allow officers to obtain any intimate details related to Faile’s movements” where “the police did not use the Flock photos to track Faile’s location” and further noting that use of Flock was “comparable to searching . . . DMV records”).
+
+TEXAS
+
+Uhunmwangho v. State, No. 09-19-00119-CR, 2020 WL 1442640, at *6-9 (Tex. App. Mar. 25, 2020) (“The license plate displayed on a vehicle while traveling on a public roadway is not typically an area where a person has a reasonable expectation of privacy, and we conclude that taking a picture of a license plate displayed on a vehicle that is traveling on a public road would not be subject to Fourth Amendment protection nor would it constitute a search.”).
+
+VIRGINIA
+
+Robinson v. Commonwealth, 927 S.E.2d 822, 825-28 (Va. Ct. App. 2026) (holding that police use of a Flock ALPR database was not a Fourth Amendment search and emphasizing that the system captured publicly visible characteristics of vehicles traveling on public roads and did not continuously monitor the defendant’s movements).
+
+VIRGINIA
+
+Commonwealth v. Church, No. 0737-25-1, 2025 WL 2908089, at *2-4 (Va. Ct. App. Oct. 14, 2025) (reversing trial court finding that warrant was required to access Flock system comprising of 172 cameras because they “are not as intrusive as cell towers and aerial surveillance equipment. The camera images are of vehicles, not persons, and the only information collected—license plates and physical characteristics of the vehicle—is already publicly viewable to anyone who sees the vehicle on the street.”).
+
+WASHINGTON
+
+State v. Simonson, 36 Wash. App. 2d 1041, 2026 WL 242157, at *6-7 (2026) (reversing trial court suppression of ALPR data, holding that “[while the Flock system as a whole potentially provides broader tracking capabilities than an officer’s manual notation of a license plate, the amount of photographs taken of a license plate is inconsequential as, again, one does not have an expectation of privacy in their license plate while on public roadways”).
+Law enforcement remains committed to responsibly using ALPR in compliance with the Constitution and applicable federal and state laws. Law enforcement is also committed to preventing misuse of ALPR without preventing legitimate use.
 
 Provided by Flock Safety
