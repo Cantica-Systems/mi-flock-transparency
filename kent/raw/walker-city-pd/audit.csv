@@ -1,7 +1,4 @@
 "id","searchDate","networkCount","offenseType"
-"41a0e4c3-3df4-4edf-ae33-f9700fae4eda","2026-08-24T04:48:45.487Z","23","Motor Vehicle Theft/Stolen"
-"8592a9ea-acd2-4388-ba7c-212aee9940a8","2026-08-24T05:13:42.514Z","23","Financial Crime (Embezzlement/Fraud)"
-"ac06dea0-3e76-45bb-a16a-e9918165734c","2026-08-24T16:31:00.893Z","23","Arson"
 "ebec7740-9677-44c7-b504-ab0d6fd0de04","2026-08-26T01:50:38.797Z","23","Drugs/Narcotics"
 "0cfb19d0-d248-4efd-bee1-e2839fb59767","2026-08-26T14:24:05.689Z","5896","Stolen Property Offenses"
 "b1a22bbe-6c83-46d4-aacd-6087c5f98d11","2026-08-26T15:37:21.389Z","5893","Stolen Property Offenses"
@@ -61,3 +58,4 @@
 "f28d7e28-587f-4283-8396-c566c7dceba1","2026-09-18T21:03:10.598Z","23","Financial Crime (Embezzlement/Fraud)"
 "2e9f6d53-b7c5-419b-9797-73b98cd9f03f","2026-09-18T22:58:58.084Z","23","Assault/Battery Offenses"
 "d6705999-3e95-4ebe-afb8-2ddbb8e9100b","2026-09-22T17:30:08.083Z","6","Burglary/Breaking & Entering"
+"c2f6a5ca-3d4b-4d5f-864f-d0c88d6daa80","2026-09-23T11:03:07.006Z","2","Burglary/Breaking & Entering"

@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-656,336
+658,122
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-222
+232
 
 Hotlists Alerted On
 
@@ -112,16 +112,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-14,812
+14,656
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Motor Vehicle Theft/Stolen
-Assault/Battery Offenses (Domestic)
+Obstructing the Police (Fleeing/Eluding)
 Hit and Run/Car Accident
-Burglary/Breaking & Entering
 Larceny/Theft Offenses
+Burglary/Breaking & Entering
 
 Sharing Network Data With
 
@@ -863,7 +863,6 @@ Kent County MI SO
 Kenton County KY SO
 Kentwood MI PD
 Kettering OH PD
-Kewanee IL PD
 Kill Devil Hills NC PD
 Killeen TX PD
 Kingsport TN PD
@@ -2142,7 +2141,6 @@ Logansport IN PD
 Lorain County OH SO
 Loudon TN PD
 Louisville Airport PD
-Louisville Metro KY PD
 Louisville OH PD
 Loveland OH PD
 Lowell MI PD
@@ -2326,7 +2324,6 @@ Saginaw MI PD
 Saint Clair Shores MI PD
 Sangamon County IL SO
 Sarasota FL PD
-Sauk County WI SO
 Sauk Village IL PD
 Sawyer County WI SO
 Schoolcraft College MI PD
