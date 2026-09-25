@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-421,546
+421,643
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-169
+172
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,972
+7,007
 
 Sharing Network Data With
 
@@ -382,7 +382,6 @@ Cape Girardeau MO PD
 Carbondale IL PD
 Carlyle IL PD
 Carmel IN PD
-Carnegie Mellon University PA PD
 Carol Stream IL PD
 Carpentersville IL PD
 Carroll County GA SO
@@ -1168,7 +1167,6 @@ Kent OH PD
 Kenton County KY SO
 Kentwood MI PD
 Kettering OH PD
-Kewanee IL PD
 Kill Devil Hills NC PD
 Killeen TX PD
 Kingsford Heights IN PD
@@ -1889,7 +1887,6 @@ Plainfield IN PD
 Plainfield Twp MI
 Plainview TN PD
 Pleasant Hill IA PD
-Pleasant Prairie WI PD
 Plover WI PD
 Plymouth MI PD
 Plymouth MN PD
@@ -2485,7 +2482,6 @@ Wayne County Airport Authority MI
 Wayne County TN SO
 Wayne IL PD
 Waynesville NC PD
-Wayzata MN PD
 Weber City VA PD
 Webster Groves MO PD
 Wells County IN SO

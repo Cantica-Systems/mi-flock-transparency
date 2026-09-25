@@ -6,7 +6,7 @@ Visit Flock
 Kalamazoo MI PD
 Transparency Portal
 
-Last updated: Wed Sep 23 2026
+Last updated: Thu Sep 24 2026
 
 Overview
 
@@ -64,13 +64,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-296,500
+296,145
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,089
+1,056
 
 Hotlists Alerted On
 
@@ -82,7 +82,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,479
+7,477
 
 Sharing Network Data With
 
