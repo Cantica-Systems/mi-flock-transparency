@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-183,322
+187,596
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-60
+61
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,055
+1,087
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -493,7 +493,6 @@ Lexington KY PD
 Licking County OH SO
 Lincoln Park MI PD
 Livingston County IL SO
-Louisville Metro KY PD
 Louisville OH PD
 Loveland OH PD
 Lowell MI PD
@@ -623,7 +622,6 @@ Royal Oak MI PD
 Saginaw MI PD
 Sangamon County IL SO
 Sarasota FL PD
-Sauk County WI SO
 Sauk Village IL PD
 Sawyer County WI SO
 Schoolcraft College MI PD

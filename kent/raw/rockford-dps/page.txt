@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Fri Sep 25 2026
+Last updated: Sat Sep 26 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-66,021
+67,943
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-2
+0
 
 Hotlists Alerted On
 
@@ -89,12 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-56
-Top Offense Types
-
-Offense Types used for LPR searches in the last 30 days.
-
-Destruction/Damage/Vandalism of Property
+59
 
 Sharing Network Data With
 
