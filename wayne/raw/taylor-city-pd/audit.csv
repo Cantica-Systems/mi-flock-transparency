@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"6a763c64-c05d-4da6-9cfa-7d1d84c442bc","***","2026-08-29T11:29:31.317Z","1389","Missing/Endangered Person/Runaway"
 "b565b3b2-5aa4-4f7a-ab77-c39b6ca42bd0","***","2026-08-30T03:44:52.583Z","240","Assault/Battery Offenses"
 "4f64b124-7e05-4699-aff5-da707cd50d33","***","2026-08-30T13:00:01.742Z","240","Motor Vehicle Theft/Stolen"
 "b757febd-d8b1-42a9-a1ff-9e4cb7e8db12","***","2026-08-30T14:32:11.016Z","1388","Motor Vehicle Theft/Stolen"
@@ -373,3 +372,7 @@
 "62ed3d13-6bd4-4bc2-968e-86a8d4e05970","***","2026-09-27T21:43:25.296Z","1266","Assault/Battery Offenses (Domestic)"
 "b7449e7b-f2dd-4094-8da4-ab83eb40a61d","***","2026-09-27T21:47:50.308Z","1266","Assault/Battery Offenses"
 "bc5fd896-553c-413a-8a8c-5c75847ee1d0","***","2026-09-27T22:33:07.690Z","1266","Assault/Battery Offenses"
+"f1be28e8-caf9-4010-8a21-3b8891205299","***","2026-09-28T04:29:24.929Z","1266","Assault/Battery Offenses (Domestic)"
+"877c96c8-b6ba-4ecb-9522-12156b62dc62","***","2026-09-28T09:25:55.859Z","1266","Assault/Battery Offenses (Domestic)"
+"2e94dff8-d977-4971-a154-cd38e385e251","***","2026-09-28T20:24:06.938Z","1269","Wanted Person (Arrest Warrant/Fugitive)"
+"e8c5c5bc-8754-40de-863c-4769dd56721b","***","2026-09-28T23:51:38.215Z","1270","Missing/Endangered Person/Runaway"
