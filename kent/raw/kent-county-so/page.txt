@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Mon Sep 28 2026
+Last updated: Tue Sep 29 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,009,548
+996,494
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,241
+1,234
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-10,697
+10,520
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -843,6 +843,7 @@ LaGrange County SO IN
 Lake City FL PD
 Lake County OH SO
 Lakeland FL PD
+Lakemore OH PD
 Lakewood OH PD
 Lansing IL PD
 Laporte County IN SO
@@ -859,7 +860,6 @@ Ligonier IN PD
 Lima OH PD
 Lincoln Park MI PD
 Linden IN PD
-Lithopolis OH PD
 Little Rock AR PD
 Livingston County IL SO
 Lockland OH PD
