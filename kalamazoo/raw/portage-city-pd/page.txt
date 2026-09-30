@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Tue Sep 29 2026
+Last updated: Wed Sep 30 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-420,645
+421,688
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-164
+166
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,682
+6,663
 
 Sharing Network Data With
 
@@ -774,7 +774,6 @@ Forrest County MS SO
 Fort Loramie OH PD
 Fort Oglethorpe GA PD
 Fort Pierce FL PD
-Fort Thomas KY PD
 Fort Wayne IN PD
 Fort Worth TX PD
 Fortville IN PD
@@ -846,7 +845,6 @@ Georgetown IN PD
 Georgetown KY PD
 Georgia Dept. of Corrections Intelligence Unit (GA)
 Germantown TN PD
-Germantown WI PD
 Giles County TN SO
 Giles County VA SO
 Glasford IL PD
@@ -1812,7 +1810,6 @@ Palmyra MO PD
 Palos Heights IL PD
 Palos Hills IL PD
 Palos Park IL PD
-Panama City Beach FL PD
 Paoli IN PD
 Paradise Valley AZ PD
 Paris IL PD
@@ -1954,7 +1951,6 @@ Redford Twp MI PD
 Reedsburg WI PD
 Regional Vehicle Burglary Suppression Taskforce TX
 Reminderville OH PD
-Republic MO PD
 Reynoldsburg OH PD
 Rhea County TN SO
 Rhodhiss NC PD
