@@ -1,5 +1,4 @@
 "id","searchDate","networkCount","offenseType"
-"2d8264d2-8a5e-4505-a012-99ed4a506154","2026-08-29T21:47:51.164Z","23","Larceny/Theft Offenses"
 "fbad1682-8f6b-4e95-add7-612014dda8a3","2026-08-30T00:31:22.852Z","1","Larceny/Theft Offenses"
 "af54172c-2177-4a90-b169-620ade8b734d","2026-08-30T23:29:53.976Z","23","Weapons Offense (Guns/Shots Fired)"
 "b2d8c19c-a544-4eca-a16a-86eabca9cb40","2026-08-31T03:02:52.909Z","14","Hit and Run/Car Accident"
@@ -62,3 +61,4 @@
 "4774cafe-3eea-4b0e-a56f-6aef5807e09a","2026-09-26T23:07:30.601Z","23","Assault/Battery Offenses (Domestic)"
 "95ccf8ab-2f25-4936-a504-89d63c642e79","2026-09-27T07:51:59.697Z","2","Financial Crime (Embezzlement/Fraud)"
 "ae838b8b-5394-4aed-9b6e-cc18a4b0fd2c","2026-09-27T23:13:01.747Z","23","Hit and Run/Car Accident"
+"15ea124d-01f7-4fb1-9add-5025300e45dc","2026-09-28T04:42:31.244Z","23","Financial Crime (Embezzlement/Fraud)"

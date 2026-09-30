@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Mon Sep 28 2026
+Last updated: Tue Sep 29 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-206,916
+213,547
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,126
+1,144
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -287,7 +287,6 @@ Adrian MI PD
 Albion MI DPS
 Allegan County SO MI
 Almont MI PD
-Antigo WI PD
 Antrim County SO MI
 Armada MI PD
 Auburn Hills MI PD
