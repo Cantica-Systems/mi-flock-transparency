@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-650,917
+648,857
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-227
+234
 
 Hotlists Alerted On
 
@@ -112,13 +112,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-13,586
+13,323
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
+Motor Vehicle Theft/Stolen
 Assault/Battery Offenses
 Larceny/Theft Offenses
 Burglary/Breaking & Entering
@@ -265,6 +265,7 @@ Branson MO PD
 Breckinridge County KY SO
 Bremen IN PD
 Brentwood MO PD
+Brewster OH PD
 Bridgeport Township MI PD
 Bridgeton MO PD
 Bridgeview IL PD
@@ -512,7 +513,6 @@ East Liverpool OH PD
 East Moline IL PD
 East Peoria IL PD
 Eastern Adams Regional PA PD
-Eastlake OH PD
 Eastpointe MI PD
 Eaton OH PD
 Eaton Rapids MI PD
@@ -896,7 +896,6 @@ Lake Delton WI PD
 Lake Forest IL PD
 Lake Geneva WI PD
 Lake In The Hills IL PD
-Lake Mills WI PD
 Lake St. Louis MO PD
 Lake Villa IL PD
 Lake Zurich IL PD
@@ -1603,7 +1602,6 @@ Tipp City OH PD
 Tippecanoe County IN SO
 Tipton IA PD
 TN ROCIC
-Toledo OH PD
 Tomah WI PD
 Tompkinsville KY PD
 Tonawanda Town NY PD
@@ -1869,7 +1867,6 @@ Braidwood IL PD
 Brecksville OH PD
 Breese IL PD
 Bridgeport Township MI PD
-Broadview Heights OH PD
 Brook Park OH PD
 Brookfield WI PD
 Broome CO NY SO
@@ -1943,7 +1940,6 @@ Douglas County IL SO
 Dubois County IN SO
 DuPage County IL SO
 East Lansing MI PD
-Eastpointe MI PD
 Eaton Rapids MI PD
 Eau Claire County WI SO
 Ecorse MI PD
@@ -2264,8 +2260,6 @@ Perrysburg Twp OH PD
 Peru IL PD
 Phelps County MO SO
 Pittsboro IN PD
-Pittsfield IL PD
-Plainfield IL PD
 Plainfield IN PD
 Plainview TN PD
 Plover WI PD

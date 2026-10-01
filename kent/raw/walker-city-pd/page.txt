@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Tue Sep 29 2026
+Last updated: Wed Sep 30 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-213,547
+220,117
 
 Number of Searches
 
@@ -89,16 +89,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,144
+1,139
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
 Financial Crime (Embezzlement/Fraud)
-Weapons Offense (Guns/Shots Fired)
 Motor Vehicle Theft/Stolen
 Burglary/Breaking & Entering
+Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -240,7 +240,6 @@ Saginaw MI PD
 Saint Clair Shores MI PD
 Schoolcraft College MI PD
 Shelby Township MI PD
-South Lyon MI PD
 Southfield MI PD
 Spring Arbor MI PD
 Springport Twp MI PD

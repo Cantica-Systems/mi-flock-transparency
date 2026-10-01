@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-76,616
+77,721
 
 Number of Searches
 
@@ -267,7 +267,6 @@ Schoolcraft College MI PD
 Shelby County KY SO
 Shelby Township MI PD
 South Bend IN PD
-South Lyon MI PD
 Southfield MI PD
 Spring Arbor MI PD
 Springport Twp MI PD
@@ -369,7 +368,6 @@ Dickson TN PD
 Dolton IL PD
 DuPage County IL SO
 East Lansing MI PD
-Eastpointe MI PD
 Eaton Rapids MI PD
 Ecorse MI PD
 Elizabethtown KY PD
@@ -534,7 +532,6 @@ Perkins Township OH PD
 Perrysburg OH PD
 Perrysburg Twp OH PD
 Pittsboro IN PD
-Plainfield IL PD
 Pokagon Tribal MI PD
 Port Clinton OH PD
 Port Huron MI PD

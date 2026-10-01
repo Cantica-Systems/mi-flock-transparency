@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -81,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-119,695
+119,711
 
 Number of Searches
 
@@ -285,7 +285,6 @@ Schoolcraft College MI PD
 Seymour IN PD
 Shelby County KY SO
 Shelby Township MI PD
-South Lyon MI PD
 Southfield MI PD
 Spring Arbor MI PD
 Springport Twp MI PD
