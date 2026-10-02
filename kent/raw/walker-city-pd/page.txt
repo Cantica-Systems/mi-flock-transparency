@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-220,117
+224,316
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-63
+55
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,139
+1,159
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -98,7 +98,7 @@ Larceny/Theft Offenses
 Financial Crime (Embezzlement/Fraud)
 Motor Vehicle Theft/Stolen
 Burglary/Breaking & Entering
-Hit and Run/Car Accident
+Weapons Offense (Guns/Shots Fired)
 
 Sharing Network Data With
 
@@ -281,7 +281,6 @@ Receiving Network Data From
 Organizations sharing their data with Walker MI PD.
 
 [Federal] Indiana Dunes National Park IN PD
-[Federal] US Postal Inspection Service
 Adrian MI PD
 Albion MI DPS
 Allegan County SO MI
@@ -302,7 +301,6 @@ Bloomfield Twp MI PD
 Bradley IL PD
 Braidwood IL PD
 Breese IL PD
-Broadview Heights OH PD
 Brookfield WI PD
 Brownstown Twp PD MI
 Bullitt County KY SO
@@ -352,7 +350,6 @@ Dolton IL PD
 Douglas County IL SO
 Dubois County IN SO
 DuPage County IL SO
-Eastpointe MI PD
 Eaton Rapids MI PD
 Eau Claire County WI SO
 Ecorse MI PD
@@ -582,7 +579,6 @@ Perrysburg OH PD
 Perrysburg Twp OH PD
 Peru IL PD
 Pittsboro IN PD
-Plainfield IL PD
 Plainfield IN PD
 Plainview TN PD
 Plover WI PD

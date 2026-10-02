@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Thu Oct 01 2026
+Last updated: Fri Oct 02 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-648,857
+644,452
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-234
+230
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-13,323
+13,081
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -2205,7 +2205,6 @@ Napoleon Twp MI PD
 New Albany IN PD
 New Baltimore MI PD
 New Chicago IN PD
-New Haven IN PD
 New Paris OH PD
 Newark OH PD
 Niagara County NY SO

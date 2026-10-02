@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Thu Oct 01 2026
+Last updated: Fri Oct 02 2026
 
 Overview
 
@@ -80,7 +80,7 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-985,427
+980,577
 
 Number of Searches
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-10,188
+9,986
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -107,7 +107,7 @@ Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
-Drugs/Narcotics
+Destruction/Damage/Vandalism of Property
 
 Sharing Network Data With
 
@@ -629,7 +629,6 @@ Bourbonnais IL PD
 Bradley IL PD
 Bridgeport Township MI PD
 Bristol IN PD
-Broadview Heights OH PD
 Brookhaven GA PD
 Brookville NY PD
 Brownstown Twp PD MI
@@ -705,7 +704,6 @@ Dunwoody GA PD
 DuPage County IL SO
 East Peoria IL PD
 Eastlake OH PD
-Eastpointe MI PD
 Eaton Rapids MI PD
 Ecorse MI PD
 Edinburgh IN PD
@@ -869,6 +867,7 @@ LaSalle Co. IL SO - New
 Lathrup Village MI PD
 Lawrence County District Attorney's Office PA
 Lawrence IN PD
+Lebanon IN PD
 Lebanon TN PD
 Lee County IL SO
 Lexington KY PD
@@ -1026,7 +1025,6 @@ Perrysburg Twp OH PD
 Peru IL PD
 Peru IN PD
 Pittsboro IN PD
-Plainfield IL PD
 Plymouth PD IN
 Pokagon Tribal MI PD
 Polk County FL SO
@@ -1287,8 +1285,6 @@ Capture any kind of audio whether inside or outside of a vehicle
 
 
 Kent County Sheriff's Office Use Policy
-
-The Kent County Sheriff’s Office is aware of recent changes to Flock’s data retention periods, network configuration, and other system functions. The Sheriff’s Office is conducting a comprehensive review of its related policies and procedures to ensure continued alignment with current system capabilities, operational needs, and established safeguards. Any necessary revisions will be completed no later than October 1, 2026.
 
 https://public.powerdms.com/KentMI/list
 
