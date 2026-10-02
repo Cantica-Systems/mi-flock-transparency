@@ -1,0 +1,9 @@
+id,userId,searchDate,networkCount,offenseType
+abee3a64-7ed5-4f8c-9289-433e2df2f419,***,2026-10-01T13:58:32.960Z,2,Homicide/Death Investigation
+6335734a-2297-47f4-9e89-f4a67ff7ed48,***,2026-10-01T14:04:49.140Z,1262,Homicide/Death Investigation
+9bfac930-5a3b-4640-b1c9-4176c58a848b,***,2026-10-01T16:00:32.536Z,237,Motor Vehicle Theft/Stolen
+d99fceff-c3e1-4a99-b330-12cb972031b3,***,2026-10-01T17:36:11.123Z,3,Destruction/Damage/Vandalism of Property
+a2447841-c71a-4157-a1d7-f475188572c5,***,2026-10-01T18:09:21.965Z,2,Destruction/Damage/Vandalism of Property
+c7f76a29-ad49-4dba-8fe4-ff19c5c948f3,***,2026-10-01T18:23:31.548Z,236,Obstructing the Police (Fleeing/Eluding)
+5116a862-534d-4fd9-9535-25f33e0a86d1,***,2026-10-01T18:52:32.688Z,1256,Wanted Person (Arrest Warrant/Fugitive)
+931d466a-bebb-48a4-80a0-078fb2c70cf4,***,2026-10-01T19:00:46.495Z,1256,Wanted Person (Arrest Warrant/Fugitive)
