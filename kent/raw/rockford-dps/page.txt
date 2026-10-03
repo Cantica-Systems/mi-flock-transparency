@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Fri Oct 02 2026
+Last updated: Sat Oct 03 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-78,209
+79,621
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-70
+71
 
 Sharing Network Data With
 
@@ -511,7 +511,6 @@ Muskegon Township MI PD (Muskegon County)
 Napoleon Twp MI PD
 New Baltimore MI PD
 New Chicago IN PD
-New Haven IN PD
 Northbrook IL PD
 Northville Twp MI PD
 Norton Shores MI PD

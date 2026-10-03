@@ -1,0 +1,76 @@
+id,userId,searchDate,networkCount,offenseType
+81e5f3e7-4c7b-4074-973c-6a25c705e53e,***,2026-10-01T00:10:21.108Z,1380,Welfare Check
+1c15575b-fab3-41d6-8b31-7b070139b8b7,***,2026-10-01T00:28:31.740Z,1339,Drugs/Narcotics
+305f84ee-816d-4774-ae99-848447ad51bf,***,2026-10-01T00:47:53.956Z,1,Weapons Offense (Guns/Shots Fired)
+41d0530a-779c-46cd-adbd-daf1bc29f207,***,2026-10-01T01:04:40.797Z,1,Weapons Offense (Guns/Shots Fired)
+d98e7a59-33a5-43f0-b1ae-78761d0bb100,***,2026-10-01T01:29:55.482Z,1338,Assault/Battery Offenses
+de1a7f78-498c-45c7-864b-642635cacdac,***,2026-10-01T01:30:04.381Z,1,Weapons Offense (Guns/Shots Fired)
+9bc06bb5-07e0-40c9-b337-c4059e7b0c9f,***,2026-10-01T01:33:18.814Z,1,Weapons Offense (Guns/Shots Fired)
+006e06f5-197d-4c59-a8af-64466f7bceb6,***,2026-10-01T01:44:34.952Z,1,Weapons Offense (Guns/Shots Fired)
+453333fb-fc4d-4aaf-a61b-ca35ac275603,***,2026-10-01T01:44:48.965Z,1341,Weapons Offense (Guns/Shots Fired)
+c8d9d854-88f5-4db9-b26f-b7fd15bd9cd7,***,2026-10-01T01:59:08.658Z,1339,Drugs/Narcotics
+b8ae24fb-10ad-4ddb-a3e6-6d64a4be0376,***,2026-10-01T02:03:54.639Z,1387,Weapons Offense (Guns/Shots Fired)
+bdcfcf8f-4d5d-439b-aa19-08eec909b303,***,2026-10-01T02:25:08.284Z,1341,Weapons Offense (Guns/Shots Fired)
+ab7c132b-5186-4d8c-8934-82b57b4e5ff7,***,2026-10-01T02:54:56.312Z,1,Assault/Battery Offenses
+facb84bc-3d31-480a-ab4e-209603bbccf8,***,2026-10-01T03:08:38.340Z,1329,Prostitution
+55de1921-98b2-4a02-81c3-d69a5d0afff0,***,2026-10-01T04:46:40.605Z,1,Wanted Person (Arrest Warrant/Fugitive)
+4f628947-e04e-4882-97b3-d8c66918faff,***,2026-10-01T05:47:05.983Z,1342,Motor Vehicle Theft/Stolen
+f440d06d-8f62-4199-94b9-5f88b5061340,***,2026-10-01T06:41:11.499Z,1,Motor Vehicle Theft/Stolen
+fd0d9e0c-fa84-4997-837f-2e976807a3d4,***,2026-10-01T06:42:02.119Z,1,Wanted Person (Arrest Warrant/Fugitive)
+7b87e7be-163f-4592-92c5-96a7e6d7e517,***,2026-10-01T10:55:27.318Z,1385,Drugs/Narcotics
+36f90677-f32c-49c3-8685-c3763dbe23e7,***,2026-10-01T12:30:07.844Z,1340,Motor Vehicle Theft/Stolen
+4eac99cf-c490-4b8c-8569-0f6196c4cebc,***,2026-10-01T14:16:23.151Z,240,Motor Vehicle Theft/Stolen
+0233126c-837c-4770-b461-1e3d07a53f99,***,2026-10-01T14:18:20.469Z,1381,Drugs/Narcotics
+39720a14-f4f9-48fe-8899-cf328585dd03,***,2026-10-01T14:19:39.205Z,1384,Motor Vehicle Theft/Stolen
+3657e60a-fb99-4d4b-9865-305bcecc8490,***,2026-10-01T14:45:37.234Z,1382,Sex Offenses
+55c3dfa5-544b-49ce-8030-02812dc3a037,***,2026-10-01T15:11:26.825Z,6,Wanted Person (Arrest Warrant/Fugitive)
+a2ca12ef-820a-4b3a-ad4f-e826ce530174,***,2026-10-01T15:21:59.822Z,1384,Wanted Person (Arrest Warrant/Fugitive)
+44fa7c17-4c7a-4e5f-8fb9-27ea5ec3c381,***,2026-10-01T15:31:58.003Z,1,Motor Vehicle Theft/Stolen
+a5f949d8-679d-496b-af8b-f76191d12d5c,***,2026-10-01T15:43:43.094Z,1381,Drugs/Narcotics
+e13de6c7-0aa0-47d8-bd49-af290b5efa4b,***,2026-10-01T15:57:14.243Z,1381,Drugs/Narcotics
+af8f762a-a7cf-45a4-84aa-176f722a00d3,***,2026-10-01T16:06:27.144Z,1381,Drugs/Narcotics
+b742e963-b0e5-41b4-9caa-51f3fbfdaaf7,***,2026-10-01T16:16:51.800Z,1,Motor Vehicle Theft/Stolen
+d8ca6275-8bd5-4a4b-ad0b-52c11e0ef554,***,2026-10-01T18:51:17.191Z,1379,Drugs/Narcotics
+ea61f938-acf6-479e-b539-5f56fbf79b39,***,2026-10-01T18:51:47.347Z,10,Weapons Offense (Guns/Shots Fired)
+2bcdcbc5-541d-4b95-986d-1445af6e24a5,***,2026-10-01T19:12:07.068Z,1335,Weapons Offense (Guns/Shots Fired)
+7da1a9ed-a4c0-4805-9413-e1dd2cea8f36,***,2026-10-01T19:16:54.571Z,1379,Drugs/Narcotics
+dbc90d2e-9790-49df-b06f-0376ade104aa,***,2026-10-01T19:19:33.457Z,10,Weapons Offense (Guns/Shots Fired)
+f4f6b881-7e6c-4096-9a6b-3ca4eb779853,***,2026-10-01T20:00:48.570Z,1379,Drugs/Narcotics
+ecb34140-42f8-4b11-b9fc-e43e55d5b2d4,***,2026-10-01T21:34:47.521Z,1379,Drugs/Narcotics
+2a1f67dc-e73a-4573-8938-f6835ad8e1aa,***,2026-10-01T22:07:15.748Z,239,Drugs/Narcotics
+0afa1216-0481-423f-a3c8-51ab94a0ae23,***,2026-10-01T23:16:55.721Z,1382,Wanted Person (Arrest Warrant/Fugitive)
+23199f33-bb4d-400f-82fe-3eb3cae35d7c,***,2026-10-01T23:27:21.762Z,239,Drugs/Narcotics
+723e7efa-ae84-4ac4-a60e-926e8a914a38,***,2026-10-01T23:48:58.220Z,1,"Assault/Battery Offenses (Domestic), Weapons Offense (Guns/Shots Fired)"
+2a11a6c2-b47f-4d40-8752-77f02afdbb1b,***,2026-10-02T00:04:25.504Z,1,"Assault/Battery Offenses (Domestic), Weapons Offense (Guns/Shots Fired)"
+5bc681c3-2f81-4e5b-96b5-4c7aa00c502d,***,2026-10-02T00:27:09.691Z,1333,Drugs/Narcotics
+6fa56407-23fe-4034-aed2-9c4edebb0bfe,***,2026-10-02T01:06:16.416Z,239,Drugs/Narcotics
+c568c9ac-2b37-47bb-9d01-9aac35d15cd8,***,2026-10-02T01:09:03.982Z,6,Wanted Person (Arrest Warrant/Fugitive)
+be0b6824-7f53-4f0f-85d3-d149dd5fd7e7,***,2026-10-02T01:22:15.859Z,1333,Drugs/Narcotics
+e2d71826-6bcc-4c18-aa65-ef7b54473c81,***,2026-10-02T02:50:10.298Z,6,Wanted Person (Arrest Warrant/Fugitive)
+29b90040-2644-4b76-a4d8-428962e21cf6,***,2026-10-02T03:39:19.463Z,1,Wanted Person (Arrest Warrant/Fugitive)
+bf05d4c1-8699-4279-95ff-00bde3b88618,***,2026-10-02T06:20:21.803Z,6,Wanted Person (Arrest Warrant/Fugitive)
+57921a80-65c4-49b2-bbe5-a75333dbb362,***,2026-10-02T11:17:28.936Z,1333,Drugs/Narcotics
+2e44265c-1234-4173-8998-1766975879dd,***,2026-10-02T11:26:51.700Z,239,Motor Vehicle Theft/Stolen
+ffefecc4-f8de-4c44-9b1f-b3758534f7fc,***,2026-10-02T11:40:49.210Z,1,Weapons Offense (Guns/Shots Fired)
+e57e0b82-0e6c-41ad-a3dc-bb0fde3cb60c,***,2026-10-02T12:21:37.492Z,239,Drugs/Narcotics
+0913ffac-5947-421b-b77a-802847d58e46,***,2026-10-02T13:37:16.654Z,10,Weapons Offense (Guns/Shots Fired)
+89b95180-f1e0-4346-bab8-832eaf998cef,***,2026-10-02T15:15:14.629Z,5,Obstructing the Police (Fleeing/Eluding)
+6b2ff7bb-ec46-4232-8c27-e90c2a95e8a0,***,2026-10-02T15:44:06.128Z,1381,Motor Vehicle Theft/Stolen
+651ce1dd-831e-4d76-aace-7e9fbd19a362,***,2026-10-02T15:49:09.395Z,1381,Motor Vehicle Theft/Stolen
+6ca285a1-3861-4049-adb7-64d470ed973a,***,2026-10-02T15:49:43.038Z,1381,Motor Vehicle Theft/Stolen
+ee71fbe8-85ab-419b-a35c-e9e4d8f3bdb4,***,2026-10-02T15:50:41.204Z,1335,Motor Vehicle Theft/Stolen
+f62b5629-9924-492b-9e63-da7500f4166b,***,2026-10-02T15:52:21.394Z,6,Motor Vehicle Theft/Stolen
+7557f241-ae17-442e-9672-6252d3926615,***,2026-10-02T16:00:31.483Z,1381,Motor Vehicle Theft/Stolen
+f70b1887-4a41-434d-a356-7e1738509e8f,***,2026-10-02T16:05:47.900Z,23,Motor Vehicle Theft/Stolen
+7b5f7c72-12bc-4c64-a939-1b4c12b67cf0,***,2026-10-02T16:08:39.216Z,6,Motor Vehicle Theft/Stolen
+3199f6a1-14ea-4b98-8847-586ac55e2121,***,2026-10-02T16:13:14.355Z,239,Drugs/Narcotics
+73967074-167a-4763-abb3-5f747e1e4bf8,***,2026-10-02T16:19:22.059Z,1381,Motor Vehicle Theft/Stolen
+fb7d21c7-b492-4fc8-b65e-1f69ca6b5e08,***,2026-10-02T17:01:04.397Z,1381,Motor Vehicle Theft/Stolen
+91b16d9c-e831-4f1e-944f-85fd7257a137,***,2026-10-02T17:08:21.559Z,1381,Motor Vehicle Theft/Stolen
+81c32984-c909-45ed-a287-bf6981f64303,***,2026-10-02T17:17:39.129Z,1381,Wanted Person (Arrest Warrant/Fugitive)
+7896963e-887d-472b-a29f-861b08730cf6,***,2026-10-02T17:22:14.365Z,239,Drugs/Narcotics
+8bfad940-b6e2-425b-80d3-2846727b6381,***,2026-10-02T18:14:34.283Z,239,Drugs/Narcotics
+817a99ed-a413-4633-aafb-fb828538a8fe,***,2026-10-02T19:13:30.868Z,239,Drugs/Narcotics
+7e86c9d3-b0d2-4610-b025-0deec9c83864,***,2026-10-02T19:42:55.932Z,1381,Motor Vehicle Theft/Stolen
+ca239f9f-ab8e-4335-b947-31c91db24de6,***,2026-10-02T21:42:24.647Z,23,Assault/Battery Offenses (Domestic)
+ba99e602-1d87-49d6-95a0-fcb93f9511ee,***,2026-10-02T22:41:31.744Z,1381,Wanted Person (Arrest Warrant/Fugitive)
