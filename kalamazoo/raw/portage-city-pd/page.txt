@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Fri Oct 02 2026
+Last updated: Sat Oct 03 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-421,912
+423,854
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-161
+156
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,632
+6,527
 
 Sharing Network Data With
 
@@ -125,7 +125,6 @@ Altoona IA PD
 Altoona WI PD
 Alvin TX PD
 Amberley Village OH PD
-Amery WI PD
 Amherst County VA SO
 Amherst OH PD
 Amherst Town NY PD
@@ -1359,7 +1358,6 @@ Mansfield OH PD
 Mansfield TX PD
 Manteno IL PD
 Maple Bluff WI PD
-Maple Grove MN PD
 Maple Heights OH PD
 Maplewood MO PD
 Mar Mac IA PD

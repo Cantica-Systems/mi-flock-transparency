@@ -1,0 +1,22 @@
+id,userId,searchDate,networkCount,offenseType
+b22ce8fd-4fdd-4f9b-93bc-bcb07620a528,***,2026-10-01T02:01:53.450Z,146,Motor Vehicle Theft/Stolen
+dc2d96ec-99ba-444f-92bf-115a17714ed9,***,2026-10-01T04:34:38.175Z,146,Drugs/Narcotics
+dfc1dc97-fa14-4a99-a4e3-4c130ff52ae6,***,2026-10-01T05:49:11.589Z,146,Weapons Offense (Guns/Shots Fired)
+a3bffe5f-7005-41be-bacb-de330660c78f,***,2026-10-01T06:08:14.930Z,146,Weapons Offense (Guns/Shots Fired)
+3f9a36c8-7fd0-4321-b473-0bcc7b11475d,***,2026-10-01T06:19:42.136Z,722,"Assault/Battery Offenses (Domestic), Wanted Person (Arrest Warrant/Fugitive)"
+470366bb-8ea7-4ee1-95c0-7ed63dcde01c,***,2026-10-01T07:03:33.806Z,3,"Assault/Battery Offenses (Domestic), Wanted Person (Arrest Warrant/Fugitive)"
+332e7e19-ec2a-42aa-b686-127545ac1231,***,2026-10-01T07:09:33.780Z,144,Obstructing the Police (Fleeing/Eluding)
+1dba6b98-cd96-46cc-9159-6b95a85dff5f,***,2026-10-01T07:23:58.350Z,3,Obstructing the Police (Fleeing/Eluding)
+2de3641d-2d8e-4636-a405-4c0c535fc8a8,***,2026-10-01T07:32:23.698Z,721,Obstructing the Police (Fleeing/Eluding)
+9fe415d9-26ba-4df1-8046-894fe186b9e6,***,2026-10-01T08:44:13.551Z,144,Obstructing the Police (Fleeing/Eluding)
+b1d38333-865e-41b4-92bb-d7eb000a2ff1,***,2026-10-01T09:02:48.433Z,144,Obstructing the Police (Fleeing/Eluding)
+62d32dd7-4572-434c-9b49-8d148f8343e0,***,2026-10-01T13:06:44.985Z,733,Motor Vehicle Theft/Stolen
+64132433-b55d-41fe-92df-193cf6905f55,***,2026-10-01T13:58:49.357Z,1,Homicide/Death Investigation
+9c4a8001-3d71-4e45-9185-6b5292295e45,***,2026-10-01T14:01:07.913Z,1,Homicide/Death Investigation
+1760652b-2d85-4510-80a7-42581554da57,***,2026-10-01T14:02:20.087Z,729,Weapons Offense (Guns/Shots Fired)
+482ee38b-19cf-45e7-95c2-59622e5c8aa8,***,2026-10-01T15:55:35.360Z,728,Weapons Offense (Guns/Shots Fired)
+6316fd3d-55dc-47a9-a213-113cf2585d8c,***,2026-10-01T16:29:51.105Z,941,City Planning/Traffic Analysis
+47a3cd8d-e7b9-499f-8f84-66e69bde3bc0,***,2026-10-01T16:30:30.169Z,144,Larceny/Theft Offenses
+5666d15a-a581-4eb7-a6ec-9e29bd870e3c,***,2026-10-01T17:55:48.544Z,728,Weapons Offense (Guns/Shots Fired)
+cba81c86-2f82-4aed-b813-87669b0d81c9,***,2026-10-01T18:01:19.847Z,731,Motor Vehicle Theft/Stolen
+576b63e5-1ec0-48da-8582-6eb7a0d0d7ce,***,2026-10-01T19:31:25.564Z,715,Weapons Offense (Guns/Shots Fired)
