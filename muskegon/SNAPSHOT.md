@@ -1,10 +1,10 @@
 # Muskegon County Flock snapshots
 
-Last updated: 2026-10-02 20:03 UTC
+Last updated: 2026-10-03 20:04 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| [Muskegon MI PD](data/muskegon-city-pd/) | Fri Oct 02 2026 | 22 | 209,388 | 58 | 3,419 | — | — | 2 |
+| [Muskegon MI PD](data/muskegon-city-pd/) | Sat Oct 03 2026 | 22 | 208,902 | 57 | 3,356 | — | — | 1 |
 
 Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
 Share lists are the current portal snapshot; `git log -p` is the history.
