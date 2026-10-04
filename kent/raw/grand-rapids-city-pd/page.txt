@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Sat Oct 03 2026
+Last updated: Sun Oct 04 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-522,020
+522,708
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-901
+867
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8,643
+8,452
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -132,7 +132,7 @@ Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
 Drugs/Narcotics
 Obstructing the Police (Fleeing/Eluding)
-Weapons Offense (Guns/Shots Fired)
+Missing/Endangered Person/Runaway
 
 Sharing Network Data With
 
@@ -2836,3 +2836,382 @@ Traverse City MI PD
 Treasure Island FL PD
 Trenton IL PD
 Trenton PD MI
+Trotwood OH PD
+Trousdale County TN SO
+Troy MI PD
+Truesdale MO PD
+Truett McConnell University GA Campus PD
+Turner County GA SO
+Tuscarawas County OH SO
+Tuscola County MI SO
+Twiggs County GA SO
+Twinsburg OH PD
+TX - Vidor PD
+Tybee Island GA PD
+Union County GA SO
+Union County KY SO
+Union County NC SO
+Union County SC SO
+Union Township PD (Clermont Co) - OH
+University Circle OH PD
+University Heights OH PD
+University of Louisville KY PD
+Upson County GA SO
+Utica MI PD
+Valparaiso IN PD
+Van Buren MI PD
+Van Wert OH PD
+Vandalia OH PD
+Vanderburgh County IN SO
+Vernon County WI SO
+Vicksburg MI PD
+Vidalia GA PD
+Vienna IL PD
+Vigo County IN SO
+Villa Park IL PD
+Village of Clearview WV PD
+Village of Dundee MI PD
+Village of French Island WI PD
+Vincennes IN PD
+Virden IL PD
+Vonore TN PD
+Wadsworth OH PD
+WakeMed Campus PD and Public Safety (NC)
+Walker MI PD
+Walled Lake MI PD
+Walterboro SC PD
+Walters State Community College TN Campus PD
+Walworth County WI SO
+Wapello County IA SO
+Warner Robins GA PD
+Warren County OH SO
+Warren MI PD
+Warren OH PD
+Warrensville Heights OH PD
+Warrenton NC PD
+Warrick County IN SO
+Wartburg TN PD
+Washington County IN SO
+Washington County OH SO
+Washington County SO - GA
+Washington County WI SO
+Washington IA PD
+Washington MO PD
+Waterford Township MI PD
+Watertown WI PD
+Waterville OH PD
+Wauconda IL PD
+Waukesha County WI SO
+Waukesha WI PD
+Wauwatosa WI PD
+Waxhaw NC PD
+Wayland MI PD
+Wayne County TN SO
+Wayne IL PD
+Webster County GA SO
+Webster Groves MO PD
+Wellford SC PD
+Wells County IN SO
+Wentzville MO PD
+West Allis WI PD
+West Bend WI PD
+West Bloomfield Twp MI PD
+West Carrollton OH PD
+West Chester OH PD
+West Chicago IL PD
+West Des Moines IA PD
+West Lafayette IN PD
+West Palm Beach FL PD
+West Union PD SC
+Westchester IL PD
+Westfield IN PD
+Westlake OH PD
+Westland MI PD
+Westmont IL PD
+White County IN SO
+White House TN PD
+White Lake Twp MI PD
+White Pine TN PD
+Whitehall MI PD
+Whitestown IN PD
+Whitewater WI PD
+Whitfield County GA SO
+Whitley County IN Prosector
+Wilkes County NC SO
+Wilkinson County GA SO
+Williamson Co. IL SO
+Williamson County TN SO
+Willoughby OH PD
+Willow Springs IL PD
+Wilmore KY PD
+Wilson County NC SO
+Wilson County TN SO
+Wilton Manors FL PD
+Winder GA PD
+Winnebago County IL SO
+Winnebago County WI SO
+Winterville NC PD
+Wixom MI PD
+Wolverine Lake MI PD
+Woodford County IL SO
+Woodhaven MI PD
+Woodlawn OH PD
+Woodson Terrace MO PD
+Woodstock GA PD
+Wooster OH PD
+Worth County GA SO
+Wright City MO PD
+Wyandot County OH SO
+Wyandotte MI PD
+Wyoming MI PD
+Wyoming OH PD
+Xenia OH PD
+York County SC SO
+Youngstown OH PD
+Zanesville OH PD
+Zeeland MI PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What Flock Does Not do or Detect
+
+Facial recognition - Flock does not identify people by their faces.
+Driver or passenger identification - Flock cannot tell who is a driver or passenger of a vehicle.
+Record phone calls or conversations - There are no microphones for audio surveillance.
+Read text messages or cell phone activity.
+Track a person's phone location.
+Recognize race, gender, or personal identity of vehicle occupants.
+Predict crimes or automatically determine criminal activity.
+Run every plate automatically through LEIN/NCIC.
+Record inside of homes or buildings.
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only and is restricted to public safety-related missions of the agency. Data is owned by Grand Rapids MI PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement.
+Reproductive rights investigations.
+Traffic enforcement.
+Harassment or intimidation of any individual or group, based solely on a protected class (i.e. race, sex, religion).
+Personal use.
+
+Access, Audit and Search Policy
+
+1) All system access requires a valid law enforcement reason.
+2) All system searches require an offense type, police report number and a reason entered before the search is allowed.
+3) All system activity is routinely audited.
+4) All system access is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+More Info
+
+Grand Rapids Police LPR Policy
+
+License Plate Recognition Systems 8-14.1
+
+
+A. PURPOSE. To establish procedures and guidelines for the proper use of license plate recognition (LPR) systems, and the collection, maintenance, and archiving of related data.
+
+1. Ensure LPR system use respects individuals’ constitutional and statutory rights.
+
+2. Provide government accountability.
+
+3. Deter criminal behavior and, when appropriate, assist in criminal investigations and prosecutions.
+
+4. Allow for appropriate cooperation with business entities or groups seeking safety and security for specifically identified property.
+
+B. GOALS. License Plate Recognition systems seek to enhance the department’s efficiency and effectiveness, and to enhance community and officer safety with the deployment and use of LPR systems.
+
+C. DEFINITIONS
+
+1. LPR. License Plate Recognition/License Plate Reader.
+
+2. Alert. A visual and/or auditory notice that is triggered when the LPR system receives a potential “hit” on a license plate.
+
+3. Fixed LPR System. LPR cameras which are affixed to a structure, such as a pole, traffic barrier, or bridge.
+
+4. Hit. A read matched to a plate that has previously been registered on an agency’s “hot list” of vehicle plates related to stolen vehicles, wanted vehicles, or other factors supporting investigation, or which has been manually registered by a user for further investigation.
+
+5. Hotlist. License plate numbers of stolen cars, vehicles owned by persons of interest, and vehicles associated with AMBER Alerts that are regularly added to “hot lists” circulated among law enforcement agencies. Hot list information can come from a variety of sources, including stolen vehicle information from the National Insurance Crime Bureau (NICB) and the National Crime Information Center (NCIC), as well as national AMBER Alerts and Department of Homeland Security watch lists. Departments of motor vehicles can provide lists of expired registration tags, and law enforcement agencies can interface their own, locally compiled hot lists to the LPR system. These lists serve an officer safety function as well as an investigatory purpose. In addition to agency supported hot lists, users may also manually add license plate numbers to hot lists in order to be alerted if and when a vehicle license plate of interest is “read” by the LPR system.
+
+6. Read. Digital images of license plates and vehicles and associated metadata (e.g., date, time, and geographic coordinates associated with the vehicle image capture) that are captured by the LPR systems.
+
+D. AUTHORIZED USES
+
+1. LPR systems, LPR data, and associated media are the property of this agency and are to be used only in conducting the agency’s official business.
+
+2. Only trained officers and civilians authorized by an Administrator may access LPR systems. LPR data and associated media and all their access must comply with this policy.
+
+3. The use of LPR systems is restricted to public safety-related missions of this agency.
+
+4. Except when done pursuant to a court order, the LPR may be used only to record license plates of vehicles that are exposed to public view (e.g., vehicle on a public road or street, or that are on private property but whose license plate(s) are visible from a public road, street, or a place to which members of the public have access, such as the parking lot of a shop or other business establishment).
+
+E. PROHIBITED USES
+
+1. Except when done pursuant to a court order, recording license plates that are not exposed to public view.
+
+2. Use of the LPR system to harass and/or intimidate any individual or group.
+
+3. Use of the LPR system or associated scan file or hot lists solely because of a person’s or group’s race, gender, religion, political affiliation, nationality, ethnicity, sexual orientation, disability, or other classification protected by law.
+
+4. Use of the LPR system or associated scan files or hot lists for any personal purpose.
+
+5. Use of the LPR system or associated scan files or hot lists for the purpose of identifying any individual or group engaged in the exercise of First Amendment rights unless used only for the protection of those persons.
+
+F. LICENSE PLATE RECOGNITION (LPR) SYSTEMS USAGE
+
+1. LPR system is a passive system; live data is not viewed.
+
+2. LPR systems shall monitor all license plates that come in the LPR camera’s view. Information for legitimate public safety purposes will be accessed by trained sworn and civilian employees of this department as appropriate.
+
+3. LPR system searches of historical data shall only be conducted by trained sworn and civilian employees of this department and can only be done for legitimate public safety related purposes.
+
+4. All searches of the LPR system shall include a reason for the search to include the case/CAD number and type of incident (e.g., 24-XXXXXX Robbery). Searches related to broadcasts by dispatch that do not have a case/CAD number, such as suspected OWI drivers or vehicles wanted by other jurisdictions will include "Broadcast" and the reason (e.g., Broadcast – WYPD Robbery Suspect Vehicle).
+
+5. LPR systems may have the ability to notify the system administrator and/or other police personnel of a “hit” from the LPR system “hot list.”
+
+G. OPERATIONS and ENFORCEMENT ACTIONS
+
+1. All users of the LPR system will unselect “Immigration Violator” under the NCIC notification reasons and will not take any enforcement action if the LPR system alerts solely on an immigration violation.
+
+2. Hot lists that alert the entire organization may only be created by a supervisor or the department’s designated crime analyst(s). Individual officers may create their own hot lists that only alert that officer of vehicles that are of interest in a criminal investigation.
+
+3. When notified of a “hit” from the LPR system, officers shall verify the LPR response through the Law Enforcement Information Network (LEIN) and the National Crime Information Center (NCIC) before taking enforcement action that is based solely on an LPR alert.
+
+4. Once an alert is received, the operator shall confirm that the observed license plate from the LPR system matches the license plate of the observed vehicle.
+
+5. Because the LPR alert relates to a vehicle plate and may not related to the person operating the vehicle, officers need reasonable suspicion and/or probable cause to make an enforcement stop of any vehicle (e.g., if a vehicle is entered into the system because of its association with a wanted individual, officers shall attempt to visually match the driver to the description of the wanted subject prior to making a stop or should have another legal basis for making the stop).
+
+6. Occasionally there may be errors in the LPR system’s read of a license plate, therefore an alert alone is not a basis for police action.
+
+7. Hot lists shall be obtained or compiled from sources as may be consistent with the purposes of the LPR system set forth in this policy.
+
+8. Prior to initiation of a stop of a vehicle or other intervention based on an alert, officers shall undertake the following:
+
+a. Verification of a status on a hot list. An officer must receive confirmation, either from dispatch, MDT, or other department computer device, that the license plate is still stolen, wanted, or otherwise of interest before proceeding (absent exigent circumstances).
+
+b. Visual verification of license plate number. Officers shall visually verify that the license plate of interest matches identically with the image of the license plate number captured (read) by the LPR, including both the alphanumeric characters of the license plate, state of issue, and vehicle descriptors before proceeding. Officers alerted
+to the fact that an observed motor vehicle’s license plate is entered as a hot plate (hit) in a specific BOLO/ATL list are required to make a reasonable effort to confirm that a wanted person is actually in the vehicle and/or that a reasonable basis exists before the officer would have a lawful basis to stop the vehicle.
+
+9. All entries and updates of specific hot lists within the LPR system will be documented by the requesting officer within the appropriate offense report. As such, specific hot lists shall be approved by the LPR system administrator, or their designee, before initial entry within the LPR system. Updating of such a list within the LPR system shall thereafter be accomplished pursuant to the approval of the officer’s immediate supervisor. The hits from these data sources should be viewed as informational; created solely to bring the officer’s attention to specific vehicles that have been associated with criminal activity.
+
+10. All hot list plates and suspect information added into the LPR system will contain the following information as a minimum:
+
+a. Entering officer’s name
+
+b. Related case number
+
+c. Short synopsis describing the nature of the originating call
+
+11. Any time LPR data is used, whether from a hot list alert or from a system search, and a suspect and/or suspect vehicle is identified, the user will document the positive results in the appropriate offense report.
+
+H. LPR DATA SHARING AND DISSEMINATION. LPR data should be considered “For Official Use Only” and can only be shared for legitimate
+law enforcement purposes.
+
+1. Outside agencies without LPR capabilities can make requests to a system administrator or supervisor for specific queries of the LPR database for legitimate law enforcement purposes. Only matching returns will be shared with the agency.
+
+a. The administrator or supervisor will enter the requesting agency’s name, the agency’s case number, and incident type in the reason for the search field.
+
+2. Sworn law enforcement members of any multi-jurisdictional task force housed at the Grand Rapids Police Department (GRPD), whose law enforcement duties require them to assist in the investigation of crimes that occur in the City of Grand Rapids, are permitted to access the LPR database. Task force team members will:
+
+a. Have individual credentials for accessing the LPR database.
+
+b. Receive training on the proper use of the LPR system.
+
+c. Abide by GRPD policies pertaining to the use of the LPR system.
+
+3. Sharing of LPR data and information to third parties, non-law enforcement agencies, including private litigants is prohibited except to the degree required by law (FOIA).
+
+I. RETENTION OF LPR RELATED PHOTOS AND DATA
+
+1. LPR related data will be stored for a maximum of 30 days.
+
+2. LPR data that is deemed evidence in a police related case will be transferred to and retained in the department’s digital evidence storage system.
+
+J. SPECIFIC RESPONSIBILITIES. LPR systems and associated equipment and databases are authorized for official public safety purposes and only in accordance with this policy. Any individual misusing this equipment and associated databases, or data, may be subject to:
+
+1. Criminal prosecution
+
+2. Civil liability, and/or
+
+3. Administrative sanctions, up to and including termination, pursuant to and consistent with the relevant collective bargaining agreements and department policies.
+
+K. ADMINISTRATION
+
+1. The Chief of Police, or his/her designee, shall designate an employee(s) with administrative oversight (Administrator) for LPR system deployment and operations who is responsible for the following:
+
+a. Establishing protocols for access. To ensure proper operation and facilitate oversight of the LPR system, all users will be required to have individual credentials for access and use of the systems and/or data, which has the ability to be fully audited.
+
+b. Establishing protocols for the collection, storage, and retention of LPR data and associated media files.
+
+c. Establishing protocols to preserve and document LPR reads and “alerts” or “hits” that are acted on in the field or associated with investigations or prosecutions.
+
+d. Establishing protocols to ensure the security and integrity of data captured, stored, and/or retained by the LPR system.
+
+e. Maintaining records identifying approved LPR deployments and documenting their results, including appropriate documentation of significant incidents and arrests that are related to its usage.
+
+f. Authorizing any request for LPR systems use or data access according to the policies and guidelines of this agency.
+
+2. Designated personnel shall check equipment on a regular basis to ensure functionality and camera alignment. Any equipment that falls outside of expected functionality shall be reported immediately to the system administrator.
+
+3. LPR system repairs, hardware, or software, shall be made by technicians through contact with a system administrator.
+
+Provided by Flock Safety

@@ -1,7 +1,4 @@
 "id","searchDate","networkCount","offenseType"
-"e6fdfb22-c1b9-4f87-b512-c273466a1eb7","2026-09-02T04:01:33.195Z","23","Weapons Offense (Guns/Shots Fired)"
-"803a8a8c-6f85-407b-b56a-351b72423478","2026-09-02T16:14:11.144Z","23","Missing/Endangered Person/Runaway"
-"06409413-d1aa-4656-b488-4ec1d4c4b74a","2026-09-02T19:35:59.310Z","23","Missing/Endangered Person/Runaway"
 "adab711c-c9fe-4a39-bccf-c6aa444b8261","2026-09-03T03:01:18.384Z","23","Hit and Run/Car Accident"
 "c80d3032-08aa-4f06-af03-7f438e338cfa","2026-09-03T19:58:54.437Z","23","Hit and Run/Car Accident"
 "79f7c1dd-fb60-4f51-9c69-793b646aeb4d","2026-09-03T20:02:22.091Z","23","Hit and Run/Car Accident"
@@ -58,3 +55,5 @@
 "8ed06f1c-adf5-466a-8807-f1743569457c","2026-10-01T19:13:22.045Z","5356","Motor Vehicle Theft/Stolen"
 "3daa4e1a-5e13-4fd0-aee6-7bc308911417","2026-10-01T23:20:42.215Z","23","Hit and Run/Car Accident"
 "62471752-1045-47b0-a857-f791c261222d","2026-10-01T23:29:42.854Z","23","Hit and Run/Car Accident"
+"7add4acc-a85e-4ef7-95c3-66c22a8c11dd","2026-10-02T15:40:17.466Z","198","Property Recovery (Civil Enforcement)"
+"cde0e395-c55c-4c35-ab1b-d4933bd9331d","2026-10-02T22:25:29.829Z","23","Kidnapping/Abduction"
