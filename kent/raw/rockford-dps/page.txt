@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Mon Oct 05 2026
+Last updated: Tue Oct 06 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,998
+84,231
 
 Number of Searches
 
@@ -388,7 +388,6 @@ Florence Co. WI SO
 Florissant MO PD
 Flushing City MI PD
 Forest Park OH PD
-Forest View IL PD
 Fort Worth TX PD
 Frankenmuth MI PD - New Business
 Franklin IN PD
