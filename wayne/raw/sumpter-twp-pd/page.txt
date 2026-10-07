@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,152
+11,069
 
 Number of Searches
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-16
+14
 
 Sharing Network Data With
 
@@ -63,6 +63,7 @@ Alpena County MI SO
 Antrim County SO MI
 Armada MI PD
 Auburn Hills MI PD
+Barry County MI SO
 Battle Creek MI PD
 Berrien County MI SO
 Beverly Hills MI PD
@@ -159,7 +160,6 @@ Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Village of Middleville
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
