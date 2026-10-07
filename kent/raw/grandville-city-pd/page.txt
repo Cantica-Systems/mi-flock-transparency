@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-309,832
+307,930
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-49
+50
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-920
+927
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1086,7 +1086,6 @@ Morton Grove IL PD
 Morton IL PD
 Moundsville WV PD
 Mount Morris Township PD MI
-Mount Pleasant SC PD
 Mount Pleasant WI PD
 Mount Prospect IL PD
 Mount Vernon IN PD
@@ -1758,6 +1757,7 @@ Armada MI PD
 Auburn Hills MI PD
 Avon IN PD
 Baldwin County GA SO
+Battle Creek MI PD
 Baytown TX PD
 Belpre OH PD
 Berrien County MI SO
@@ -1924,7 +1924,6 @@ Saginaw MI PD
 Sarasota FL PD
 Sawyer County WI SO
 Schuyler Co. IL SO
-Sedgwick KS PD
 SEMO Drug Task Force MO
 Shelby County IN SO
 Shelby Township MI PD

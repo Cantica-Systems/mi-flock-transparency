@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-84,231
+85,202
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-73
+74
 
 Sharing Network Data With
 
@@ -322,6 +322,7 @@ Antrim County SO MI
 Armada MI PD
 Auburn Hills MI PD
 Baldwin County GA SO
+Battle Creek MI PD
 Baytown TX PD
 Belpre OH PD
 Belvidere IL PD
@@ -516,7 +517,6 @@ Norton Shores MI PD
 Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
 Novi MI PD
 Oak Lawn IL PD
-Oakbrook Terrace IL PD
 Oakland County MI SO
 Oceana County MI SO
 Ogle County IL SO

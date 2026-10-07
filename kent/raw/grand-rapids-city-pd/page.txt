@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-528,388
+529,754
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-908
+921
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8,115
+8,081
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1109,7 +1109,6 @@ Morton Grove IL PD
 Morton IL PD
 Moundsville WV PD
 Mount Morris Township PD MI
-Mount Pleasant SC PD
 Mount Pleasant WI PD
 Mount Prospect IL PD
 Mount Vernon IN PD
@@ -2121,7 +2120,6 @@ Flushing City MI PD
 Folly Beach SC PD
 Forest City NC PD
 Forest Park OH PD
-Forest View IL PD
 Forsyth County GA SO
 Fort Loramie OH PD
 Fort Oglethorpe GA PD
@@ -2309,6 +2307,7 @@ Jefferson County TN SO
 Jefferson GA PD
 Jeffersontown KY PD
 Jesup GA PD
+Johns Creek GA PD
 Johnsburg IL PD
 Johnson County TN SO
 Johnston City IL PD
@@ -2510,7 +2509,6 @@ Moundsville WV PD
 Mount Dora FL PD
 Mount Holly NC PD
 Mount Morris Township PD MI
-Mount Pleasant SC PD
 Mount Pleasant WI PD
 Mount Vernon IN PD
 Mount Vernon OH PD
@@ -2697,7 +2695,6 @@ Rocky River OH PD
 Rome WI PD
 Romulus MI PD
 Roseville MI PD
-Ross Township OH PD
 Ross Township PA PD
 Rossford OH PD
 Roswell GA PD

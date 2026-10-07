@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -81,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-122,245
+122,263
 
 Number of Searches
 
@@ -99,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-282
+287
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -338,6 +338,7 @@ Armada MI PD
 Auburn Hills MI PD
 Avon IN PD
 Baldwin County GA SO
+Battle Creek MI PD
 Belpre OH PD
 Berrien County MI SO
 Birmingham MI PD
