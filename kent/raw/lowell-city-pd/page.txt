@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Thu Oct 08 2026
 
 Overview
 
@@ -81,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-122,263
+121,395
 
 Number of Searches
 
@@ -99,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-287
+288
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -125,6 +125,7 @@ Anderson IN PD
 Antrim County SO MI
 Armada MI PD
 Auburn Hills MI PD
+Barry County MI SO
 Battle Creek MI PD
 Berrien County MI SO
 Beverly Hills MI PD
@@ -233,11 +234,9 @@ Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Village of Middleville
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
-Michigan Senate MI PD
 Michigan State Police
 Milan MI PD
 Milford MI PD
@@ -338,6 +337,7 @@ Armada MI PD
 Auburn Hills MI PD
 Avon IN PD
 Baldwin County GA SO
+Barry County MI SO
 Battle Creek MI PD
 Belpre OH PD
 Berrien County MI SO
@@ -375,7 +375,6 @@ Dolton IL PD
 Ecorse MI PD
 Elizabethtown KY PD
 Elkhart PD IN
-Fairfax OH PD
 Fairmount IN PD
 Farmington Hills MI PD
 Farmington MI DPS
@@ -420,7 +419,6 @@ IN - Angola PD
 Ironwood PSD MI
 Jackson County MI SO
 Jackson MI PD
-Jefferson County KY SO
 Jefferson County MO SO
 Kalamazoo County MI SO
 Kalamazoo Township MI PD
@@ -445,7 +443,6 @@ Matteson IL PD
 Mattoon IL PD
 Maumee OH PD
 Metro Police Authority of Genesee County MI
-MI - Village of Middleville
 Michigan City IN PD
 Michigan State Police
 Midlothian IL PD

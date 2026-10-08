@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Thu Oct 08 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-307,930
+307,887
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-50
+49
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-927
+907
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -214,6 +214,7 @@ Barberton OH PD
 Bardstown PD KY
 Barrington Hills IL PD
 Barron County WI SO
+Barry County MI SO
 Bartlett IL PD
 Batavia NY PD
 Batavia OH PD
@@ -792,7 +793,6 @@ Jefferson County OH SO
 Jefferson County SO IN
 Jefferson County TN SO
 Jefferson County WI SO
-Jefferson WI PD
 Jeffersontown KY PD
 Jeffersonville IN PD
 Jennings County IN SO
@@ -1021,14 +1021,12 @@ Metropolis IL PD
 Metropolitan Washington DC PD
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Village of Middleville
 Miami County OH SO
 Miami-Dade FL SO
 Michigan City IN PD
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
-Michigan Senate MI PD
 Michigan State Police
 Mid Missouri Drug Task Force MO
 Middle Tennessee State TN PD
@@ -1045,7 +1043,6 @@ Milltown IN PD
 Millvale PA PD
 Milton GA PD
 Milton IN PD
-Milwaukee County WI SO
 Milwaukee WI PD
 Miner MO PD
 Mineral Area Drug Task Force MO
@@ -1718,7 +1715,6 @@ Winchester IN PD
 Windsor- IL- PD
 Winnebago County IL SO
 Winnebago County WI SO
-Winona MN PD
 Winterville NC PD
 Wisconsin State Capitol Police (WI)
 Wixom MI PD
@@ -1757,6 +1753,7 @@ Armada MI PD
 Auburn Hills MI PD
 Avon IN PD
 Baldwin County GA SO
+Barry County MI SO
 Battle Creek MI PD
 Baytown TX PD
 Belpre OH PD
@@ -1795,7 +1792,6 @@ Dolton IL PD
 Ecorse MI PD
 Elizabethtown KY PD
 Elkhart PD IN
-Fairfax OH PD
 Fairmount IN PD
 Farmington Hills MI PD
 Farmington MI DPS
@@ -1849,7 +1845,6 @@ Ironwood PSD MI
 Jackson County MI SO
 Jackson MI PD
 Jasper County IN SO
-Jefferson County KY SO
 Jefferson County MO SO
 Kalamazoo County MI SO
 Kalamazoo Township MI PD
@@ -1876,7 +1871,6 @@ Matteson IL PD
 Mattoon IL PD
 Maumee OH PD
 Metro Police Authority of Genesee County MI
-MI - Village of Middleville
 Michigan City IN PD
 Michigan State Police
 Midlothian IL PD
