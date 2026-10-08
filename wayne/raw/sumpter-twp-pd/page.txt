@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Thu Oct 08 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,069
+10,995
 
 Number of Searches
 
@@ -163,7 +163,6 @@ MI - Riverview PD
 Michigan Department of Attorney General
 Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
-Michigan Senate MI PD
 Michigan State Police
 Milan MI PD
 Milford MI PD
