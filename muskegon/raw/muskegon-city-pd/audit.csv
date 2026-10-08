@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"0fc42e52-a370-4d57-9969-4d17415a483a","***","2026-09-07T23:03:10.712Z","202","Motor Vehicle Theft/Stolen"
 "94d25edd-b57b-4eaa-8382-f6a1b3e671f0","***","2026-09-08T02:16:37.053Z","202","Motor Vehicle Theft/Stolen"
 "c9da2aa3-88f2-49ed-90fb-ea9c3cce8952","***","2026-09-08T03:39:00.169Z","3","Motor Vehicle Theft/Stolen"
 "59fe2d18-1ee7-4964-9f0a-e98886193d73","***","2026-09-08T07:05:01.758Z","2","Robbery"
@@ -60,3 +59,4 @@
 "43daad9f-b1f6-4d30-a5a8-2f3e4143bf90","***","2026-10-06T00:33:14.648Z","235","Motor Vehicle Theft/Stolen"
 "315c2280-91d0-448a-95b1-ef1c0ff0c522","***","2026-10-06T05:18:17.833Z","235","Motor Vehicle Theft/Stolen"
 "38d7d878-a0b9-4535-a554-95e64f7376c6","***","2026-10-06T06:07:17.362Z","235","Motor Vehicle Theft/Stolen"
+"74c4e798-e3f6-4b08-afaa-39f74a0256b5","***","2026-10-07T06:32:18.284Z","233","Obstructing the Police (Fleeing/Eluding)"
