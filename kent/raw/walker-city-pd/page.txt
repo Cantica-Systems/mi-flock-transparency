@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Thu Oct 08 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-254,645
+259,247
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-56
+54
 
 Hotlists Alerted On
 
@@ -89,16 +89,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,138
+1,129
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Larceny/Theft Offenses
 Financial Crime (Embezzlement/Fraud)
+Larceny/Theft Offenses
 Motor Vehicle Theft/Stolen
+Stolen Property Offenses
 Hit and Run/Car Accident
-Burglary/Breaking & Entering
 
 Sharing Network Data With
 
@@ -286,6 +286,7 @@ Allegan County SO MI
 Almont MI PD
 Antrim County SO MI
 Armada MI PD
+Arnold MO PD
 Auburn Hills MI PD
 Audrain County MO SO
 Avon IN PD
