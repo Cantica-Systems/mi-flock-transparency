@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Thu Oct 08 2026
+Last updated: Fri Oct 09 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-426,276
+427,189
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-170
+165
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,624
+6,652
 
 Sharing Network Data With
 
@@ -762,6 +762,7 @@ Floyd County GA PD
 Floyd County IN SO
 Flushing City MI PD
 Fon du Lac Park District IL PD
+Fontana CA PD
 Forest County Potowatomi WI PD
 Forest County WI SO
 Forest Park OH PD
@@ -1861,7 +1862,6 @@ Pitt County NC SO
 Pittsboro IN PD
 Pittsburg KS PD
 Pittsburgh PA PD
-Pittsfield IL PD
 Pittsfield Twp MI PD
 Pittsville WI PD
 Plain City OH PD
@@ -2185,7 +2185,6 @@ St Elmo IL PD
 St Mary Parish LA SO
 St. Ann MO PD
 St. Charles City MO PD
-St. Charles County MO Ambulance District
 St. Charles IL PD
 St. Clair County MI SO
 St. Clair MI PD
