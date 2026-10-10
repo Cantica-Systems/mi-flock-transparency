@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Michigan Flock transparency ledger</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="tip" role="status" aria-live="polite"></div>
+
+<header class="masthead">
+  <p class="eyebrow reveal"><span class="tick"></span> Michigan Flock transparency ledger &middot; <span id="gen">built from the public archive</span> &middot; <a href="timeline.html">day-by-day timeline</a></p>
+  <h1 class="reveal" id="headline">A plate read here is searchable from <em>many states</em>.</h1>
+  <p class="dek reveal">Every police agency running Flock Safety cameras publishes a transparency portal with a rolling thirty-day file: how many cameras it operates, every search its officers ran in that window, and the full list of outside agencies it has granted access to its data. The window moves every day, and what leaves it leaves the portal. <span id="dek-n">This ledger captures that file from every available Michigan portal and keeps what the portals drop.</span></p>
+  <p class="provenance reveal">Source: the public Flock Safety transparency portals for <span id="prov-scope">the agencies in the archive</span>, captured daily and committed to an append-only archive. <span id="prov-ledger">Each portal shows about thirty days; the ledger keeps every capture.</span> Figures here are counted from that archive, not estimated. Counties are counted separately throughout: an organization reachable from several counties is one organization in each, so county columns never sum to the combined figure.</p>
+</header>
+
+<div class="county-band" id="county-band"></div>
+
+<div class="profile" id="profile">
+  <div class="controls" id="profile-controls"></div>
+  <div class="profile-body" id="profile-body"></div>
+</div>
+
+<nav class="tabs" id="tabs" role="tablist" aria-label="Sections"></nav>
+
+<!-- ============================ OVERVIEW ============================ -->
+
+<section data-tab="overview">
+  <div class="sec-head">
+    <span class="sec-num">FRESHNESS</span>
+    <h2>How current each department&rsquo;s data is</h2>
+    <p>The ledger reads every portal once a day. For each department: when it was last read, how many searches that read added, when it last had anything new to add, and the date the portal itself printed. A department that has fallen behind the others is marked.</p>
+  </div>
+  <div class="scroller"><table class="matrix" id="fresh-table"></table></div>
+  <p class="finding" id="find-fresh"></p>
+</section>
+
+<section data-tab="overview">
+  <div class="sec-head">
+    <span class="sec-num">THE LATEST READ</span>
+    <h2>What changed since the day before</h2>
+    <p>Each day&rsquo;s read is compared with the one before it: searches that are new, organizations added to or dropped from a sharing list, and organizations that left several portals at once. The <a href="timeline.html">timeline</a> shows every day this way.</p>
+  </div>
+  <div class="stat-band" id="today-band"></div>
+  <div class="today-list" id="today-list"></div>
+</section>
+
+<!-- ============================ SHARING ============================= -->
+
+<section data-tab="sharing">
+  <div class="sec-head">
+    <span class="sec-num">ON THE MAP</span>
+    <h2>Every organization that can search these cameras</h2>
+    <p>One dot per outside organization that a department here lets query its cameras, placed by its name. Pick a county or a department, click a state to list what sits inside it, or search for a name.</p>
+  </div>
+  <div class="controls" id="geo-controls"></div>
+  <div class="geo-wrap">
+    <figure>
+      <div class="scroller"><svg id="geomap" role="img" aria-label="Map of the continental United States with a dot for every agency that can query these departments' camera data"></svg></div>
+      <div class="legend" id="geo-legend"></div>
+    </figure>
+    <div id="geo-side">
+      <div class="orgsearch">
+        <label class="ctl-label" for="org-q">Find an organization</label>
+        <input id="org-q" type="search" autocomplete="off" spellcheck="false"
+               placeholder="name, city or state" aria-describedby="org-q-note">
+        <p class="hint" id="org-q-note"></p>
+        <div id="org-results" role="region" aria-live="polite"></div>
+      </div>
+      <div id="geo-panel"></div>
+    </div>
+  </div>
+  <p class="finding" id="find-geo"></p>
+  <details class="table-view"><summary>Every organization, with how it was placed</summary><div id="tbl-orgs"></div></details>
+</section>
+
+<section data-tab="sharing">
+  <div class="sec-head">
+    <span class="sec-num">BY STATE</span>
+    <h2>Which states can see the most</h2>
+    <p>How many organizations in each state can query the cameras, for the county selected.</p>
+  </div>
+  <div class="controls" id="map-controls"></div>
+  <div class="map-wrap">
+    <div>
+      <div class="legend"><span id="rank-title">Organizations with query access, by state</span></div>
+      <div class="rank-list" id="ranks"></div>
+    </div>
+  </div>
+  <p class="finding" id="find-reach"></p>
+  <details class="table-view"><summary>Data table</summary><div id="tbl-states"></div></details>
+</section>
+
+<section data-tab="sharing">
+  <div class="sec-head">
+    <span class="sec-num">EACH DEPARTMENT&rsquo;S CHOICE</span>
+    <h2>Same cameras, opposite decisions</h2>
+    <p>Sharing is not a Flock default. Each department decides for itself who may query its cameras, and neighbouring departments have decided very differently. Each county&rsquo;s bar is the combined list of its departments, with no organization counted twice.</p>
+  </div>
+  <figure>
+    <div class="legend">
+      <span><i style="background:var(--series-1)"></i> Michigan organizations</span>
+      <span><i style="background:var(--series-2)"></i> Outside Michigan</span>
+    </div>
+    <div class="scroller"><svg id="sharing" role="img" aria-label="Stacked bar chart of outbound sharing partners per agency, grouped by county and split between Michigan and out of state"></svg></div>
+  </figure>
+  <p class="finding" id="find-policy"></p>
+  <details class="table-view"><summary>Data table</summary><div id="tbl-sharing"></div></details>
+</section>
+
+<section data-tab="sharing">
+  <div class="sec-head">
+    <span class="sec-num">ONE WAY OR BOTH</span>
+    <h2>Access runs one way more often than both</h2>
+    <p>A department publishes two lists: who may search its cameras, and whose cameras it may search. Setting the two against each other shows that most of these relationships are not mutual: an outside agency can usually see in without the local department seeing out.</p>
+  </div>
+  <figure>
+    <div class="legend">
+      <span><i style="background:var(--series-1)"></i> Mutual</span>
+      <span><i style="background:var(--series-2)"></i> They can query us, we cannot query them</span>
+      <span><i style="background:var(--series-3)"></i> We can query them, they cannot query us</span>
+    </div>
+    <div class="scroller"><svg id="recip" role="img" aria-label="Stacked bars showing, for each department, how many sharing relationships are mutual and how many run in one direction only"></svg></div>
+  </figure>
+  <p class="finding" id="find-recip"></p>
+  <details class="table-view"><summary>Data table</summary><div id="tbl-exposure"></div></details>
+</section>
+
+<section data-tab="sharing">
+  <div class="sec-head">
+    <span class="sec-num">PRIVATE CAMERAS</span>
+    <h2>Private cameras feed the police. No company can look back.</h2>
+    <p>Not everything on this network is a government. Some of the cameras these departments can search belong to businesses and apartment complexes, and the lists name them. The other direction is empty: no company can search the police cameras.</p>
+  </div>
+  <div class="stat-band" id="private-band"></div>
+  <h3 class="dep-head">Private operators these departments can query</h3>
+  <p class="hint">Grouped by what the operator is, read from its name. Campus police and public hospitals count as public bodies. A dot means that department&rsquo;s portal lists the operator as a source it can query; the last column is how many of the operator&rsquo;s cameras volunteers have mapped, where the name matches. Only departments that publish this list have a column.</p>
+  <div class="scroller"><table class="matrix" id="private-table"></table></div>
+  <p class="finding" id="find-private"></p>
+  <h3 class="dep-head">Private operators on the map</h3>
+  <p class="hint">Every mapped camera whose operator is a company rather than a police force or the vendor, and whether that company appears in any sharing list here.</p>
+  <div class="scroller"><table class="matrix" id="osm-op-table"></table></div>
+  <div class="callout warn" id="private-vendor"></div>
+  <details class="table-view"><summary>Other public bodies with query access, and the names that matched no rule</summary><div id="tbl-public-out"></div></details>
+</section>
+
+<!-- ============================ SEARCHES ============================ -->
+
+<section data-tab="searches">
+  <div class="sec-num-wrap">
+    <div class="sec-head">
+      <span class="sec-num">OVER TIME</span>
+      <h2>Searches, day by day</h2>
+      <p>How many searches each department ran each day, as far back as the ledger holds. Compare up to three; the rest stay in the background. Counties can be compared alongside departments.</p>
+    </div>
+  </div>
+  <div class="controls" id="trend-controls"></div>
+  <figure>
+    <div class="scroller"><svg id="trend" role="img" aria-label="Daily time series of search activity by source"></svg></div>
+  </figure>
+  <p class="hint" id="trend-note"></p>
+  <div class="sparks" id="sparks"></div>
+  <p class="finding" id="find-trend"></p>
+</section>
+
+<section data-tab="searches">
+  <div class="sec-head">
+    <span class="sec-num">WHY</span>
+    <h2>What the searches were for</h2>
+    <p>Officers choose a reason from a fixed list every time they search. The left side counts the reasons. The right side shows, for each reason, how often that kind of search reached far beyond the region.</p>
+  </div>
+  <figure>
+    <div class="legend">
+      <span><i style="background:var(--series-1)"></i> A crime is named</span>
+      <span><i style="background:var(--series-2)"></i> No crime named</span>
+      <span><i style="background:var(--series-3)"></i> Reaches wider than the average search</span>
+    </div>
+    <div class="scroller"><svg id="offense" role="img" aria-label="Ranked bar chart of stated search reasons, paired with the share of each that reached more than a thousand camera networks"></svg></div>
+  </figure>
+  <p class="finding" id="find-offense"></p>
+  <details class="table-view"><summary>Data table</summary><div id="tbl-offense"></div></details>
+</section>
+
+<section data-tab="searches">
+  <div class="sec-head">
+    <span class="sec-num">WHEN</span>
+    <h2>When officers search</h2>
+    <p>Searches by hour of the day and day of the week, in Michigan time. Brighter is busier.</p>
+  </div>
+  <div class="controls" id="heat-controls"></div>
+  <figure>
+    <div class="scroller"><svg id="heat" role="img" aria-label="Heatmap of searches by hour of day and day of week, Eastern time"></svg></div>
+    <div class="scale" id="heat-scale"></div>
+  </figure>
+  <p class="finding" id="find-heat"></p>
+</section>
+
+<section data-tab="searches">
+  <div class="sec-head">
+    <span class="sec-num">HOW WIDE</span>
+    <h2>How wide they search, against how wide they can</h2>
+    <p>Every search records how many camera networks it reached. Each bar shows one department&rsquo;s searches against the widest search that same department has ever run, so a small department is judged against itself rather than against a large one.</p>
+  </div>
+  <figure>
+    <div class="legend" id="posture-legend"></div>
+    <div class="scroller"><svg id="posture" role="img" aria-label="Stacked bars showing the share of each department's searches at each fraction of its own demonstrated reach"></svg></div>
+  </figure>
+  <p class="finding" id="find-posture"></p>
+  <p class="finding" id="find-fp"></p>
+  <details class="table-view">
+    <summary>Reach in absolute numbers, by department</summary>
+    <p class="hint">The bar spans the middle half of each department&rsquo;s searches; the tick is the typical search.</p>
+    <figure><div class="scroller"><svg id="radius" role="img" aria-label="Range chart of networks reached per search, by source, grouped by county"></svg></div></figure>
+    <p class="finding" id="find-radius"></p>
+    <div id="tbl-radius"></div>
+  </details>
+  <details class="table-view">
+    <summary>How differently two departments search, pair by pair</summary>
+    <p class="hint">Each department has its own mix of search reasons. The table scores how far apart two mixes are and names the reason doing the most to separate them; brighter is more different. Departments with too few searches to compare are listed underneath.</p>
+    <div class="scroller"><table class="matrix" id="fp-table"></table></div>
+    <p class="fp-scale" id="fp-scale"></p>
+    <div id="tbl-fp"></div>
+  </details>
+</section>
+
+<!-- ============================ CAMERAS ============================= -->
+
+<section data-tab="cameras">
+  <div class="sec-head">
+    <span class="sec-num">ON THE GROUND</span>
+    <h2>The count they publish, and the cameras on the map</h2>
+    <p>Each portal states how many cameras the department runs. Volunteers map cameras on OpenStreetMap, whoever runs them. The two rarely agree, and the notes say which way each department&rsquo;s gap runs and why. One frame per county; every dot is a mapped camera and the outline is the boundary the department polices.</p>
+  </div>
+  <div class="controls" id="cam-controls"></div>
+  <div class="geo-wrap">
+    <figure>
+      <div class="scroller"><svg id="cammap" role="img" aria-label="One map frame per county with jurisdiction outlines and a dot for every mapped licence-plate camera"></svg></div>
+      <div class="legend" id="cam-legend"></div>
+    </figure>
+    <div id="cam-panel"></div>
+  </div>
+  <div class="scroller"><table class="matrix" id="cam-table"></table></div>
+  <p class="finding" id="find-cams"></p>
+  <div class="callout" id="cam-count"></div>
+</section>
+
+<section data-tab="cameras">
+  <div class="sec-head">
+    <span class="sec-num">WHAT THEY FLAG</span>
+    <h2>How often a passing car matches a hotlist</h2>
+    <p>Each portal publishes how many vehicles its cameras saw in the last thirty days and how many of those matched a hotlist. One divided by the other is a rate that can be compared between departments, where the raw counts cannot.</p>
+  </div>
+  <figure>
+    <div class="scroller"><svg id="hitrate" role="img" aria-label="Ranked bars of hotlist matches per thousand unique vehicles for each department"></svg></div>
+  </figure>
+  <p class="finding" id="find-hits"></p>
+  <div class="callout" id="hit-caveat"></div>
+</section>
+
+<!-- ============================ PORTALS ============================= -->
+
+<section data-tab="portals">
+  <div class="sec-head">
+    <span class="sec-num">WHAT EACH ONE TELLS YOU</span>
+    <h2>Not every portal tells you the same things</h2>
+    <p>Every department uses the same template from Flock. What each one fills in, and which uses it rules out in writing, is its own choice. The two sharing lists come first, since they are what most readers come for.</p>
+  </div>
+  <div class="scroller"><table class="matrix" id="trans-table"></table></div>
+  <p class="finding" id="find-trans"></p>
+
+  <div class="tiers">
+    <div class="tier">
+      <h4 id="tier-floor-h">What every portal publishes</h4>
+      <p class="hint">Present on every portal in the archive, so none of it sets one department apart from another.</p>
+      <ul id="tier-floor"></ul>
+    </div>
+    <div class="tier tier-mid">
+      <h4>What only some publish</h4>
+      <p class="hint">Optional under the same template, as of the latest read. A portal can stop publishing a figure; the table above notes when one did.</p>
+      <ul id="tier-varies"></ul>
+    </div>
+    <div class="tier">
+      <h4>What none of them publish</h4>
+      <p class="hint">Checked against every page. The gaps are the same everywhere.</p>
+      <ul id="tier-absent"></ul>
+    </div>
+  </div>
+
+  <div class="callout warn" id="user-column"></div>
+  <div class="callout" id="one-way"></div>
+  <div class="callout warn" id="policy-practice"></div>
+</section>
+
+<section data-tab="portals">
+  <div class="sec-head">
+    <span class="sec-num">COMINGS AND GOINGS</span>
+    <h2>Who was added, who was dropped</h2>
+    <p>A live portal shows today&rsquo;s list and nothing else. Every addition and removal here comes from comparing one day&rsquo;s read with the next, which is the only place these changes can be seen.</p>
+  </div>
+  <div id="departures-wrap">
+    <h3 class="dep-head">Organizations that left several portals at once</h3>
+    <p class="hint">One portal dropping a partner is a local decision. The same organization disappearing from several portals within two weeks is that organization leaving the network, and only reading every portal makes it visible.</p>
+    <div class="departures" id="departures"></div>
+  </div>
+  <h3 class="dep-head" style="margin-top:2.6rem">Every recorded change</h3>
+  <div class="controls" id="change-controls"></div>
+  <div class="changes" id="changes"></div>
+  <p class="finding" id="find-changes"></p>
+</section>
+
+<section data-tab="portals">
+  <div class="sec-head">
+    <span class="sec-num">THE WHOLE NETWORK</span>
+    <h2>The network is shrinking, and the searches show it</h2>
+    <p>Every search also records how many camera networks it could reach. The widest search run on a given day measures the whole Flock network that day, and two departments with very different partners report nearly the same number, which is how we know it is the network being measured and not their own lists.</p>
+  </div>
+  <figure>
+    <div class="legend" id="net-legend"></div>
+    <div class="scroller"><svg id="netsize" role="img" aria-label="Daily ceiling of reachable networks, measured independently by two departments"></svg></div>
+  </figure>
+  <p class="finding" id="find-net"></p>
+  <div class="callout warn" id="net-limit"></div>
+</section>
+
+<footer>
+  <h3>What only the ledger can tell you</h3>
+  <p id="foot-archive"></p>
+  <p>Reading a portal today gives you a thirty-day window and a share list with no history. Reading the ledger gives you the same window plus every earlier one, and the difference between them. Partners appearing and disappearing, counters moving, a read that failed and recovered hours later: none of that is visible from the live page, by design.</p>
+  <p><strong>Caveats.</strong> State is inferred from the organization&rsquo;s display name, since the portals publish no state field. <span id="foot-unresolved"></span> Federal organizations are counted from the portal&rsquo;s own <code>[Federal]</code> prefix. A county figure counts each organization once across the county&rsquo;s departments, and counties do not add up to the combined figure, because most organizations can be reached from more than one. The oldest and newest day of every trend line are partial by construction and are drawn faded. Low-severity grouping is our editorial judgement, not a Flock or agency category. Camera locations are &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, used under the ODbL; organizations are placed with the US Census Bureau&rsquo;s gazetteer.</p>
+  <p id="foot-built"></p>
+</footer>
+
+<script src="flock-data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
