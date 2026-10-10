@@ -27,4 +27,5 @@ captured_at,last_updated,retention,lpr_cameras,unique_vehicles,searches,hotlists
 2026-10-07T20:02:11Z,Wed Oct 07 2026,30 days,4,11069,27,"NCMEC Amber Alert, FBI National Hotlist, MI LEIN",14,195,,27,0
 2026-10-08T20:02:36Z,Thu Oct 08 2026,30 days,4,10995,27,"NCMEC Amber Alert, FBI National Hotlist, MI LEIN",14,194,,27,0
 2026-10-09T20:02:49Z,Fri Oct 09 2026,30 days,4,10995,28,"NCMEC Amber Alert, FBI National Hotlist, MI LEIN",14,194,,28,1
+2026-10-10T20:03:34Z,Sat Oct 10 2026,30 days,4,11044,28,"NCMEC Amber Alert, FBI National Hotlist, MI LEIN",17,194,,28,0
 backfill,,,,,,,,,,,0
