@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Fri Oct 09 2026
+Last updated: Sat Oct 10 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-535,684
+537,745
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-891
+881
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,826
+7,644
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -206,7 +206,6 @@ Auglaize County OH SO
 Aurora IL PD
 Aurora OH PD
 Austin County TX SO
-Aviston IL PD
 Avoca PA PD
 Avon IN PD
 Ballard County KY SO
@@ -272,6 +271,7 @@ Branson MO PD
 Breckinridge County KY SO
 Bremen IN PD
 Brentwood MO PD
+Brewster OH PD
 Bridgeport Township MI PD
 Bridgeton MO PD
 Bridgeview IL PD
@@ -550,6 +550,7 @@ Fairlawn OH PD
 Fairmont State University WV PD
 Fairmont WV PD
 Fairmount IN PD
+Fairview Park OH PD
 Farmer City IL PD
 Farmington Hills MI PD
 Farmington MI DPS
@@ -574,6 +575,7 @@ Flossmoor IL PD
 Floyd County GA PD
 Floyd County IN SO
 Flushing City MI PD
+Fontana CA PD
 Forest County WI SO
 Forest Park OH PD
 Forest Preserve District Will County PD (IL)
@@ -1180,6 +1182,7 @@ Northbrook IL PD
 Northeast State Community College TN
 Northern Regional PA PD
 Northfield IL PD
+Northfield OH PD
 Northville Twp MI PD
 Norton Shores MI PD
 Norwalk OH PD
@@ -1442,6 +1445,7 @@ Seguin TX PD
 Selma NC PD
 Seminole County FL SO
 SEMO Drug Task Force MO
+Seven Hills OH PD
 Sevier County TN SO
 Sevierville TN PD
 Seward County NE SO
@@ -1822,7 +1826,6 @@ Atlanta GA PD
 Auburn Hills MI PD
 Audrain County MO SO
 Avery County NC SO
-Aviston IL PD
 Avon IN PD
 Baker County FL SO
 Baker County GA SO
@@ -2668,7 +2671,6 @@ Richmond County NC SO
 Richmond Hill GA PD
 RIG WI DTF
 Rincon GA PD
-River Falls WI PD
 Riverdale GA PD
 Riverdale IL PD
 Riverside PD - OH
