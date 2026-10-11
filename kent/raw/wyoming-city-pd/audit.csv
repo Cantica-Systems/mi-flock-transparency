@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"67ada14c-0367-4f0e-b0d6-e25cb2bec802","***","2026-09-10T13:38:30.705Z","757","Homicide/Death Investigation"
-"3faafb1d-a772-48d9-9bbb-ad135c1935dd","***","2026-09-10T16:21:08.813Z","755","Assault/Battery Offenses"
-"ac1aee65-3ae3-43f5-be76-1645fbb7caef","***","2026-09-10T20:01:24.822Z","754","Disturbing Public Peace/Riot"
 "c6365817-9f83-4f8d-8708-3aa2ab6a11ab","***","2026-09-11T00:34:24.370Z","2","Destruction/Damage/Vandalism of Property"
 "4f2678b4-ca4c-41e9-ba16-c39bdd8d1ff1","***","2026-09-11T18:08:34.024Z","2","Stolen Property Offenses"
 "ac8f56b3-ed85-4226-a7ec-ddc37837e34f","***","2026-09-11T23:56:15.117Z","715","Missing/Endangered Person/Runaway"
