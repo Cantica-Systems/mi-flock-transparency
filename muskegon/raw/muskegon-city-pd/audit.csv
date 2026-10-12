@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"9ca90d7c-0e2f-4cae-9b3a-2e6c08b27663","***","2026-09-11T13:37:37.970Z","197","Wanted Person (Arrest Warrant/Fugitive)"
-"72be2340-f4cc-442f-87b3-97f621bfbe31","***","2026-09-11T17:42:20.332Z","2","Hit and Run/Car Accident"
 "0718d016-5815-4f7f-8dcd-0d02d298cf2b","***","2026-09-12T17:52:57.586Z","1","Hit and Run/Car Accident"
 "ac3804c3-d624-4fa6-abd5-36a231e3c72f","***","2026-09-12T18:02:15.049Z","201","Hit and Run/Car Accident"
 "85922589-f3af-49e0-8106-a79299d7eaf0","***","2026-09-12T23:08:38.557Z","2","Hit and Run/Car Accident"
@@ -57,3 +55,5 @@
 "83a4e7a2-059e-4cc1-b759-655e89583d8c","***","2026-10-09T15:25:00.577Z","960","Hit and Run/Car Accident"
 "180dd8d0-9690-49c9-bcab-62fefc61ff3a","***","2026-10-10T02:24:43.806Z","7","Motor Vehicle Theft/Stolen"
 "271e2be2-c5f0-4167-881e-b988607fd40f","***","2026-10-10T08:25:20.429Z","9","Motor Vehicle Theft/Stolen"
+"65fe7519-8528-4137-8dfe-a6c4ac1ff8cc","***","2026-10-11T10:37:30.123Z","934","Hit and Run/Car Accident"
+"e3b8b0d3-532b-4805-93dc-b202636b2a75","***","2026-10-11T20:19:57.663Z","2","Hit and Run/Car Accident"
