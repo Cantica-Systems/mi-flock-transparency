@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Sun Oct 11 2026
+Last updated: Mon Oct 12 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-942,067
+929,554
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,181
+1,160
 
 Hotlists Alerted On
 
@@ -98,15 +98,15 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-7,916
+7,672
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
-Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
+Motor Vehicle Theft/Stolen
 Destruction/Damage/Vandalism of Property
 
 Sharing Network Data With
