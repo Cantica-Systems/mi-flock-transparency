@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Mon Oct 12 2026
+Last updated: Tue Oct 13 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-91,512
+92,132
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-72
+71
 
 Sharing Network Data With
 
@@ -152,7 +152,6 @@ Flint MI PD
 Flint Township MI PD
 Floyd County IN SO
 Flushing City MI PD
-Fort Wayne IN PD
 Frankenmuth MI PD - New Business
 Franklin IN PD
 Franklin-Bingham Farms MI PD

@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"d66346e3-7984-4523-9fbb-2a219404acda","***","2026-09-12T00:39:54.894Z","13","Larceny/Theft Offenses"
 "8dc801d6-da05-4c56-8285-2da366e1d408","***","2026-09-13T03:52:22.067Z","1","Larceny/Theft Offenses"
 "c9ff823b-3c71-4ae2-94c1-e3ee142780df","***","2026-09-14T20:13:19.342Z","321","Drugs/Narcotics"
 "115414ec-33d8-4350-9fa8-9fb6418daa07","***","2026-09-16T05:25:12.864Z","13","Financial Crime (Embezzlement/Fraud)"
@@ -52,3 +51,7 @@
 "ccb3032e-74e1-4073-bb8a-efba15e0283e","***","2026-10-08T14:55:49.658Z","313","Drugs/Narcotics"
 "30348063-a57a-46e1-bafa-502f837f9c24","***","2026-10-08T17:47:55.432Z","313","Drugs/Narcotics"
 "eed9d24b-5f8a-47e1-897a-ceead143d47f","***","2026-10-08T19:27:21.711Z","313","Drugs/Narcotics"
+"d0702dbb-a1de-4777-b298-2c3f2aa3b27f","***","2026-10-12T07:32:51.219Z","1","Wanted Person (Arrest Warrant/Fugitive)"
+"abe84682-402d-44ca-8e23-ff3e0416e8d1","***","2026-10-12T08:08:45.614Z","4","Wanted Person (Arrest Warrant/Fugitive)"
+"4203f412-7a0c-4c25-8788-aab435523055","***","2026-10-12T17:33:50.924Z","322","Drugs/Narcotics"
+"6365fed2-ab96-44fe-8e74-4846afaef866","***","2026-10-12T19:38:58.045Z","312","Drugs/Narcotics"

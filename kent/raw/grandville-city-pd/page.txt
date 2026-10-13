@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Mon Oct 12 2026
+Last updated: Tue Oct 13 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-308,702
+305,410
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-53
+56
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-839
+838
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -131,8 +131,8 @@ Offense Types used for LPR searches in the last 30 days.
 Drugs/Narcotics
 Assault/Battery Offenses
 Obstructing the Police (Fleeing/Eluding)
-Larceny/Theft Offenses
 Financial Crime (Embezzlement/Fraud)
+Larceny/Theft Offenses
 
 Sharing Network Data With
 
@@ -564,7 +564,6 @@ Forest Preserve District Will County PD (IL)
 Forrest County MS SO
 Fort Loramie OH PD
 Fort Pierce FL PD
-Fort Wayne IN PD
 Fort Worth TX PD
 Fox Lake IL PD
 Fox Valley IL Parks District
@@ -1334,7 +1333,6 @@ Ripon WI PD
 River Falls WI PD
 River Rouge MI PD
 Riverside County CA District Attorney
-Riverside IL PD
 Riverton IL PD
 Roanoke VA PD
 Robertson County TN SO
