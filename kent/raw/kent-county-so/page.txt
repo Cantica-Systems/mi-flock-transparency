@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Tue Oct 13 2026
+Last updated: Wed Oct 14 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-916,653
+910,364
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,149
+1,160
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-7,485
+7,320
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -636,7 +636,6 @@ Blackman/Leoni Public Safety MI
 Bloomfield Twp MI PD
 Blue Springs MO PD
 Boardman Township OH PD
-Bolingbrook IL PD
 Boone County IN SO
 Bourbonnais IL PD
 Bradley IL PD
@@ -807,7 +806,6 @@ Harrison County IN SO
 Harvey IL PD
 Harwood Heights IL PD
 Hazel Crest IL PD
-Hazel Park MI PD
 Hazelwood MO PD
 Hazleton PA PD
 Hebron IN PD

@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Oct 13 2026
+Last updated: Wed Oct 14 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-92,132
+93,142
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-71
+70
 
 Sharing Network Data With
 
@@ -331,7 +331,6 @@ Birmingham MI PD
 Blackman/Leoni Public Safety MI
 Bloomfield Twp MI PD
 Boone County IL SO
-Bradley IL PD
 Braidwood IL PD
 Brookfield WI PD
 Brown Deer WI PD
@@ -422,7 +421,6 @@ Harrison County IN SO
 Harvey IL PD
 Harwood Heights IL PD
 Hazel Crest IL PD
-Hazel Park MI PD
 Hazelwood MO PD
 Henderson KY PD
 Henry County OH SO
