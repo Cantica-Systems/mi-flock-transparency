@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"3240d109-ab37-4db5-864c-17d1b0d64cc2","***","2026-09-13T16:09:18.780Z","1","Destruction/Damage/Vandalism of Property"
-"88683ca2-d30f-40b9-85a1-70c27e6c947b","***","2026-09-13T22:43:19.338Z","1","Destruction/Damage/Vandalism of Property"
 "a9a6ad16-4b9c-432c-88b7-c0cfbe0a32d2","***","2026-09-14T03:55:12.291Z","5","Motor Vehicle Theft/Stolen"
 "77315064-cd76-467b-8214-b9b9a698faca","***","2026-09-14T10:17:19.001Z","196","Hit and Run/Car Accident"
 "b07b3702-8664-401f-b856-730f9157bf59","***","2026-09-15T12:33:12.438Z","2","Assault/Battery Offenses"
@@ -62,3 +60,5 @@
 "59b7eb0c-4794-4796-9776-c78a84962b8b","***","2026-10-12T18:15:23.912Z","2","Hit and Run/Car Accident"
 "e6cc3c45-a68f-4d50-9bd1-9f7b467f2c19","***","2026-10-12T21:15:58.248Z","933","Drugs/Narcotics"
 "435b4910-5124-4deb-b500-f83eb3b7a6fc","***","2026-10-12T23:27:24.583Z","933","Drugs/Narcotics"
+"a6a4d115-2311-4115-9ce8-d4680d7f8ce7","***","2026-10-13T15:01:39.521Z","2","Hit and Run/Car Accident"
+"0e2ee951-a5a0-4fa3-97c3-9626cb6d5e66","***","2026-10-13T17:42:45.869Z","2","Drugs/Narcotics"
