@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Wed Oct 14 2026
+Last updated: Thu Oct 15 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-910,364
+903,308
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,160
+1,182
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-7,320
+7,094
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -638,7 +638,6 @@ Blue Springs MO PD
 Boardman Township OH PD
 Boone County IN SO
 Bourbonnais IL PD
-Bradley IL PD
 Bridgeport Township MI PD
 Bristol IN PD
 Brookhaven GA PD
@@ -801,6 +800,7 @@ Hancock County IN SO
 Hanover IN PD
 Hanover Park IL PD
 Hapeville GA PD
+Hardin County OH SO
 Harris County Const TX Pct 5
 Harrison County IN SO
 Harvey IL PD
@@ -938,6 +938,7 @@ Michigan City IN PD
 Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
 Michigan State Police
+Middlebury IN PD
 Midlothian IL PD
 Milan MI PD
 Milford MI PD
@@ -1071,6 +1072,7 @@ Roseland IN PD
 Roseville MI PD
 Ross Township PA PD
 Rossford OH PD
+Round Lake Park IL PD
 Royal Oak MI PD
 Saginaw County MI SO
 Saginaw MI PD
@@ -1171,6 +1173,7 @@ West Chester OH PD
 West Chicago IL PD
 West Lafayette IN PD
 West Palm Beach FL PD
+West Terre Haute IN PD
 Westchester IL PD
 Westfield IN PD
 Westlake OH PD

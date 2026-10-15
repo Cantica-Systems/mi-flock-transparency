@@ -1,6 +1,4 @@
 "id","searchDate","networkCount","offenseType"
-"d376a908-e275-402c-abf5-5db16a43ddc8","2026-09-13T09:13:08.162Z","23","Motor Vehicle Theft/Stolen"
-"e9d95ef2-44da-453d-8f09-b93c25576042","2026-09-13T09:27:18.676Z","23","Stolen Property Offenses"
 "1e5880c0-25fc-4d2e-be7a-f4e575f93246","2026-09-14T13:04:56.875Z","23","Larceny/Theft Offenses, Burglary/Breaking & Entering"
 "25d1ede4-e2e1-4753-b136-1893c30f80c6","2026-09-16T18:20:11.813Z","23","Financial Crime (Embezzlement/Fraud)"
 "011d8743-d338-472a-9019-f28af6900978","2026-09-16T19:06:56.281Z","23","Financial Crime (Embezzlement/Fraud)"
@@ -61,3 +59,6 @@
 "d2a35428-c905-4e24-81a1-8299caa97c9a","2026-10-11T17:03:13.123Z","23","Financial Crime (Embezzlement/Fraud)"
 "636d576a-f0d2-4d02-8eb7-aac2bb76bfa3","2026-10-11T18:16:11.725Z","23","Financial Crime (Embezzlement/Fraud)"
 "4f10ad86-e05a-4736-8c2c-4ffc1311be9e","2026-10-11T19:00:01.289Z","23","Financial Crime (Embezzlement/Fraud)"
+"7aaed81d-6eee-48e3-b015-e03d333ee5ac","2026-10-13T13:44:56.067Z","23","Hit and Run/Car Accident"
+"a19bf3d0-8cc2-4fbe-8624-deb02c9d400c","2026-10-13T14:01:12.512Z","13","Hit and Run/Car Accident"
+"d26ae0c3-b459-4e7c-8244-2c09f5fdf8d9","2026-10-13T19:50:37.853Z","3","Larceny/Theft Offenses"

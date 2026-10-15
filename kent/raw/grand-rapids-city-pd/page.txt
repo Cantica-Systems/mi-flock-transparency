@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Wed Oct 14 2026
+Last updated: Thu Oct 15 2026
 
 Overview
 
@@ -105,7 +105,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-533,903
+534,011
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
@@ -123,14 +123,14 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,978
+6,871
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Wanted Person (Arrest Warrant/Fugitive)
-Drugs/Narcotics
 Motor Vehicle Theft/Stolen
+Drugs/Narcotics
 Obstructing the Police (Fleeing/Eluding)
 Robbery
 
@@ -1864,7 +1864,6 @@ Bourbonnais IL PD
 Bowdon GA PD
 Bowling Green Warren County Drug Task Force KY
 Bradford County FL SO
-Bradley IL PD
 Brecksville OH PD
 Breese IL PD
 Bridgeport Township MI PD
@@ -2687,6 +2686,7 @@ Roseville MI PD
 Ross Township PA PD
 Rossford OH PD
 Roswell GA PD
+Round Lake Park IL PD
 Rowan County NC SO
 Royal Oak MI PD
 Rutherford County NC SO
@@ -2904,6 +2904,7 @@ West Chicago IL PD
 West Des Moines IA PD
 West Lafayette IN PD
 West Palm Beach FL PD
+West Terre Haute IN PD
 West Union PD SC
 Westchester IL PD
 Westfield IN PD
