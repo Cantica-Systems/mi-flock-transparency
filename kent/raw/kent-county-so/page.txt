@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Thu Oct 15 2026
+Last updated: Fri Oct 16 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-903,308
+894,746
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,182
+1,187
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-7,094
+6,843
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -817,6 +817,7 @@ Henry County IN SO
 Henry County OH SO
 Hermitage PA PD
 Herrin IL PD
+Hickory Hills IL PD
 Highland IN PD
 Highland Park MI PD
 Hilliard OH PD
@@ -1169,6 +1170,7 @@ Wayne IL PD
 Wells County IN SO
 West Allis WI PD
 West Bloomfield Twp MI PD
+West Carrollton OH PD
 West Chester OH PD
 West Chicago IL PD
 West Lafayette IN PD

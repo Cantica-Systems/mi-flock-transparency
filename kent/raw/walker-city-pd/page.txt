@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Wed Oct 14 2026
+Last updated: Thu Oct 15 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-284,224
+287,183
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-63
+64
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,163
+1,162
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -630,7 +630,6 @@ Slinger WI PD
 Solon OH PD
 South Bend IN PD
 Southfield MI PD
-Southgate KY PD
 Speedway IN PD
 Spencer County IN SO
 Spring Arbor MI PD

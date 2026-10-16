@@ -1,5 +1,4 @@
 "id","searchDate","networkCount","offenseType"
-"1e5880c0-25fc-4d2e-be7a-f4e575f93246","2026-09-14T13:04:56.875Z","23","Larceny/Theft Offenses, Burglary/Breaking & Entering"
 "25d1ede4-e2e1-4753-b136-1893c30f80c6","2026-09-16T18:20:11.813Z","23","Financial Crime (Embezzlement/Fraud)"
 "011d8743-d338-472a-9019-f28af6900978","2026-09-16T19:06:56.281Z","23","Financial Crime (Embezzlement/Fraud)"
 "98a744c2-3529-4eeb-88e9-8d8a3e5d997d","2026-09-16T21:28:41.682Z","23","Financial Crime (Embezzlement/Fraud)"
@@ -62,3 +61,5 @@
 "7aaed81d-6eee-48e3-b015-e03d333ee5ac","2026-10-13T13:44:56.067Z","23","Hit and Run/Car Accident"
 "a19bf3d0-8cc2-4fbe-8624-deb02c9d400c","2026-10-13T14:01:12.512Z","13","Hit and Run/Car Accident"
 "d26ae0c3-b459-4e7c-8244-2c09f5fdf8d9","2026-10-13T19:50:37.853Z","3","Larceny/Theft Offenses"
+"26d7a9fd-be96-4859-80d7-3b05586db3b9","2026-10-14T14:05:14.269Z","23","Larceny/Theft Offenses"
+"e068ae7f-3331-4e11-86d2-479f14721c70","2026-10-14T17:57:18.397Z","2","Financial Crime (Embezzlement/Fraud)"

@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Wed Oct 14 2026
+Last updated: Thu Oct 15 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-609,844
+609,425
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-253
+254
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-9,989
+9,815
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -120,8 +120,8 @@ Offense Types used for LPR searches in the last 30 days.
 Hit and Run/Car Accident
 Weapons Offense (Guns/Shots Fired)
 Obstructing the Police (Fleeing/Eluding)
-Motor Vehicle Theft/Stolen
 Assault/Battery Offenses
+Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
 
@@ -523,7 +523,6 @@ Elk Grove IL PD
 Elk Rapids MI PD
 Elkhart County IN SO
 Elkhart PD IN
-Elkhorn WI PD
 Ellsworth County KS SO
 Elm Grove WI PD
 Elm Ridge TX PD
@@ -1558,7 +1557,6 @@ Sturgis MI PD
 Sullivan IL PD
 Sullivan County IN SO
 Summerset SD PD
-Summit County OH SO
 Summit County Sheriff's Office (CO)
 Summit IL PD
 Sumner County TN SO
@@ -2318,7 +2316,6 @@ South Bend IN PD
 South Central OH Major Crimes Unit
 South Sioux City NE PD
 Southfield MI PD
-Southgate KY PD
 Sparta TN PD
 Sparta WI PD
 Speedway IN PD
@@ -2345,7 +2342,6 @@ Stow OH PD
 Sturgis MI PD
 Sugarcreek Township OH PD
 Sullivan County IN SO
-Summit County OH SO
 Sumpter Twp MI PD
 SUNY-Onondaga Community College Campus NY PD
 Sylvania OH PD
