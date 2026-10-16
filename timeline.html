@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Timeline - Michigan Flock transparency ledger</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="tl-page">
+
+<div id="tip" role="status" aria-live="polite"></div>
+
+<header class="masthead tl-mast">
+  <p class="eyebrow reveal"><span class="tick"></span> Michigan Flock transparency ledger &middot; <a href="index.html">back to the report</a></p>
+  <h1 class="reveal">Every day the archive <em>knows about</em>.</h1>
+  <p class="dek reveal">One bar per day, split by what changed: organizations added to or dropped from a sharing list, cameras appearing or disappearing on the map inside these jurisdictions, a portal&rsquo;s camera count moving, a portal that stopped publishing a figure, a capture that failed. Pick a day to see its full state and every change by name. The arrow keys step through days; the address bar carries the day and filters, so a view can be linked.</p>
+</header>
+
+<section class="tl-controls">
+  <div class="controls" id="range-controls"></div>
+  <div class="controls" id="type-controls"></div>
+  <div class="controls" id="source-controls"></div>
+</section>
+
+<section class="tl-strip">
+  <figure>
+    <div class="scroller"><svg id="strip" role="img" aria-label="Stacked bars of changes per day across the archive, with search volume as a line"></svg></div>
+    <div class="legend" id="strip-legend"></div>
+  </figure>
+  <p class="hint" id="strip-note"></p>
+</section>
+
+<section class="tl-day">
+  <div class="day-nav">
+    <button type="button" class="chip" id="day-prev" aria-label="Previous day"><span>&larr; previous</span></button>
+    <h2 id="day-head"></h2>
+    <button type="button" class="chip" id="day-next" aria-label="Next day"><span>next &rarr;</span></button>
+  </div>
+  <p class="hint" id="day-sub"></p>
+  <div class="day-grid">
+    <div>
+      <h3 class="dep-head">What changed</h3>
+      <div id="day-events"></div>
+    </div>
+    <div>
+      <h3 class="dep-head">State that day</h3>
+      <div class="scroller"><table class="matrix" id="day-state"></table></div>
+      <p class="hint" id="day-state-note"></p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <h3>How to read it</h3>
+  <p>Changes are things that differed between one capture and the next, or one map refresh and the next. The rolling counters a portal publishes (vehicles seen, hotlist hits, thirty-day searches) move on every capture, so they are shown as each day&rsquo;s state with a delta rather than counted as changes. A day inside the capture window with no bar and no capture is a day the capture did not run, and the panel says so.</p>
+  <p id="tl-notes"></p>
+</footer>
+
+<script src="timeline-data.js"></script>
+<script src="timeline.js"></script>
+</body>
+</html>

@@ -1,0 +1,968 @@
+@import url("fonts.css");
+
+/* ---------------------------------------------------------------
+   Flock transparency archive, proof of concept.
+   Aesthetic: cold instrument ground, warm ink, editorial serif
+   display against a full-mono body. Dark only, deliberately.
+   Series colors are the validated dark-mode palette
+   (#2f96c0 / #c08a10 / #a85bb0) - do not re-step by eye.
+   --------------------------------------------------------------- */
+
+:root {
+  color-scheme: dark;
+
+  --ground:      #0a0c0e;
+  --surface-1:   #10141a;
+  --surface-2:   #161b22;
+  --rule:        #232a33;
+  --rule-bright: #36404c;
+
+  --ink:      #ece7dc;
+  --ink-2:    #a8b0ba;
+  --ink-dim:  #7f8892;
+
+  --series-1: #2f96c0;  /* Michigan / local */
+  --series-2: #c08a10;  /* out of state */
+  --series-3: #a85bb0;  /* federal + spare */
+
+  --ramp-0: #141b21;
+  --ramp-1: #17394a;
+  --ramp-2: #1a5570;
+  --ramp-3: #1d7396;
+  --ramp-4: #2f96c0;
+  --ramp-5: #5bb4d8;
+
+  --display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  --gutter: clamp(1.25rem, 4vw, 4.5rem);
+  --measure: 68ch;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Fine grain over the whole page, so flat fills get some tooth. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+a { color: var(--series-1); text-underline-offset: 3px; }
+
+/* ---------------- masthead ---------------- */
+
+.masthead {
+  padding: clamp(3rem, 9vw, 7rem) var(--gutter) clamp(2rem, 5vw, 3.5rem);
+  border-bottom: 1px solid var(--rule);
+  position: relative;
+  overflow: hidden;
+}
+
+.masthead::after {
+  /* A faint scan of vertical hairlines, like a plate-reader field of view. */
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    90deg,
+    transparent 0 calc(100% / 24 - 1px),
+    rgba(47, 150, 192, 0.09) calc(100% / 24 - 1px) calc(100% / 24)
+  );
+  mask-image: linear-gradient(180deg, rgba(0,0,0,0.85), transparent 78%);
+}
+
+.eyebrow {
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin: 0 0 1.5rem;
+  display: flex;
+  gap: 0.9rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.eyebrow .tick {
+  width: 26px;
+  height: 1px;
+  background: var(--series-1);
+  display: inline-block;
+}
+
+h1 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(2.9rem, 8.5vw, 6.6rem);
+  line-height: 0.94;
+  letter-spacing: -0.015em;
+  margin: 0 0 1.5rem;
+  max-width: 17ch;
+  position: relative;
+}
+
+h1 em {
+  font-style: italic;
+  color: var(--series-2);
+}
+
+.dek {
+  max-width: var(--measure);
+  color: var(--ink-2);
+  font-size: 14.5px;
+  margin: 0 0 0.9rem;
+  position: relative;
+}
+
+.provenance {
+  font-size: 11.5px;
+  color: var(--ink-dim);
+  max-width: var(--measure);
+  position: relative;
+  border-left: 1px solid var(--rule-bright);
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+
+/* ---------------- stat band ---------------- */
+
+.stat-band {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  border-bottom: 1px solid var(--rule);
+}
+
+.stat {
+  padding: clamp(1.6rem, 3.5vw, 2.6rem) var(--gutter);
+  border-right: 1px solid var(--rule);
+}
+.stat:last-child { border-right: 0; }
+
+.stat-num {
+  font-family: var(--display);
+  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  display: block;
+  margin-bottom: 0.55rem;
+}
+.stat-num.accent { color: var(--series-2); }
+.stat-num.cool { color: var(--series-1); }
+
+.stat-label {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.stat-note { font-size: 12px; color: var(--ink-2); line-height: 1.5; }
+
+/* ---------------- sections ---------------- */
+
+section {
+  padding: clamp(3rem, 7vw, 5.5rem) var(--gutter);
+  border-bottom: 1px solid var(--rule);
+}
+
+.sec-head { margin-bottom: 2.5rem; max-width: var(--measure); }
+
+.sec-num {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--series-1);
+  display: block;
+  margin-bottom: 0.9rem;
+}
+
+h2 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(1.8rem, 4vw, 2.9rem);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  margin: 0 0 1rem;
+}
+
+.sec-head p { color: var(--ink-2); margin: 0; font-size: 14px; }
+
+.finding {
+  margin-top: 1.5rem;
+  padding: 1rem 1.2rem;
+  background: var(--surface-1);
+  border-left: 2px solid var(--series-2);
+  font-size: 13.5px;
+  color: var(--ink);
+  max-width: var(--measure);
+}
+
+/* ---------------- figures ---------------- */
+
+figure { margin: 0; }
+
+.legend {
+  display: flex;
+  gap: 1.4rem;
+  flex-wrap: wrap;
+  font-size: 11.5px;
+  color: var(--ink-2);
+  margin-bottom: 1.4rem;
+  letter-spacing: 0.04em;
+}
+.legend span { display: inline-flex; align-items: center; gap: 0.5rem; }
+.legend i {
+  width: 11px; height: 11px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.scroller { overflow-x: auto; padding-bottom: 0.5rem; }
+
+/* Charts keep their natural size and the wrapper scrolls. Scaling an SVG
+   down to a phone viewport drops the axis labels below a legible size. */
+svg { display: block; height: auto; }
+.scroller svg { max-width: none; }
+svg text { font-family: var(--mono); }
+
+details.table-view {
+  margin-top: 1.6rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 0.9rem;
+  font-size: 12px;
+}
+details.table-view summary {
+  cursor: pointer;
+  color: var(--ink-dim);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 10.5px;
+}
+details.table-view summary:hover { color: var(--ink); }
+details.table-view table { border-collapse: collapse; margin-top: 1rem; width: 100%; }
+details.table-view th, details.table-view td {
+  text-align: right;
+  padding: 0.35rem 0.8rem 0.35rem 0;
+  border-bottom: 1px solid var(--rule);
+  white-space: nowrap;
+}
+details.table-view th:first-child, details.table-view td:first-child { text-align: left; }
+details.table-view th { color: var(--ink-dim); font-weight: 500; }
+
+/* ---------------- tooltip ---------------- */
+
+#tip {
+  position: fixed;
+  z-index: 500;
+  pointer-events: none;
+  background: var(--surface-2);
+  border: 1px solid var(--rule-bright);
+  padding: 0.6rem 0.8rem;
+  font-size: 12px;
+  line-height: 1.5;
+  max-width: 280px;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  transition: opacity 0.12s ease;
+}
+#tip.on { opacity: 1; }
+#tip b { color: var(--ink); font-weight: 600; }
+#tip .k { color: var(--ink-dim); }
+
+/* ---------------- map ---------------- */
+
+.map-wrap {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2rem;
+}
+@media (min-width: 940px) {
+  .map-wrap { grid-template-columns: minmax(0, 1.55fr) minmax(240px, 0.85fr); align-items: start; }
+}
+
+.scale {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 11px;
+  color: var(--ink-dim);
+  margin-top: 1.2rem;
+}
+.scale i { width: 30px; height: 9px; display: inline-block; }
+
+.rank-list { font-size: 12.5px; }
+.rank-row {
+  display: grid;
+  grid-template-columns: 2.4rem 1fr 3.2rem;
+  gap: 0.7rem;
+  align-items: center;
+  padding: 0.32rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.rank-row .bar { display: block; height: 7px; background: var(--series-2); border-radius: 0 2px 2px 0; }
+.rank-row.mi .bar { background: var(--series-1); }
+.rank-row .n { text-align: right; color: var(--ink-2); }
+
+/* ---------------- disclosure matrix ---------------- */
+
+.matrix { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.matrix th {
+  text-align: left;
+  font-weight: 500;
+  color: var(--ink-dim);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0 0.7rem 0.8rem 0;
+  vertical-align: bottom;
+}
+.matrix td { padding: 0.62rem 0.7rem 0.62rem 0; border-top: 1px solid var(--rule); }
+.matrix td:first-child { color: var(--ink); }
+.mark { font-size: 13px; }
+.mark.yes { color: var(--series-1); }
+.mark.no { color: var(--series-2); }
+.matrix .muted { color: var(--ink-dim); }
+
+/* ---------------- footer ---------------- */
+
+footer {
+  padding: clamp(2.5rem, 6vw, 4rem) var(--gutter) 5rem;
+  color: var(--ink-dim);
+  font-size: 12px;
+  max-width: 88ch;
+}
+footer h3 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.45rem;
+  color: var(--ink);
+  margin: 0 0 0.9rem;
+}
+footer p { margin: 0 0 0.9rem; }
+footer code {
+  color: var(--ink-2);
+  background: var(--surface-1);
+  padding: 0.1rem 0.35rem;
+}
+
+/* ---------------- load-in ---------------- */
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(14px);
+    animation: rise 0.75s cubic-bezier(0.16, 0.84, 0.44, 1) forwards;
+  }
+  .reveal:nth-child(1) { animation-delay: 0.04s; }
+  .reveal:nth-child(2) { animation-delay: 0.12s; }
+  .reveal:nth-child(3) { animation-delay: 0.2s; }
+  .reveal:nth-child(4) { animation-delay: 0.28s; }
+}
+@keyframes rise {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ---------------- tabs ---------------- */
+
+section[hidden] { display: none !important; }
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 1.6rem;
+  padding: 1.1rem var(--gutter) 0;
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--ground);
+}
+.tabs button {
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  padding: 0.55rem 0 0.75rem;
+  margin-bottom: -1px;
+  font: inherit;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+.tabs button:hover { color: var(--ink); }
+.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--series-2); }
+.matrix tr.stale td { color: var(--series-2); }
+.today-list .ev { padding: 0.45rem 0; border-top: 1px solid var(--rule); font-size: 12.5px; line-height: 1.6; }
+.today-list .ev:first-child { border-top: 0; }
+
+/* ---------------- county band ---------------- */
+
+.county-band {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  border-bottom: 1px solid var(--rule);
+}
+
+.county-card {
+  padding: clamp(1.8rem, 4vw, 3rem) var(--gutter);
+  border-right: 1px solid var(--rule);
+  position: relative;
+}
+.county-card:last-child { border-right: 0; }
+.county-card::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 2px;
+  background: var(--accent, var(--series-1));
+}
+
+.county-card h3 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(1.7rem, 3.5vw, 2.4rem);
+  margin: 0 0 0.2rem;
+  line-height: 1;
+}
+.county-card .sub {
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin: 0 0 1.6rem;
+}
+.county-figs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(96px, 1fr));
+  gap: 1.1rem 1.4rem;
+}
+.county-figs div span:first-child {
+  display: block;
+  font-size: 1.55rem;
+  font-family: var(--display);
+  line-height: 1.1;
+  color: var(--ink);
+}
+.county-figs div span:last-child {
+  display: block;
+  font-size: 11px;
+  color: var(--ink-2);
+  line-height: 1.35;
+  margin-top: 0.15rem;
+}
+/* per-department breakdown inside the county card: one line per department,
+   figures underneath, so it wraps at any card width instead of overflowing */
+.county-depts {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  font-size: 11.5px;
+}
+.county-depts li {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0 0.9rem;
+  align-items: start;
+  padding: 0.45rem 0;
+  border-top: 1px solid var(--rule);
+}
+.county-depts li:first-child { border-top-color: var(--rule-bright); }
+.county-depts .dept-main span { display: block; color: var(--ink-2); margin-top: 0.15rem; font-variant-numeric: tabular-nums; line-height: 1.4; }
+.county-depts .dept-cams { text-align: right; }
+.county-depts .dept-cams b {
+  display: block;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.45rem;
+  line-height: 1;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+.county-depts .dept-cams small {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin-top: 0.15rem;
+}
+.county-depts .muted { color: var(--ink-dim); }
+.county-depts .dept-main span.fresh { color: var(--ink-dim); }
+.county-depts .dept-main span.fresh.stale { color: var(--series-2); }
+.dept-link {
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: var(--ink);
+  cursor: pointer;
+  text-align: left;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
+.dept-link:hover, .dept-link:focus-visible { color: var(--series-1); outline: none; }
+
+/* ---------------- controls ---------------- */
+
+.controls {
+  display: flex;
+  gap: 1.6rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+.ctl-group { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+.ctl-label {
+  font-size: 10.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin-right: 0.3rem;
+}
+
+.chip {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: var(--ink-2);
+  background: var(--surface-1);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0.3rem 0.72rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  transition: border-color 0.14s ease, color 0.14s ease;
+}
+.chip:hover { border-color: var(--rule-bright); color: var(--ink); }
+.chip[aria-pressed="true"] { color: var(--ink); border-color: currentColor; }
+.chip i {
+  width: 9px; height: 9px; border-radius: 50%;
+  background: var(--rule-bright);
+  display: inline-block;
+  flex: 0 0 auto;
+}
+.chip[aria-pressed="true"] i { background: var(--swatch, var(--series-1)); }
+.chip.county { font-weight: 500; }
+.chip:focus-visible { outline: 2px solid var(--series-1); outline-offset: 2px; }
+
+.hint { font-size: 11.5px; color: var(--ink-dim); margin: 0 0 1.4rem; max-width: var(--measure); }
+
+/* ---------------- small multiples ---------------- */
+
+.sparks {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 1rem;
+  margin-top: 2.2rem;
+}
+.spark {
+  background: var(--ground);
+  border: 1px solid var(--rule);
+  padding: 0.95rem 1.1rem 0.7rem;
+}
+.spark h4 {
+  margin: 0 0 0.1rem;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink);
+}
+.spark .meta {
+  font-size: 10.5px;
+  color: var(--ink-2);
+  margin-bottom: 0.5rem;
+}
+
+/* ---------------- change log ---------------- */
+
+.changes { display: grid; gap: 1px; background: var(--rule); border: 1px solid var(--rule); }
+.change {
+  background: var(--ground);
+  padding: 1rem 1.2rem;
+  display: grid;
+  gap: 0.55rem;
+  grid-template-columns: minmax(0, 1fr);
+}
+@media (min-width: 860px) {
+  .change { grid-template-columns: 216px minmax(0, 1fr); gap: 0.55rem 1.6rem; }
+}
+.change-when { font-size: 11.5px; color: var(--ink-2); }
+.change-when b { display: block; color: var(--ink); font-weight: 500; font-size: 12.5px; }
+.change-when .cty { color: var(--ink-dim); }
+.change-delta { font-size: 11.5px; color: var(--ink-dim); margin-top: 0.25rem; }
+.orgs { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.org {
+  font-size: 11.5px;
+  padding: 0.2rem 0.55rem;
+  border-radius: 2px;
+  border: 1px solid var(--rule-bright);
+  color: var(--ink-2);
+}
+.org.add { border-color: #2f96c0; color: #7cc4de; }
+.org.rem { border-color: #6d5010; color: #d9a63a; }
+.org.more { border-style: dashed; color: var(--ink-dim); }
+.change.suspect { background: var(--surface-1); }
+.flag {
+  display: inline-block;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--series-3);
+  border: 1px solid var(--series-3);
+  border-radius: 2px;
+  padding: 0.1rem 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.departures { margin-top: 2rem; font-size: 12.5px; }
+.dep-row {
+  display: grid;
+  grid-template-columns: 2.6rem minmax(0, 1fr);
+  gap: 0.9rem;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.dep-row .n {
+  font-family: var(--display);
+  font-size: 1.3rem;
+  color: var(--series-2);
+  line-height: 1;
+}
+.dep-row .who { color: var(--ink); }
+.dep-row .where { color: var(--ink-dim); font-size: 11.5px; display: block; margin-top: 0.15rem; }
+
+.dep-head {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.35rem;
+  color: var(--ink);
+  margin: 0 0 0.5rem;
+}
+
+/* ---------------- geographic map ---------------- */
+
+.geo-wrap {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2rem;
+}
+@media (min-width: 1040px) {
+  .geo-wrap { grid-template-columns: minmax(0, 1.7fr) minmax(280px, 0.8fr); align-items: start; }
+}
+
+#geomap .state {
+  fill: var(--surface-1);
+  stroke: var(--rule-bright);
+  stroke-width: 0.7;
+  cursor: pointer;
+}
+#geomap .state:hover { fill: var(--surface-2); }
+#geomap .state.sel { fill: var(--surface-2); stroke: var(--ink-dim); stroke-width: 1.4; }
+#geomap .state.home { stroke: var(--series-2); stroke-width: 1.6; }
+#geomap .dot { stroke: var(--ground); stroke-width: 0.6; }
+
+.geo-panel-head {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 0 0 0.2rem;
+  color: var(--ink);
+}
+.geo-panel-sub {
+  font-size: 11.5px;
+  color: var(--ink-dim);
+  margin: 0 0 1.2rem;
+  letter-spacing: 0.06em;
+}
+.geo-kind { margin-bottom: 1.1rem; }
+.geo-kind h5 {
+  margin: 0 0 0.4rem;
+  font-size: 10.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  font-weight: 500;
+}
+.geo-list {
+  max-height: 520px;
+  overflow-y: auto;
+  padding-right: 0.4rem;
+}
+.geo-item {
+  display: grid;
+  grid-template-columns: 9px minmax(0, 1fr);
+  gap: 0.6rem;
+  align-items: baseline;
+  padding: 0.26rem 0;
+  border-bottom: 1px solid var(--rule);
+  font-size: 12px;
+}
+.geo-item i { width: 7px; height: 7px; border-radius: 50%; display: block; margin-top: 0.35rem; }
+.geo-item .where { color: var(--ink-dim); font-size: 11px; }
+.geo-empty { color: var(--ink-dim); font-size: 12.5px; }
+
+/* ---------------- transparency tiers ---------------- */
+
+.tiers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2.6rem;
+}
+.tier h4 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.35rem;
+  color: var(--ink);
+  margin: 0 0 0.4rem;
+}
+.tier ul { list-style: none; margin: 1rem 0 0; padding: 0; }
+.tier li {
+  padding: 0.55rem 0 0.55rem 1.5rem;
+  border-top: 1px solid var(--rule);
+  font-size: 12.5px;
+  position: relative;
+  color: var(--ink);
+}
+.tier li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 1.05rem;
+  width: 7px; height: 7px;
+  border-radius: 50%;
+}
+.tier:first-child li::before { background: var(--series-1); }
+.tier-mid li::before { background: var(--series-3); }
+.tier:last-child li::before {
+  background: none;
+  border: 1px solid var(--series-2);
+}
+.tier li span { display: block; color: var(--ink-2); font-size: 11.5px; margin-top: 0.2rem; }
+
+.callout {
+  margin-top: 2.6rem;
+  padding: 1.4rem 1.6rem;
+  background: var(--surface-1);
+  border-left: 2px solid var(--series-1);
+  max-width: 76ch;
+  font-size: 13.5px;
+}
+.callout.warn { border-left-color: var(--series-2); }
+.callout h4 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.4rem;
+  margin: 0 0 0.6rem;
+  color: var(--ink);
+}
+.callout p { margin: 0 0 0.7rem; }
+.callout p:last-child { margin-bottom: 0; }
+.callout .quote {
+  border-left: 1px solid var(--rule-bright);
+  padding-left: 0.9rem;
+  color: var(--ink-2);
+  font-size: 12.5px;
+}
+.pp-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--rule);
+  font-size: 12.5px;
+}
+.pp-row .yes { color: var(--series-2); }
+.pp-row .no { color: var(--ink-dim); }
+
+/* --- department profile, directly under the county band --------------- */
+
+.profile {
+  padding: 1.6rem var(--gutter) 0;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+.profile .controls { margin-bottom: 1.2rem; }
+.profile-body { min-height: 1px; }
+.prof-card {
+  border: 1px solid var(--rule);
+  border-left: 2px solid var(--series-1);
+  background: var(--surface-1);
+  padding: 1.3rem 1.5rem;
+}
+.prof-card h3 {
+  font-family: var(--display);
+  font-size: clamp(1.4rem, 2.4vw, 1.9rem);
+  font-weight: 400;
+  margin: 0 0 0.15rem;
+  letter-spacing: 0.01em;
+}
+.prof-card .prof-sub { color: var(--ink-dim); font-size: 11.5px; margin: 0 0 1.2rem; }
+.prof-figs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(132px, 1fr));
+  gap: 1rem 1.6rem;
+}
+.prof-fig span:first-child {
+  display: block;
+  font-size: 11.5px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+}
+.prof-fig span:last-child { display: block; font-size: 18px; color: var(--ink); margin-top: 0.2rem; }
+.prof-fig span:last-child small {
+  display: block;
+  font-size: 11.5px;
+  color: var(--ink-2);
+  letter-spacing: 0;
+  margin-top: 0.1rem;
+}
+.prof-note { color: var(--ink-2); font-size: 12.5px; margin: 1.2rem 0 0; max-width: var(--measure); }
+
+/* --- organization search, in the jurisdictions side column ------------ */
+
+#geo-side { display: grid; gap: 1.8rem; align-content: start; }
+.orgsearch input {
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.6rem 0.75rem;
+  background: var(--surface-1);
+  border: 1px solid var(--rule-bright);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 13px;
+}
+.orgsearch input:focus-visible { outline: 2px solid var(--series-1); outline-offset: 1px; }
+.orgsearch .hint { margin: 0.5rem 0 0.8rem; }
+#org-results { display: grid; gap: 1px; background: var(--rule); border: 1px solid var(--rule); }
+#org-results:empty { display: none; }
+.org-hit {
+  background: var(--ground);
+  padding: 0.55rem 0.7rem;
+  font-size: 12px;
+  display: grid;
+  grid-template-columns: 7px minmax(0, 1fr);
+  gap: 0.6rem;
+  align-items: start;
+}
+.org-hit i { width: 7px; height: 7px; border-radius: 50%; display: block; margin-top: 0.35rem; }
+.org-hit b { font-weight: 500; color: var(--ink); }
+.org-hit .where { display: block; color: var(--ink-dim); font-size: 11.5px; }
+.org-hit .via { display: block; color: var(--ink-2); font-size: 11.5px; margin-top: 0.2rem; }
+
+/* --- sustained runs --------------------------------------------------- */
+
+.runs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1px;
+}
+/* A ring rather than a container background, so a part-full last row does
+   not leave a lit empty cell where a card would be. */
+.run { background: var(--ground); padding: 0.9rem 1rem; box-shadow: 0 0 0 1px var(--rule); }
+.run .n { font-family: var(--display); font-size: 1.7rem; line-height: 1; color: var(--series-1); }
+.run .n small { font-family: var(--mono); font-size: 11.5px; color: var(--ink-2); }
+.run .who { color: var(--ink); font-size: 12.5px; margin-top: 0.45rem; }
+.run .when { color: var(--ink-dim); font-size: 11.5px; }
+.run .kinds { color: var(--ink-2); font-size: 11.5px; margin-top: 0.5rem; }
+
+/* --- divergence matrix ------------------------------------------------ */
+
+.matrix td.cell { text-align: center; color: var(--ink); padding: 0.62rem 0.35rem; }
+.matrix td.cell.self { color: var(--ink-dim); }
+.matrix th.rot { font-size: 11.5px; letter-spacing: 0.06em; text-align: center; }
+
+.fp-scale { display: flex; align-items: center; gap: 0.5rem; font-size: 11.5px;
+  color: var(--ink-dim); margin: 0.9rem 0 0; }
+.fp-scale i { width: 26px; height: 9px; display: inline-block; }
+
+/* --- cameras on the ground ------------------------------------------- */
+
+#cammap .juris { fill: var(--surface-1); stroke: var(--rule-bright); stroke-width: 1; }
+#cammap .juris.sel { fill: var(--surface-2); stroke: var(--ink-dim); stroke-width: 1.4; }
+#cammap .juris.dim { fill: none; stroke: var(--rule); }
+#cammap .juris.unmirrored { fill: none; stroke: var(--rule-bright); stroke-dasharray: 4 3; }
+.matrix .dotrow { display: inline-flex; gap: 3px; margin-left: 0.5rem; vertical-align: middle; }
+.matrix .dotrow i { width: 7px; height: 7px; border-radius: 50%; background: var(--rule-bright); display: inline-block; }
+.matrix .dotrow i.on { background: var(--series-1); }
+#cammap .cam { stroke: var(--ground); stroke-width: 0.5; }
+.cam-panel-head { font-family: var(--display); font-size: 1.5rem; margin: 0 0 0.2rem; }
+.cam-figs { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 0.8rem 1.2rem; margin: 1rem 0; }
+.cam-figs div span:first-child { display: block; font-size: 11.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-dim); }
+.cam-figs div span:last-child { display: block; font-size: 20px; color: var(--ink); }
+.cam-figs div span:last-child small { display: block; font-size: 11.5px; color: var(--ink-2); }
+.cam-verdict { font-size: 12.5px; color: var(--ink-2); max-width: 44ch; margin: 0; }
+.cam-verdict b { color: var(--ink); font-weight: 500; }
+.matrix td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.matrix i.dir { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 0.45rem; vertical-align: middle; }
+.matrix i.dir.short { background: var(--series-2); }
+.matrix i.dir.over { background: var(--series-1); }
+
+/* --- the private side ------------------------------------------------ */
+
+#private-band { margin: 0 0 2.4rem; }
+.matrix td.dots { white-space: nowrap; letter-spacing: 0.35em; }
+.matrix td.dots i { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--rule-bright); }
+.matrix td.dots i.on { background: var(--series-1); }
+.matrix tr.group td { padding-top: 1.1rem; font-size: 11.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-dim); border-top: 0; }
+.matrix th.tilt { font-size: 11.5px; letter-spacing: 0.04em; }
+
+/* --- timeline explorer -------------------------------------------------- */
+
+.eyebrow a { color: var(--series-1); text-decoration: none; border-bottom: 1px solid var(--rule-bright); }
+.eyebrow a:hover { border-bottom-color: var(--series-1); }
+.tl-mast { padding-bottom: 1.6rem; }
+.tl-controls { padding-top: 0; padding-bottom: 0.6rem; }
+.tl-controls .controls { margin-bottom: 0.5rem; }
+.tl-strip { padding-top: 0.4rem; }
+.tl-day { padding-top: 0.6rem; }
+.day-nav { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
+.day-nav h2 {
+  font-family: var(--display);
+  font-size: clamp(1.5rem, 2.8vw, 2.2rem);
+  font-weight: 400;
+  margin: 0;
+  flex: 1 1 auto;
+  min-width: 14ch;
+}
+.day-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2rem; }
+@media (min-width: 1040px) { .day-grid { grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); align-items: start; } }
+.ev-group { margin-bottom: 1.4rem; }
+.ev-group h4 {
+  font-size: 11.5px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin: 0 0 0.5rem;
+  font-weight: 500;
+}
+.ev-group h4 span { color: var(--ink); margin-left: 0.5rem; }
+.ev { padding: 0.55rem 0; border-top: 1px solid var(--rule); }
+.ev-who { font-size: 12.5px; color: var(--ink); margin-bottom: 0.35rem; }
+.ev-who .k { color: var(--ink-dim); font-size: 11.5px; }
+#day-state small.up { color: var(--series-1); font-size: 11.5px; margin-left: 0.3rem; }
+#day-state small.down { color: var(--series-2); font-size: 11.5px; margin-left: 0.3rem; }
+#day-state td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.tl-page footer { margin-top: 3rem; }
