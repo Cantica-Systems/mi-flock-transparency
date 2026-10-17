@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Fri Oct 16 2026
+Last updated: Sat Oct 17 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-428,386
+430,237
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-150
+144
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,747
+6,738
 
 Sharing Network Data With
 
@@ -1928,7 +1928,6 @@ Rantoul IL PD
 Rapides Parish LA SO
 Ravenna OH PD
 Ravenswood WV PD
-Raytown MO PD
 Reading IL PD
 Reading OH PD
 Redford Twp MI PD
