@@ -6,7 +6,7 @@ Visit Flock
 Holland MI PD
 Transparency Portal
 
-Last updated: Wed Sep 23 2026
+Last updated: Sun Oct 18 2026
 
 Overview
 
@@ -16,7 +16,7 @@ Since the implementation of ALPR technology, HDPS has experienced a significant 
 
 Criminal activities, stolen vehicles, and missing persons cases often cross jurisdictional lines. Therefore, responsible sharing of information with authorized law enforcement partners enables agencies to connect evidence, identify related criminal activities, and respond more swiftly in urgent situations.
 
-HDPS utilizes ALPR technology with clearly defined safeguards. All searches must include a reason for the search, offense type and include a valid complaint number. All system activity is logged and reviewed by the Captain of Investigations and an audit process is in place. HDPS does not use ALPR information for civil immigration enforcement purposes.
+HDPS utilizes ALPR technology with clearly defined safeguards. All searches must include a reason for the search, offense type and include a valid complaint number. All system activity is logged and reviewed by the Captain of Investigations and an audit process is in place. HDPS does not use ALPR information for immigration enforcement purposes.
 
 This transparency portal offers the public access to HDPS's ALPR policies, including safeguards, data retention practices, and usage statistics. Our goal is to showcase the public safety benefits of this technology while also ensuring accountability in its usage.
 
@@ -26,6 +26,8 @@ MICHIGAN SUCCESS STORIES IN THE NEWS
 Featured Success Stories
 
 Holland Department of Public Safety News
+
+Read below for a few of Holland's Success Stories:
 
 2023- FSC used to solve a homicide where victim was listening to music in his vehicle before he was shot several times through the driver's door. Victim was found deceased when officers arrived. FSC used to verify suspect and witness movements prior to the murder. This information added credibility to the witness statements. Assisted in building a timeline for the incident which are vital in homicide investigations.
 
@@ -41,7 +43,7 @@ Holland Department of Public Safety News
 
 2026- FSC was used in a multi-state fraud/identity theft investigation. Suspects rented U-haul vehicles to commit a variety of crimes. License plate information of the rented U-haul vehicles were obtained by detectives and the FSC system was used to locate the suspect vehicles in the Grand Rapids area. Suspects were arrested and several items of evidence were located inside the U-haul vehicles.
 
-2026 Detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. Detectives received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody.
+2026- Detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. Detectives received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody.
 In the Michigan News
 MANCELONA, MI
 6/1/2026
@@ -101,16 +103,16 @@ Total Number of Plates searched by HPD
 
 Total user search sessions over the last 30 days.
 
-233
+127
 Top 5 Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Weapons Offense (Guns/Shots Fired)
-Hit and Run/Car Accident
-Larceny/Theft Offenses
-Assault/Battery Offenses
 Motor Vehicle Theft/Stolen
+Traffic Infraction
+Hit and Run/Car Accident
+Assault/Battery Offenses
+Larceny/Theft Offenses
 Policy & Trust
 
 Holland City ALPR System
@@ -132,7 +134,7 @@ Does not continuously track an individual's movements.
 Does not use data to issue traffic tickets.
 Does not capture demographic data.
 Does not capture cell phone information or IP address data.
-Does not provide immigration information or status
+Does not provide immigration information or status.
 
 What the ALPR System Does Do
 
@@ -140,11 +142,11 @@ The System focuses on vehicles- not people.
 
 Vehicles checked in the system are very limited and specifically selected based on information gathered by officers or detectives during law enforcement investigations.
 
-These Checks are case-driven and because a vehicle is associated with criminal activity, wanted suspects, or lost individuals.
+These checks are case-driven and because a vehicle is associated with criminal activity, wanted suspects, or lost individuals.
 
 Each check requires justification by entering a complaint number and law enforcement reason for the check into the system. (Policy strictly limits to law enforcement only)
 
-Each check is completely tracked and able to be audited
+Each check is completely tracked and able to be audited.
 
 What the ALPR System Does Do
 
@@ -179,13 +181,13 @@ Our agency follows applicable laws and policies that govern the use of this tech
 Click below for HDPS Policy and Procedure:
 
 https://www.cityofholland.com/DocumentCenter/View/9508/ALPR-Policy
-
-Public Search Audit
-
-Download to view searches performed over the last 30 days.
-
-Download CSV
 More Info
+
+Public Search Details
+
+Click below for Public Search Details in September 2026:
+
+https://www.cityofholland.com/DocumentCenter/View/9614/Holland-PD-Audit-Log
 
 Data Security
 
@@ -195,7 +197,7 @@ All data collection points are equipped with secure communication protocols to p
 
 All data is encrypted using industry-standard algorithms.
 
-HDPS does not sell ALPR data to any entity
+HDPS does not sell ALPR data to any entity.
 
 Certified by the FBI's Criminal Justice Information Services (CJIS).
 
@@ -207,7 +209,7 @@ Retention of ALPR related photos and data is stored for a maximum of 30 days, wh
 
 Accreditation Standards
 
-The Holland Police Department is accredited through the Michigan Law Enforcement Accreditation Commission
+The Holland Police Department is accredited through the Michigan Law Enforcement Accreditation Commission.
 
 Accreditation standards related to ALPR were recently updated. HPD already operates within these new standards.
 
@@ -235,7 +237,7 @@ United States v. Ellison, 462 F.3d 557, 561 (6th Cir. 2006) (“[A] motorist has
 
 TENTH CIRCUIT
 
-United States v. Matthews, 615 F.2d 1279, 1285 (10th Cir. 1980) (holding that motorists have no reasonable expectation of privacy in license plates exposed to public view)
+United States v. Matthews, 615 F.2d 1279, 1285 (10th Cir. 1980) (holding that motorists have no reasonable expectation of privacy in license plates exposed to public view).
 
 UNITED STATES DISTRICT COURTS
 
@@ -293,7 +295,7 @@ United States v. Rubin, 556 F. Supp. 3d 1123, 1129-30 (N.D. Cal. 2021) (finding 
 
 ILLINOIS
 
-United States v. Brown, No. 19 CR 949, 2021 WL 4963602, at *2-4 (N.D. Ill. Oct. 26, 2021) (denying motion to suppress because agents “did not conduct a search under the Fourth Amendment when they queried the automatic license plate reader databases”)
+United States v. Brown, No. 19 CR 949, 2021 WL 4963602, at *2-4 (N.D. Ill. Oct. 26, 2021) (denying motion to suppress because agents “did not conduct a search under the Fourth Amendment when they queried the automatic license plate reader databases”).
 
 STATE COURT CASES
 
