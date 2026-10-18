@@ -17,6 +17,8 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | St. Clair | [`st-clair/`](st-clair/) | none yet; guessed slugs kept for ad-hoc probe |
 | Lenawee | [`lenawee/`](lenawee/) | none yet; guessed slugs kept for ad-hoc probe |
 
+Holland PD's search audit, since 24 September 2026, is a city file linked from the portal rather than a CSV inlined on the page. The current URL and how those rows map into `YYYY-MM.csv` are in [`ottawa/README.md`](ottawa/README.md).
+
 Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](#about-this-archive) for trademark, ownership, privacy, and accuracy notes.
 
 Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
@@ -54,7 +56,7 @@ Flock Safety® is a registered trademark of Flock Group Inc. The name appears in
 
 ### What is archived, and who owns it
 
-The records here were published by the listed law enforcement agencies on transparency portals that Flock Safety hosts on their behalf. Under Flock's published data-ownership terms, this material is the agency's data rather than Flock's. The search audits, share lists, and summary figures are copied verbatim, with no edits to values.
+The records here were published by the listed law enforcement agencies on transparency portals that Flock Safety hosts on their behalf. Under Flock's published data-ownership terms, this material is the agency's data rather than Flock's. The search audits, share lists, and summary figures are copied as published. Holland PD's rows taken from the City of Holland audit file are mapped into the five search-audit columns; the city file itself is kept under `ottawa/raw/holland-city-pd/`. See [`ottawa/README.md`](ottawa/README.md).
 
 The files under `raw/` are page snapshots kept for provenance, so any figure in this archive can be traced back to the page it came from. Those snapshots include the portal's own layout, styling, images, and editorial text, which remain the property of Flock Group Inc. and of the respective agencies. Nothing in this repository licenses that material to anyone.
 

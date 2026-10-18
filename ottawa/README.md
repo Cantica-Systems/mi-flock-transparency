@@ -4,6 +4,10 @@ This is an archive of [Flock Safety transparency portals](https://transparency.f
 
 - **Holland PD**, `https://transparency.flocksafety.com/holland-mi-pd`
 
+Since 24 September 2026 that portal has not inlined a search-audit CSV. The page links a monthly file published by the City of Holland. The capture follows the link on the page, and the URL fetched for the latest snapshot is [`raw/holland-city-pd/audit.url`](raw/holland-city-pd/audit.url). As of 18 October 2026 it is [Holland PD Audit Log](https://www.cityofholland.com/DocumentCenter/View/9614/Holland-PD-Audit-Log) (CivicPlus document 9614, September 2026).
+
+[`raw/holland-city-pd/audit.csv`](raw/holland-city-pd/audit.csv) is that city file. Its columns are `ID`, `Org Name`, `Total Networks Searched`, `Time Frame`, `Reason`, `Search Time`, `Search Type`, `Text Prompt`, and `Moderation` (a leading space follows each comma in the header). [`data/holland-city-pd/YYYY-MM.csv`](data/holland-city-pd/) keeps the five columns below. Rows taken from the city file use those columns: `id` is `ID`, `searchDate` is `Search Time` in UTC with no fractional seconds, `networkCount` is `Total Networks Searched`, `offenseType` is the category before ` - ` in `Reason`, and `userId` is blank. Rows already stored from the portal CSV are left as they were. `Search Type`, `Time Frame`, and the free-text half of `Reason` are only in `audit.csv`.
+
 Kent County agencies are in [kent-co-mi-flock](../kent/).
 
 Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
@@ -20,8 +24,9 @@ data/
     stats.csv                portal totals, one row per snapshot
 
 raw/
-  <agency>/page.txt          visible portal text; git history is the series
-  <agency>/page.html         full HTML as served, including the inlined audit CSV
+  holland-city-pd/page.txt   visible portal text; git history is the series
+  holland-city-pd/audit.csv  search-audit file linked from the portal
+  holland-city-pd/audit.url  URL that file was fetched from
 ```
 
 Search-audit CSVs are partitioned by **search time**. A search from 31 August lives in `2026-08.csv` even if it first appeared here in September. Ids already stored are left as-is.
