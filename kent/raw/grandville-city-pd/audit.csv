@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"bee0fc17-3f1a-463b-bbfb-92ef8ff7fe5f","***","2026-09-17T13:58:41.615Z","319","Larceny/Theft Offenses"
-"45175e90-0ce1-4532-84ce-5ec4eb00ad8e","***","2026-09-17T15:55:09.660Z","309","Drugs/Narcotics"
-"fe560daa-147b-4e75-930f-cbd6d546025f","***","2026-09-17T16:02:58.758Z","309","Drugs/Narcotics"
 "7cf82665-9202-4274-9378-56c7a9385aa1","***","2026-09-18T16:22:45.560Z","8","Financial Crime (Embezzlement/Fraud)"
 "dec4e599-995b-4957-b863-28a3301aa644","***","2026-09-19T10:37:19.693Z","2","Financial Crime (Embezzlement/Fraud)"
 "81a885f5-8ff9-463c-9797-27356cd99aa8","***","2026-09-19T11:41:09.535Z","13","Motor Vehicle Theft/Stolen"
@@ -61,3 +58,4 @@
 "c2190e9d-ddba-4393-943e-1110e60cff88","***","2026-10-14T13:48:05.507Z","320","Drugs/Narcotics"
 "9b4368d2-f3e6-4e1f-bfe6-abaf3e8f99be","***","2026-10-14T14:03:57.951Z","320","Drugs/Narcotics"
 "956d55e3-0a2a-4193-8474-e057fb44c33d","***","2026-10-14T15:17:23.428Z","320","Drugs/Narcotics"
+"ea38c460-db5e-4bdf-8333-24c77373967c","***","2026-10-17T02:31:56.541Z","13","Hit and Run/Car Accident"
