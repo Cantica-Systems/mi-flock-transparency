@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Mon Oct 19 2026
+Last updated: Tue Oct 20 2026
 
 Overview
 
@@ -105,7 +105,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-305,348
+300,017
 
 Number of Searches
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-773
+771
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1264,7 +1264,6 @@ Perry County OH SO
 Perrysburg OH PD
 Perrysburg Twp OH PD
 Peru IN PD
-Phelps County MO SO
 Phelps County NE SO
 Pike County IL SO
 Pine County MN SO

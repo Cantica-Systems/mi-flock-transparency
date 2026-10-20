@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Sun Oct 18 2026
+Last updated: Mon Oct 19 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-296,638
+299,968
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-64
+60
 
 Hotlists Alerted On
 
