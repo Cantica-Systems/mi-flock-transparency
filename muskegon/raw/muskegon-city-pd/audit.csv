@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"60fe3eb3-5dcf-4cc1-adf7-aae4e99bbd45","***","2026-09-20T12:34:23.668Z","2","Stolen Property Offenses"
-"10d51b82-7aec-4202-b162-2c24e59e8bfa","***","2026-09-20T13:01:46.276Z","1","Stolen Property Offenses"
 "549fc3b0-0c53-4e22-a27f-8aa04860edbd","***","2026-09-21T14:36:50.260Z","236","Assault/Battery Offenses (Domestic)"
 "f528ce5d-dd98-40cc-b90b-76a038cd0b37","***","2026-09-23T08:10:25.605Z","8","Motor Vehicle Theft/Stolen"
 "02af56be-8b55-4dc8-b7c8-0087ba41a576","***","2026-09-23T14:08:25.851Z","982","Assault/Battery Offenses (Domestic)"
@@ -72,3 +70,5 @@
 "e4b13d4d-da80-4e69-bea6-ab8960019a9b","***","2026-10-19T16:30:01.872Z","2","Homicide/Death Investigation"
 "b01ecc17-1d51-4cb0-a3c3-58e53af9a922","***","2026-10-19T17:22:56.202Z","952","Homicide/Death Investigation"
 "ccdf34a7-f712-429f-b1be-b656936d8332","***","2026-10-19T19:37:25.762Z","2","Homicide/Death Investigation"
+"a61779d7-6433-4ac9-89d6-213ab1254ff9","***","2026-10-20T13:25:30.740Z","2","Homicide/Death Investigation"
+"31963666-2104-4c42-82db-95f4d13f173d","***","2026-10-20T14:17:56.769Z","2","Homicide/Death Investigation"
