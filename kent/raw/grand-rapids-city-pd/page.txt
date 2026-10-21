@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Tue Oct 20 2026
+Last updated: Wed Oct 21 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-526,733
+526,097
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-798
+807
 
 Hotlists Alerted On
 
@@ -123,14 +123,14 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,417
+6,358
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Wanted Person (Arrest Warrant/Fugitive)
-Motor Vehicle Theft/Stolen
 Drugs/Narcotics
+Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
 Missing/Endangered Person/Runaway
 
@@ -367,7 +367,6 @@ Chesapeake VA PD
 Chester Township OH PD
 Chesterfield MO PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Chetek WI PD
 Cheviot OH PD
 Cheyenne WY PD
@@ -721,7 +720,6 @@ Henderson KY PD
 Hendersonville TN PD
 Hendricks County IN SO
 Henry County AL SO
-Henry County IL SO
 Henry County IN SO
 Henry County OH SO
 Herrin IL PD
@@ -1745,7 +1743,6 @@ Winchester IN PD
 Windsor CO PD
 Windsor- IL- PD
 Winnebago County IL SO
-Winnebago County WI SO
 Winterville NC PD
 Wisconsin State Capitol Police (WI)
 Wixom MI PD
@@ -1975,7 +1972,6 @@ Columbus IN PD
 Columbus NC PD
 Commerce GA PD
 Concord NC PD
-Conway SC PD
 Cookeville TN PD
 Copley Township OH PD
 Coral Springs FL PD
@@ -2924,7 +2920,6 @@ Wilson County TN SO
 Wilton Manors FL PD
 Winder GA PD
 Winnebago County IL SO
-Winnebago County WI SO
 Wixom MI PD
 Wolverine Lake MI PD
 Woodford County IL SO

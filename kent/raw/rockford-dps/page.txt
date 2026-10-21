@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Oct 20 2026
+Last updated: Wed Oct 21 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-100,295
+100,933
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-86
+90
 
 Sharing Network Data With
 
@@ -614,7 +614,6 @@ Whitley County IN Prosector
 Wichita Falls TX PD
 Willow Springs IL PD
 Winnebago County IL SO
-Winnebago County WI SO
 Wixom MI PD
 Wolverine Lake MI PD
 Wyandotte MI PD

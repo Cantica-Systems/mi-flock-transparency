@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Mon Oct 19 2026
+Last updated: Tue Oct 20 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-598,849
+596,537
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-223
+225
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8,710
+8,528
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -366,7 +366,6 @@ Chesapeake VA PD
 Chester Township OH PD
 Chesterfield MO PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Chetek WI PD
 Cheviot OH PD
 Cheyenne WY PD
@@ -727,7 +726,6 @@ Henderson County KY SO
 Henderson KY PD
 Hendersonville TN PD
 Henry County AL SO
-Henry County IL SO
 Henry County IN SO
 Henry County OH SO
 Hermitage PA PD
@@ -1775,7 +1773,6 @@ Winchester IN PD
 Windsor CO PD
 Windsor- IL- PD
 Winnebago County IL SO
-Winnebago County WI SO
 Wintersville OH PD
 Winterville NC PD
 Wisconsin State Capitol Police (WI)
@@ -2419,7 +2416,6 @@ Willoughby OH PD
 Willow Springs IL PD
 Wilmore KY PD
 Winnebago County IL SO
-Winnebago County WI SO
 Wixom MI PD
 Wolverine Lake MI PD
 Woodford County IL SO
