@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Wed Oct 21 2026
+Last updated: Thu Oct 22 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-526,097
+526,451
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-807
+813
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,358
+6,290
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1135,7 +1135,6 @@ NE - Colfax Co SO
 Nebraska State Patrol
 Nelson County KY SO
 Neosho County KS SO
-Neshkoro WI PD
 New Albany OH PD
 New Baden IL PD
 New Berlin WI PD
@@ -1338,7 +1337,6 @@ Putnam County TN SO
 Puyallup WA PD
 Quincy IL PD
 Racine County WI Communications Center
-Racine WI PD
 Radcliff KY PD
 Radford City VA PD
 Raeford NC PD
@@ -2469,7 +2467,6 @@ Monroe County WI SO
 Monroe GA PD
 Monroe MI PD
 Monroe NC PD
-Monroeville OH PD
 Monterey TN PD
 Montezuma GA PD
 Montezuma IN PD
@@ -2504,7 +2501,6 @@ Muskegon MI PD
 Muskegon Township MI PD (Muskegon County)
 Napoleon OH PD
 Napoleon Twp MI PD
-Neshkoro WI PD
 New Albany IN PD
 New Baden IL PD
 New Baltimore MI PD
@@ -2642,7 +2638,6 @@ Putnam County IN SO
 Putnam County TN SO
 Quincy IL PD
 Rabun County GA SO
-Racine WI PD
 Raeford NC PD
 Ralls County MO SO
 Reading OH PD

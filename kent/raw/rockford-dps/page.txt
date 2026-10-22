@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Wed Oct 21 2026
+Last updated: Thu Oct 22 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-100,933
+100,978
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-90
+91
 
 Sharing Network Data With
 
@@ -532,7 +532,6 @@ Portage MI PD
 Portage WI PD
 Porter County IN SO
 Posen IL PD
-Racine WI PD
 Redford Twp MI PD
 Richland County WI SO
 Richland Village MI PD
