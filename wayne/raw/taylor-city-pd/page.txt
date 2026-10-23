@@ -5,7 +5,7 @@ Visit Flock
 Taylor MI PD
 Transparency Portal
 
-Last updated: Thu Oct 22 2026
+Last updated: Fri Oct 23 2026
 
 Overview
 
@@ -107,25 +107,25 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-735,211
+735,157
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-348
+355
 
 Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+Wisconsin DOJ, MI LEIN, NCMEC Amber Alert
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,318
+5,283
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
