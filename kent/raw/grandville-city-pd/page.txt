@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Thu Oct 22 2026
+Last updated: Fri Oct 23 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-295,059
+292,774
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-61
+63
 
 Hotlists Alerted On
 
@@ -123,15 +123,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-752
+736
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
+Larceny/Theft Offenses
 Assault/Battery Offenses
 Hit and Run/Car Accident
-Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 
 Sharing Network Data With
@@ -1304,7 +1304,6 @@ Putnam County TN SO
 Puyallup WA PD
 Quincy IL PD
 Racine County WI Communications Center
-Racine WI PD
 Radcliff KY PD
 Radford City VA PD
 Raeford NC PD

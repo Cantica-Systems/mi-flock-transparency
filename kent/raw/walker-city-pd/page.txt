@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Wed Oct 21 2026
+Last updated: Thu Oct 22 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-302,583
+302,099
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,138
+1,097
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -588,7 +588,6 @@ Posen IL PD
 Powell OH PD
 Putnam County IN SO
 Putnam County TN SO
-Racine WI PD
 Ralls County MO SO
 Reading OH PD
 Redford Twp MI PD
