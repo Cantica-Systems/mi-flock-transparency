@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Fri Oct 23 2026
+Last updated: Sat Oct 24 2026
 
 Overview
 
@@ -105,32 +105,32 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-524,794
+523,855
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-817
+819
 
 Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+Wisconsin DOJ, MI LEIN, NCMEC Amber Alert
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,336
+6,288
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Wanted Person (Arrest Warrant/Fugitive)
-Drugs/Narcotics
 Motor Vehicle Theft/Stolen
+Drugs/Narcotics
 Obstructing the Police (Fleeing/Eluding)
 Missing/Endangered Person/Runaway
 
@@ -1443,6 +1443,7 @@ Sevierville TN PD
 Seward County NE SO
 Seymour IN PD
 Sharonville OH PD
+Shawano WI PD
 Sheboygan WI PD
 Shelby County AL SO
 Shelby County KY SO

@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Fri Oct 23 2026
+Last updated: Sat Oct 24 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-101,109
+101,401
 
 Number of Searches
 
@@ -83,7 +83,7 @@ Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCMEC Amber Alert, MI LEIN
+MI LEIN, NCMEC Amber Alert
 
 Number of Hotlist Hits
 
