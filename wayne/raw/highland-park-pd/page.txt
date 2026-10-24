@@ -5,7 +5,7 @@ Visit Flock
 Highland Park MI PD
 Transparency Portal
 
-Last updated: Fri Oct 23 2026
+Last updated: Sat Oct 24 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-233,420
+232,283
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-42
+41
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,439
+1,420
 Policy & Trust
 
 What's Detected
