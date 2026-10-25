@@ -42,4 +42,5 @@ captured_at,last_updated,retention,lpr_cameras,unique_vehicles,searches,hotlists
 2026-10-22T20:01:22Z,Wed Oct 21 2026,30 days,40,288760,1097,"NCMEC Amber Alert, Wisconsin DOJ, MI LEIN",7179,7,,1097,55
 2026-10-23T20:01:48Z,Thu Oct 22 2026,30 days,40,288995,1097,"NCMEC Amber Alert, Wisconsin DOJ, MI LEIN",7185,7,,1097,46
 2026-10-24T20:01:24Z,Fri Oct 23 2026,30 days,40,287724,1113,"Wisconsin DOJ, MI LEIN, NCMEC Amber Alert",7287,7,,1113,49
+2026-10-25T20:01:23Z,Sat Oct 24 2026,30 days,40,287750,1105,"Wisconsin DOJ, MI LEIN, NCMEC Amber Alert",7357,7,,1105,16
 backfill,,,,,,,,,,,0
