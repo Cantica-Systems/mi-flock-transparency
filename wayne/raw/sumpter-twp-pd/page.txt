@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Mon Oct 26 2026
+Last updated: Tue Oct 27 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,158
+11,067
 
 Number of Searches
 
@@ -164,7 +164,6 @@ Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
 Michigan State Police
 Milan MI PD
-Milford MI PD
 Monroe County MI SO
 Monroe MI PD
 Mount Morris Township PD MI
