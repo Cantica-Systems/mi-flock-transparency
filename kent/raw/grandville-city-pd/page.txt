@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Mon Oct 26 2026
+Last updated: Tue Oct 27 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-287,832
+282,731
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-66
+70
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-676
+661
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -132,7 +132,7 @@ Drugs/Narcotics
 Larceny/Theft Offenses
 Assault/Battery Offenses
 Hit and Run/Car Accident
-Wanted Person (Arrest Warrant/Fugitive)
+Burglary/Breaking & Entering
 
 Sharing Network Data With
 
@@ -386,7 +386,6 @@ Clinton County SO - OH
 Clinton SC PD
 Clinton TN PD
 Clinton Township MI PD
-Clintwood VA PD
 Clio MI PD
 Clive IA PD
 Clover SC PD
@@ -1730,7 +1729,6 @@ Receiving Network Data From
 Organizations sharing their data with Grandville PD MI.
 
 Adrian MI PD
-Akron OH PD
 Albion MI DPS
 Alcoa TN PD
 Allegan County SO MI

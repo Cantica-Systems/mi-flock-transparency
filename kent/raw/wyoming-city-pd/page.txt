@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Sun Oct 25 2026
+Last updated: Mon Oct 26 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-578,226
+570,386
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-189
+191
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,911
+7,710
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1804,7 +1804,6 @@ Organizations sharing their data with Wyoming MI PD.
 [Federal] Wright Patterson OH Air Force Base
 Adams County IN SO
 Adrian MI PD
-Akron OH PD
 Albion MI DPS
 Alcoa TN PD
 Allegan County SO MI
@@ -1818,7 +1817,6 @@ Arcola IL PD
 Armada MI PD
 Arnold MO PD
 Ashland City TN PD
-Athens IL PD
 Auburn Hills MI PD
 Audrain County MO SO
 Avon IN PD
@@ -2082,7 +2080,6 @@ Lafayette IN PD
 Lafayette TN PD
 LaGrange KY PD
 Lake Delton WI PD
-Lakeside Park-Crestview Hills KY PD
 Lansing IL PD
 Lathrup Village MI PD
 Lawrence County District Attorney's Office PA

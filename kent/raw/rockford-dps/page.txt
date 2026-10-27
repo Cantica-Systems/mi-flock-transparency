@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Mon Oct 26 2026
+Last updated: Tue Oct 27 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-100,973
+99,358
 
 Number of Searches
 
@@ -311,7 +311,6 @@ Organizations sharing their data with Rockford Dept of Public Safety MI.
 [Federal] Indiana Dunes National Park IN PD
 Adams County IN SO
 Adrian MI PD
-Akron OH PD
 Albion MI DPS
 Allegan County SO MI
 Almont MI PD
@@ -490,7 +489,6 @@ Michigan State Police
 Middlebury IN PD
 Midlothian IL PD
 Milan MI PD
-Milford MI PD
 Monon IN PD
 Monroe County MI SO
 Monroe County WI SO
