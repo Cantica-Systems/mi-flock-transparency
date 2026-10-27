@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"5ac96ecd-7ad5-4e55-8b74-421eb0cbd8a5","***","2026-09-26T02:13:11.519Z","8","Motor Vehicle Theft/Stolen"
-"576c8684-a0c4-4e3d-a020-cfc759eb0a43","***","2026-09-26T06:22:01.549Z","8","Motor Vehicle Theft/Stolen"
 "3bfe9162-f924-4ec4-a3a9-a11dc7ed5b83","***","2026-09-28T16:51:38.070Z","235","Assault/Battery Offenses (Domestic)"
 "04b58c0e-3875-4f59-88ab-a7d307fc21c4","***","2026-09-29T13:28:47.393Z","9","Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)"
 "a2b4271e-11e6-4661-b60f-b8a7fe730cc2","***","2026-09-29T16:57:42.082Z","949","Drugs/Narcotics"
@@ -86,3 +84,4 @@
 "7bdd1b1f-d10a-4dd8-9023-346fffd0bb54","***","2026-10-25T12:18:14.742Z","2","Homicide/Death Investigation"
 "0a968332-f617-476a-81e5-bd7a9a2f635c","***","2026-10-25T13:31:52.166Z","2","Homicide/Death Investigation"
 "9991fd36-f998-4035-a957-0f8b1e53dec5","***","2026-10-25T14:39:34.164Z","2","Homicide/Death Investigation"
+"290c66a0-087d-4685-b735-ee8522d5374d","***","2026-10-26T20:18:21.693Z","2","Hit and Run/Car Accident"
