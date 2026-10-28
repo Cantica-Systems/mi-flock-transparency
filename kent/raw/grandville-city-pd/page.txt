@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Tue Oct 27 2026
+Last updated: Wed Oct 28 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-282,731
+281,445
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-70
+71
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-661
+642
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1031,7 +1031,6 @@ Middlesex Township PA PD
 Midlothian IL PD
 Milan IL PD
 Milan MI PD
-Milford MI PD
 Mill Creek WA PD
 Millcreek Twp PA PD
 Milltown IN PD
@@ -1861,7 +1860,6 @@ Michigan City IN PD
 Michigan State Police
 Midlothian IL PD
 Milan MI PD
-Milford MI PD
 Monon IN PD
 Monroe County MI SO
 Monroe County WI SO

@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Tue Oct 27 2026
+Last updated: Wed Oct 28 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-812,955
+811,373
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,073
+1,106
 
 Hotlists Alerted On
 
@@ -98,7 +98,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-5,269
+5,267
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -378,7 +378,6 @@ Michigan State Police
 Middle Tennessee State TN PD
 Middleburg Heights OH PD
 Milan MI PD
-Milford MI PD
 Missouri Department of Conservation
 Missouri Information Analysis Center
 MOCIC
@@ -942,7 +941,6 @@ Michigan State Police
 Middlebury IN PD
 Midlothian IL PD
 Milan MI PD
-Milford MI PD
 Milton IN PD
 Minster OH PD
 Miramar FL PD

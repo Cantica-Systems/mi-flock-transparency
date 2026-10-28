@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Tue Oct 27 2026
+Last updated: Wed Oct 28 2026
 
 Overview
 
@@ -81,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-122,563
+122,122
 
 Number of Searches
 
@@ -99,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-215
+207
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -236,7 +236,6 @@ Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
 Michigan State Police
 Milan MI PD
-Milford MI PD
 Monroe County MI SO
 Monroe MI PD
 Mount Morris Township PD MI
@@ -445,7 +444,6 @@ Michigan City IN PD
 Michigan State Police
 Midlothian IL PD
 Milan MI PD
-Milford MI PD
 Monon IN PD
 Monroe County MI SO
 Monroe County WI SO
