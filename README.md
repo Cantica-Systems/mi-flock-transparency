@@ -21,6 +21,8 @@ Holland PD's search audit, since 24 September 2026, is a city file linked from t
 
 Maintained by Cantica Systems (https://cantica.dev), independent of Flock Safety and of the agencies listed. See [About this archive](#about-this-archive) for trademark, ownership, privacy, and accuracy notes.
 
+The ledger built from this archive is published at https://cantica-systems.github.io/mi-flock-transparency/. It puts every county's searches, sharing lists and cameras on one set of pages. A nightly build reads this branch in full and replaces the [`site`](https://github.com/Cantica-Systems/mi-flock-transparency/tree/site) branch with the result, so the pages are never edited by hand.
+
 Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
 
 ## Layout
