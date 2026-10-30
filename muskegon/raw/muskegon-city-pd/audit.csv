@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"04b58c0e-3875-4f59-88ab-a7d307fc21c4","***","2026-09-29T13:28:47.393Z","9","Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)"
-"a2b4271e-11e6-4661-b60f-b8a7fe730cc2","***","2026-09-29T16:57:42.082Z","949","Drugs/Narcotics"
-"b0c98524-599f-4bba-b5a2-65a8c4800239","***","2026-09-29T17:02:19.421Z","7","Drugs/Narcotics"
 "25e3f88c-de82-4fa5-96fa-bc95b8d5ba95","***","2026-09-30T20:54:35.937Z","2","Hit and Run/Car Accident"
 "cc904a22-7b7e-43dd-b3e6-93aa34761e20","***","2026-09-30T21:00:03.314Z","2","Hit and Run/Car Accident"
 "6e6be70d-f930-4bfe-bbbe-eb8818fda641","***","2026-10-01T06:23:10.464Z","9","Motor Vehicle Theft/Stolen"
@@ -87,3 +84,4 @@
 "0f719f60-0858-4464-b63e-75e7578417e0","***","2026-10-27T14:46:23.506Z","2","Motor Vehicle Theft/Stolen"
 "e6e0db53-dc22-4348-9c95-9308dc068f13","***","2026-10-27T23:14:36.332Z","917","Weapons Offense (Guns/Shots Fired)"
 "ceac498b-ede3-4398-8ebf-d639e1fbd808","***","2026-10-27T23:54:36.387Z","2","Weapons Offense (Guns/Shots Fired)"
+"619a7a11-dd60-465c-aa66-7c96cbe415a6","***","2026-10-29T14:24:41.559Z","2","Stolen Property Offenses"
