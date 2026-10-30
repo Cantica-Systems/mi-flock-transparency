@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Timeline - Michigan Flock Transparency Ledger</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="tl-page">
+
+<div id="tip" role="status" aria-live="polite"></div>
+
+<header class="site-head">
+  <h1 class="ledger-name"><span class="tick"></span>Michigan Flock Transparency Ledger</h1>
+  <p class="refreshed" id="gen">Refreshed once a day</p>
+</header>
+
+<nav class="tabs" aria-label="Sections">
+  <a class="tab-page-back" href="index.html#overview">Overview</a>
+  <a class="tab-page-back" href="index.html#sharing">Who can search</a>
+  <a class="tab-page-back" href="index.html#searches">Searches</a>
+  <a class="tab-page-back" href="index.html#cameras">Cameras</a>
+  <a class="tab-page-back" href="index.html#sources">Sources</a>
+  <span class="tab-page" aria-current="page">Timeline</span>
+</nav>
+
+<header class="masthead tl-mast">
+  <h2 class="headline reveal">Every day the archive <em>knows about</em>.</h2>
+  <p class="dek reveal">One bar per day, split by what changed: outside organizations added to or dropped from a sharing list, a portal&rsquo;s own camera count moving, cameras added to or taken off the volunteer DeFlock map inside these departments&rsquo; areas, a portal that stopped publishing a figure, a read that failed. The portal count is the department&rsquo;s official figure; a map edit is dated by the edit, not by when the camera went up. Pick a day to see its full state and every change by name. The arrow keys step through days, and the address bar carries the day and filters, so a view can be linked.</p>
+</header>
+
+
+<section class="tl-controls">
+  <div class="controls" id="range-controls"></div>
+  <div class="controls" id="type-controls"></div>
+  <div class="controls" id="source-controls"></div>
+</section>
+
+<section class="tl-strip">
+  <figure>
+    <div class="scroller"><svg id="strip" role="img" aria-label="Stacked bars of changes per day across the archive, with search volume as a line"></svg></div>
+    <div class="legend" id="strip-legend"></div>
+  </figure>
+  <p class="hint" id="strip-note"></p>
+</section>
+
+<section class="tl-day">
+  <div class="day-nav">
+    <button type="button" class="chip" id="day-prev" aria-label="Previous day"><span>&larr; previous</span></button>
+    <h2 id="day-head"></h2>
+    <button type="button" class="chip" id="day-next" aria-label="Next day"><span>next &rarr;</span></button>
+  </div>
+  <p class="hint" id="day-sub"></p>
+  <div class="day-grid">
+    <div>
+      <h3 class="dep-head">What changed</h3>
+      <div id="day-events"></div>
+    </div>
+    <div>
+      <h3 class="dep-head">State that day</h3>
+      <div class="scroller"><table class="matrix" id="day-state"></table></div>
+      <p class="hint" id="day-state-note"></p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <h3>How to read it</h3>
+  <p>Changes are things that differed between one capture and the next, or one map refresh and the next. The rolling counters a portal publishes (vehicles seen, hotlist hits, thirty-day searches) move on every capture, so they are shown as each day&rsquo;s state with a delta rather than counted as changes. A day inside the capture window with no bar and no capture is a day the capture did not run, and the panel says so.</p>
+  <p id="tl-notes"></p>
+  <p class="colophon">An <a href="https://github.com/Cantica-Systems/mi-flock-transparency">open source</a> civic transparency project by <a href="https://cantica.dev">Cantica Systems</a>.</p>
+</footer>
+
+<script src="backdrop-data.js"></script>
+<script src="backdrop.js"></script>
+<script src="timeline-data.js"></script>
+<script src="timeline.js"></script>
+</body>
+</html>
