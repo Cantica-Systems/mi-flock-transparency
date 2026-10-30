@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Wed Oct 28 2026
+Last updated: Thu Oct 29 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-561,158
+557,743
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-214
+218
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,599
+7,647
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1624,7 +1624,6 @@ University of South Florida FL PD
 University of Tennessee TN PD
 University of West Georgia GA PD
 University of Wisconsin - Green Bay WI PD
-University of Wisconsin - Madison WI PD
 Upper Allen Township PA PD
 Urbana OH PD
 Utah County UT SO - Vineyard PD
@@ -1718,7 +1717,6 @@ West Chicago IL PD
 West City IL PD
 West Des Moines IA PD
 West Hazleton PA PD
-West Homestead PA PD [Inactive]
 West Lafayette IN PD
 West Mifflin PA PD
 West Milton OH PD
@@ -2198,7 +2196,6 @@ Oakland County MI SO
 Oceana County MI SO
 Ogle County IL SO
 OH - Willard PD
-Ohio State Fire Marshal
 Onondaga County NY SO
 Ontonagon County MI SO
 Oolitic Marshal’s Office

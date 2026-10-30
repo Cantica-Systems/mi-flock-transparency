@@ -1,6 +1,4 @@
 "id","searchDate","networkCount","offenseType"
-"b1f13147-2001-49d3-9cde-6170b808898e","2026-09-29T13:39:22.892Z","23","Larceny/Theft Offenses"
-"ec3892a3-6b49-4714-a4c7-adab7e4ce6d4","2026-09-29T20:11:05.530Z","23","Financial Crime (Embezzlement/Fraud)"
 "b698081a-dfed-4bb2-b37a-7d620325b097","2026-09-30T04:02:46.946Z","5411","Financial Crime (Embezzlement/Fraud)"
 "58c6c4d5-9a2e-420b-816a-a36c49e4ad11","2026-09-30T18:22:42.443Z","3","Financial Crime (Embezzlement/Fraud)"
 "d1ae5382-e836-402a-a7cc-9a6d0878fd54","2026-10-01T06:00:02.897Z","23","Motor Vehicle Theft/Stolen"
@@ -76,3 +74,6 @@
 "7b3f6703-be19-4dbf-a4de-91620f7d6557","2026-10-27T19:04:48.936Z","1","Hit and Run/Car Accident"
 "3d68a7b2-11b5-4090-a6b1-3c5fe0a54bca","2026-10-28T13:49:29.519Z","23","Welfare Check"
 "b7f0afd9-9798-4e75-a68a-3aafade1d30f","2026-10-28T14:36:17.645Z","4","Weapons Offense (Guns/Shots Fired)"
+"b67cf78a-7af0-4f3d-b520-3352f002958a","2026-10-29T16:47:22.704Z","23","Larceny/Theft Offenses"
+"ec956fc9-2951-4da3-b631-186e8fadc8be","2026-10-29T18:21:30.324Z","2","Financial Crime (Embezzlement/Fraud)"
+"4a1544e6-6f66-40f1-89c6-6f1cf567092a","2026-10-29T19:59:28.207Z","2","Financial Crime (Embezzlement/Fraud)"
