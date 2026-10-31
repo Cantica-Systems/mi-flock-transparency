@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"25e3f88c-de82-4fa5-96fa-bc95b8d5ba95","***","2026-09-30T20:54:35.937Z","2","Hit and Run/Car Accident"
-"cc904a22-7b7e-43dd-b3e6-93aa34761e20","***","2026-09-30T21:00:03.314Z","2","Hit and Run/Car Accident"
 "6e6be70d-f930-4bfe-bbbe-eb8818fda641","***","2026-10-01T06:23:10.464Z","9","Motor Vehicle Theft/Stolen"
 "84384c0a-6805-4925-b51f-08493c2ff7ce","***","2026-10-01T07:14:02.371Z","9","Motor Vehicle Theft/Stolen"
 "413908b0-229d-4062-8a9b-9a9f5169510b","***","2026-10-02T02:01:42.181Z","235","Motor Vehicle Theft/Stolen"
@@ -85,3 +83,6 @@
 "e6e0db53-dc22-4348-9c95-9308dc068f13","***","2026-10-27T23:14:36.332Z","917","Weapons Offense (Guns/Shots Fired)"
 "ceac498b-ede3-4398-8ebf-d639e1fbd808","***","2026-10-27T23:54:36.387Z","2","Weapons Offense (Guns/Shots Fired)"
 "619a7a11-dd60-465c-aa66-7c96cbe415a6","***","2026-10-29T14:24:41.559Z","2","Stolen Property Offenses"
+"f0021749-46c9-4d77-9713-1b43d6a67fe8","***","2026-10-30T03:10:14.603Z","916","Motor Vehicle Theft/Stolen"
+"d5d14676-6daf-4e16-8cbf-72d14a775a77","***","2026-10-30T17:42:58.834Z","2","Alcohol Offenses (Non-DUI)"
+"f92d077f-731b-46d5-a3ef-83f488d77128","***","2026-10-30T20:14:52.027Z","1","Hit and Run/Car Accident"
