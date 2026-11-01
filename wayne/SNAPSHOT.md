@@ -1,11 +1,11 @@
 # Wayne County Flock snapshots
 
-Last updated: 2026-10-31 20:04 UTC
+Last updated: 2026-11-01 21:04 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| [Taylor MI PD](data/taylor-city-pd/) | Sat Oct 31 2026 | 77 | 722,371 | 325 | 5,286 | — | — | 11 |
-| [Sumpter Twp MI PD](data/sumpter-twp-pd/) | Sat Oct 31 2026 | 4 | 10,936 | 22 | 29 | 192 | — | 0 |
+| [Taylor MI PD](data/taylor-city-pd/) | Sun Nov 01 2026 | 77 | 720,681 | 332 | 5,314 | — | — | 15 |
+| [Sumpter Twp MI PD](data/sumpter-twp-pd/) | Sun Nov 01 2026 | 4 | 11,000 | 22 | 31 | 192 | — | 0 |
 
 Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
 Share lists are the current portal snapshot; `git log -p` is the history.
