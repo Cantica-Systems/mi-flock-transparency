@@ -1,0 +1,24 @@
+id,userId,searchDate,networkCount,offenseType
+631d6c3d-373b-4317-aae3-f94751fd8c3e,***,2026-11-01T00:05:54.290Z,515,Hit and Run/Car Accident
+99244a25-6682-4ecb-9a87-5a27be2aebcc,***,2026-11-01T00:18:21.290Z,515,Hit and Run/Car Accident
+6de21adf-167a-4e45-a539-0dc4da9df798,***,2026-11-01T00:34:15.331Z,6,Weapons Offense (Guns/Shots Fired)
+7de99f54-941a-4922-abef-ee915a7e142b,***,2026-11-01T01:16:15.866Z,582,Welfare Check
+52f8d7ac-2208-4f8f-9217-1923fc3cac6a,***,2026-11-01T01:50:42.534Z,515,Hit and Run/Car Accident
+708e17c0-9463-44d0-95f3-ae8bd4b4ce37,***,2026-11-01T02:04:39.498Z,582,Welfare Check
+52d39528-e49e-48bc-887f-69c7f760c4a4,***,2026-11-01T02:05:32.231Z,515,Hit and Run/Car Accident
+1e257dc2-d1e2-449a-a1b4-1a821daebfa4,***,2026-11-01T02:17:17.520Z,595,Motor Vehicle Theft/Stolen
+41a53905-704e-4e8f-b7a7-243bb887a083,***,2026-11-01T02:35:37.884Z,2,Larceny/Theft Offenses
+5ffbe0fe-0f79-4ce0-a53f-f2f4b3bfb78b,***,2026-11-01T03:50:45.236Z,595,Motor Vehicle Theft/Stolen
+d8432d96-f3f1-42e8-8252-caf3d126c5b0,***,2026-11-01T04:27:30.713Z,582,Welfare Check
+c890cd59-830a-4ed9-835e-a7331d61ec70,***,2026-11-01T05:37:10.474Z,1,Destruction/Damage/Vandalism of Property
+a4ce1ccd-3eb5-477b-9c7f-ca65b3094cc6,***,2026-11-01T06:55:29.525Z,595,Motor Vehicle Theft/Stolen
+39c5f70b-8472-47a5-9b73-2a64d4ad06a4,***,2026-11-01T07:43:17.346Z,582,Welfare Check
+452b94c6-5c0a-4bfa-ac9f-c38769f99472,***,2026-11-01T08:14:17.634Z,582,Welfare Check
+d3602fb0-591f-4a4c-8456-498ba647bfc6,***,2026-11-01T09:03:07.343Z,582,Welfare Check
+9b7560b9-6708-446c-bbb5-e9deb8abe42d,***,2026-11-01T14:48:13.250Z,518,Wanted Person (Arrest Warrant/Fugitive)
+cc34e22a-6d0a-4d66-97e2-acd82d8ecaaa,***,2026-11-01T14:52:08.993Z,2,Traffic Infraction
+4d7053f9-f433-4ab8-9820-00bef7848f6a,***,2026-11-01T16:37:27.218Z,286,Wanted Person (Arrest Warrant/Fugitive)
+bec379ea-ce2f-4543-b88c-f40f0d711881,***,2026-11-01T17:23:30.406Z,518,Wanted Person (Arrest Warrant/Fugitive)
+4b6ddfcf-0cba-4025-b4c3-986a8fd93eaf,***,2026-11-01T18:59:31.610Z,595,Wanted Person (Arrest Warrant/Fugitive)
+5ad04c03-8c11-4f5e-9d99-a630f0129608,***,2026-11-01T21:42:40.960Z,199,Wanted Person (Arrest Warrant/Fugitive)
+7b8467ab-7d44-4b35-8aed-3a76c42205e3,***,2026-11-01T23:52:41.094Z,2,Larceny/Theft Offenses
