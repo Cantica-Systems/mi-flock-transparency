@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"413908b0-229d-4062-8a9b-9a9f5169510b","***","2026-10-02T02:01:42.181Z","235","Motor Vehicle Theft/Stolen"
 "6d8dfdeb-4efa-4f2d-a4d6-5cd8f74e1797","***","2026-10-03T03:06:19.957Z","963","Obstructing the Police (Fleeing/Eluding)"
 "ad9aff39-713b-4f35-9b4b-d8763001e8a3","***","2026-10-03T08:52:45.507Z","963","Obstructing the Police (Fleeing/Eluding)"
 "4a93a8a2-be68-4ca3-8151-d1b8f56eafba","***","2026-10-04T23:33:58.960Z","2","Hit and Run/Car Accident"
@@ -85,3 +84,4 @@
 "d5d14676-6daf-4e16-8cbf-72d14a775a77","***","2026-10-30T17:42:58.834Z","2","Alcohol Offenses (Non-DUI)"
 "f92d077f-731b-46d5-a3ef-83f488d77128","***","2026-10-30T20:14:52.027Z","1","Hit and Run/Car Accident"
 "4758498f-0f3d-47b3-9368-a852e2cfbb00","***","2026-10-31T18:56:44.406Z","2","Destruction/Damage/Vandalism of Property"
+"cd9ace44-b637-485c-bbcc-4b0cad734c77","***","2026-11-01T13:26:04.034Z","909","Destruction/Damage/Vandalism of Property"
