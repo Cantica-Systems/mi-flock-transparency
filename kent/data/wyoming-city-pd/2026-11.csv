@@ -1,3 +1,11 @@
 id,userId,searchDate,networkCount,offenseType
 9651aeb1-e838-4bb8-a24a-e10f1bf25c01,***,2026-11-01T12:03:29.718Z,2,Disorderly Conduct/Disturbance
 5f3e9a91-9283-4cb5-a167-decbce0e7c06,***,2026-11-01T16:51:44.874Z,1,Destruction/Damage/Vandalism of Property
+bd839ebe-6cad-4e05-910d-42a461f06b62,***,2026-11-02T02:57:53.801Z,65,Obstructing the Police (Fleeing/Eluding)
+15572306-280a-4b7d-8a14-73e6fc24555d,***,2026-11-02T03:03:40.467Z,65,Obstructing the Police (Fleeing/Eluding)
+1a0a687a-b7e4-4e71-b2d4-61567c1e15e0,***,2026-11-02T15:25:02.398Z,65,Weapons Offense (Guns/Shots Fired)
+eebcc012-2e7b-4345-9a4f-68a9a8fc17f5,***,2026-11-02T17:05:59.612Z,2,Motor Vehicle Theft/Stolen
+be1ca858-f6d4-4c36-b84a-fc27a34f139a,***,2026-11-02T21:24:48.953Z,712,Wanted Person (Arrest Warrant/Fugitive)
+a267a7a6-ece2-4f09-91df-9e920d8b659a,***,2026-11-02T21:35:22.138Z,2,Hit and Run/Car Accident
+1f706712-d4d7-406f-87a0-a852d4837410,***,2026-11-02T22:04:40.237Z,712,Wanted Person (Arrest Warrant/Fugitive)
+059b4f4f-4891-4f25-91d9-69c087b6e8d7,***,2026-11-02T23:04:13.716Z,712,Wanted Person (Arrest Warrant/Fugitive)
