@@ -1,0 +1,33 @@
+id,userId,searchDate,networkCount,offenseType
+02f468de-3de2-4a1d-861e-947e8db1fca7,***,2026-11-01T05:09:59.533Z,3,Assault/Battery Offenses (Domestic)
+b220f12f-683e-4853-b1df-df87ea83c466,***,2026-11-01T07:08:59.964Z,3,Weapons Offense (Guns/Shots Fired)
+e19183d0-dac3-436c-b500-c277d2722bf4,***,2026-11-01T07:10:06.319Z,3,Weapons Offense (Guns/Shots Fired)
+5fc58c38-4a20-4d58-9132-f39da90659b7,***,2026-11-01T09:04:07.864Z,3,Homicide/Death Investigation
+4ff8a486-b61f-45cb-98da-d623d9827e71,***,2026-11-01T09:50:38.163Z,3,Homicide/Death Investigation
+618feb6d-da31-4382-a294-4805a5f4ea8e,***,2026-11-01T10:00:06.026Z,3,Homicide/Death Investigation
+95157203-8e1d-4f9c-b015-52c36493cc8f,***,2026-11-01T10:00:07.575Z,3,Hit and Run/Car Accident
+ab947c43-8d79-4413-a4a6-54fc1204a1e9,***,2026-11-01T10:04:23.128Z,3,Homicide/Death Investigation
+67030058-acab-404e-a2e6-0c1602614eb5,***,2026-11-01T10:04:44.847Z,3,Homicide/Death Investigation
+895b7204-8f5a-4cd5-99f1-541ad0c2c57a,***,2026-11-01T10:29:46.495Z,2,Homicide/Death Investigation
+9d36df1f-4540-4844-8353-0aabd5bbcb1b,***,2026-11-01T10:42:23.555Z,2,Weapons Offense (Guns/Shots Fired)
+2fc37ec7-0cc5-46c7-8d7d-d5fe32df2846,***,2026-11-01T11:08:32.442Z,3,Homicide/Death Investigation
+01ba89af-a5fd-4a98-ab4d-a537a0f06008,***,2026-11-01T11:35:03.211Z,139,Motor Vehicle Theft/Stolen
+2d4accf5-7c94-45cc-bffa-6c4e5db0c15f,***,2026-11-01T11:40:44.906Z,3,Homicide/Death Investigation
+8b5413a8-7645-4897-8886-7eaaaed66838,***,2026-11-01T12:16:17.260Z,3,Homicide/Death Investigation
+0548bda5-aa67-4260-ac28-98b3c8bf0204,***,2026-11-01T12:33:51.527Z,3,Weapons Offense (Guns/Shots Fired)
+ecff26eb-7c4c-4322-a96d-31ec1c8e2b2c,***,2026-11-01T12:56:12.342Z,3,Weapons Offense (Guns/Shots Fired)
+e1b9d286-6746-4d13-a601-8f43d4d6f12e,***,2026-11-01T12:57:35.861Z,3,Weapons Offense (Guns/Shots Fired)
+b7607558-a7a3-4843-937e-255f51ec8690,***,2026-11-01T13:09:54.152Z,9,Motor Vehicle Theft/Stolen
+4ecd84d0-fb7f-42f9-9d46-f684c12e6206,***,2026-11-01T13:49:13.348Z,138,Hit and Run/Car Accident
+032dfd6c-370f-4c17-898f-8362f89f854b,***,2026-11-01T14:16:18.039Z,139,Motor Vehicle Theft/Stolen
+48dc9309-70a3-4c1a-83f4-83c68a291daf,***,2026-11-01T14:37:01.278Z,948,Homicide/Death Investigation
+615e7803-ff5a-4b5c-abfc-f565dfd47c25,***,2026-11-01T15:10:03.735Z,3,Weapons Offense (Guns/Shots Fired)
+3d88499b-3f22-4cdf-8eef-f206a829c3ab,***,2026-11-01T17:01:32.488Z,693,Wanted Person (Arrest Warrant/Fugitive)
+df6dac9a-4ac4-4a8e-8356-9d8fa76bd6a9,***,2026-11-01T17:50:27.719Z,693,Wanted Person (Arrest Warrant/Fugitive)
+377aa7bf-ae76-426a-97cf-fe0848eec162,***,2026-11-01T18:30:21.079Z,3,Motor Vehicle Theft/Stolen
+0fed02a4-e285-4fb6-a733-5e18f0184f6c,***,2026-11-01T18:55:16.037Z,138,Hit and Run/Car Accident
+f84f7237-6cf0-47b0-b94a-363fffb4a8c0,***,2026-11-01T20:07:08.028Z,12,Larceny/Theft Offenses
+ea8e9dd2-ab0f-484d-b20e-c96a60cc844c,***,2026-11-01T20:15:06.282Z,127,Homicide/Death Investigation
+c042f22c-c2df-46e2-b798-f5b89e5d9e6b,***,2026-11-01T20:28:12.670Z,139,Motor Vehicle Theft/Stolen
+0ac5aa51-1d39-49a2-8559-846324246d95,***,2026-11-01T20:39:14.859Z,695,Weapons Offense (Guns/Shots Fired)
+c6367388-cf83-481d-ad8b-0f2c1cab3dc1,***,2026-11-01T21:15:48.681Z,695,Weapons Offense (Guns/Shots Fired)
