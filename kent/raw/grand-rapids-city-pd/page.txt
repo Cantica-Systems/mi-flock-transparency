@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Tue Nov 03 2026
+Last updated: Wed Nov 04 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-492,816
+490,250
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-711
+720
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,889
+6,980
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1794,7 +1794,6 @@ Anderson County SC SO
 Anderson County TN SO
 Anderson IN PD
 Anderson SC PD
-Angier NC PD
 Ankeny IA PD
 Antrim County SO MI
 Apex NC PD
@@ -2358,9 +2357,9 @@ Locust Grove GA PD
 Logansport IN PD
 Lorain County OH SO
 Loris SC PD
-Loudon TN PD
 Louisburg NC PD
 Louisville Airport PD
+Louisville Metro KY PD
 Louisville OH PD
 Loveland OH PD
 Lowell MI PD

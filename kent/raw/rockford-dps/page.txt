@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Tue Nov 03 2026
+Last updated: Wed Nov 04 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-97,785
+97,238
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1
+2
 
 Hotlists Alerted On
 
@@ -89,12 +89,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-76
+78
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Financial Crime (Embezzlement/Fraud)
+Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -501,6 +502,7 @@ Monroe MI PD
 Morton Grove IL PD
 Mount Morris Township PD MI
 Mount Pleasant WI PD
+Murphysboro IL PD
 Muskego WI PD
 Muskegon County MI SO
 Muskegon Heights MI PD
