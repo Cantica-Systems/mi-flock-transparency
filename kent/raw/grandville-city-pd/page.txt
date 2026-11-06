@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Thu Nov 05 2026
+Last updated: Fri Nov 06 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-262,764
+258,820
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-83
+88
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-531
+503
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
