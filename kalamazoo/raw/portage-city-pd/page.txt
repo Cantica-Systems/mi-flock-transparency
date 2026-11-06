@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Thu Nov 05 2026
+Last updated: Fri Nov 06 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-414,498
+414,715
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-121
+122
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,118
+6,014
 
 Sharing Network Data With
 
@@ -1098,7 +1098,6 @@ Jasper IN PD
 Jasper PD OH
 Jefferson City MO PD
 Jefferson City TN PD
-Jefferson College Campus MO PD
 Jefferson County KY SO
 Jefferson County MO 911
 Jefferson County MO SO
