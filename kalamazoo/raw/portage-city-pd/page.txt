@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Fri Nov 06 2026
+Last updated: Sat Nov 07 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-414,715
+416,169
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-122
+115
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,014
+5,939
 
 Sharing Network Data With
 
@@ -1302,7 +1302,6 @@ Louisville Metro KY Arson Bureau
 Louisville Metro KY PD
 Louisville OH PD
 Loveland CO PD
-Loveland OH PD
 Loves Park IL PD
 Lowell MI PD
 Lower Burrell PA PD
