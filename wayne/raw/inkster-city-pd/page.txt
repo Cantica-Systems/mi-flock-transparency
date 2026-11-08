@@ -1,0 +1,578 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Inkster MI PD
+Transparency Portal
+
+Last updated: Sun Nov 08 2026
+
+Overview
+
+The Inkster Police Department (IPD) utilizes Flock Safety technology to support public safety and criminal investigations by providing objective, technology-based evidence while maintaining a strong commitment to individual privacy and constitutional rights.
+
+IPD uses Flock Safety’s retroactive search capabilities to assist in solving crimes after they occur and utilizes real-time alerts for vehicles associated with active hotlists, helping officers identify and locate wanted vehicles and individuals.
+
+To promote transparency, accountability, and responsible use, the Inkster Police Department has established policies and safeguards governing the use of Flock Safety technology. The Department also makes applicable usage policies and statistics available to the public.
+
+Community Impact
+72
+CASES RESOLVED
+65
+MICHIGAN SUCCESS STORIES IN THE NEWS
+Featured Success Stories
+
+Kids found safe after Inkster father duct tapes mom, flees with them to Ohio
+
+The Brief
+
+Two Inkster kids were found safe after being taken by their father and driven to Ohio.
+The kids, ages 4 and 6, were recovered by police after calling for help. Their father allegedly shot himself.
+He took the kids after duct taping their mom when he learned she had planned to end their relationship.
+
+Timeline
+
+Two kids were found safe in a cornfield in Norwalk, Ohio in Huron County after being found by police following an investigation that crossed state borders.
+
+Inkster Police Chief Tameka Jenkins identified the suspect as the kids' father, who restrained their mother with duct tape shortly before 9 a.m. on Oct. 14.
+
+He then took the kids and fled in the victim's vehicle.
+
+After the victim freed herself, she called the suspect who told her they were in Rouge Park and threatened to kill himself. A similar call was made between the suspect and his grandmother, who reported it to Detroit Police.
+
+Police used Flock cameras to determine the suspect was no longer in Inkster, Jenkins said during a Wednesday press conference.
+
+Police eventually determined the suspect's location by tracking a cell phone, leading them to Ohio.
+
+After making contact with Ohio police, they located the kids who were found unharmed.
+Data & Usage Summary
+
+Total Cameras - 5
+
+Number of LPR and other cameras.
+
+16
+
+LPR Cameras - 20
+
+Number of LPR cameras only.
+
+14
+
+LPR data collected by the Inkster Police Department will be retained for 30 days unless associated with an active criminal investigation, active criminal case, or missing-person investigation.
+
+The number of days data is retained.
+
+30 days
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+62
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+MI LEIN, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+852
+Missing Persons, Auto Theft, Accidents- Leaving the Scene.
+
+Offense Types used for LPR searches in the last 30 days.
+
+Weapons Offense (Guns/Shots Fired)
+Motor Vehicle Theft/Stolen
+Larceny/Theft Offenses
+Assault/Battery Offenses (Domestic)
+Obstructing the Police (Fleeing/Eluding)
+
+Sharing Network Data With
+
+Organizations granted access to Inkster MI PD data.
+
+Adrian MI PD
+Albion MI DPS
+Allegan County SO MI
+Armada MI PD
+Auburn Hills MI PD
+Battle Creek MI PD
+Birmingham MI PD
+Bloomfield Twp MI PD
+Brownstown Twp PD MI
+Burton MI PD
+Chesterfield Twp MI PD
+Clawson MI PD
+Clayton Township PD MI
+Clinton Township MI PD
+Clio MI PD
+Davison Township MI PD
+Dearborn Heights MI PD
+Dearborn MI PD
+Eastpointe MI PD
+Farmington Hills MI PD
+Farmington MI DPS
+Flat Rock MI PD
+Flint Township MI PD
+Flushing City MI PD
+Garden City MI PD
+Genesee County MI SO
+Grand Blanc Twp MI PD
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Hamtramck MI PD
+Hazel Park MI PD
+Highland Park MI PD
+Holland MI PD
+Huron Township MI PD
+Jackson County MI SO
+Jackson MI PD
+Kalamazoo MI PD
+Kalamazoo Township MI PD
+Kellogg Community College Campus MI PD
+Lansing MI PD
+Lapeer City MI PD
+Lathrup Village MI PD
+Lenawee County MI SO
+Lincoln Park MI PD
+Livonia MI PD
+Macomb County MI SO
+Madison Heights MI PD
+Melvindale MI PD
+Metamora Township MI PD
+Metro Police Authority of Genesee County MI
+Michigan Department of Natural Resources
+Michigan State Police
+Monroe County MI SO
+Monroe MI PD
+Mount Morris Township PD MI
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+New Baltimore MI PD
+Northville Twp MI PD
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+Novi MI PD
+Oakland County MI SO
+Ottawa County MI SO
+Pittsfield Twp MI PD
+Plymouth MI PD
+Port Huron MI PD
+Redford Twp MI PD
+River Rouge MI PD
+Romulus MI PD
+Roseville MI PD
+Royal Oak MI PD
+Saginaw MI PD
+Shelby Township MI PD
+Southfield MI PD
+Spring Arbor MI PD
+Springport Twp MI PD
+St. Clair County MI SO
+St. Joseph Department of Public Safety MI
+Sterling Heights MI PD
+Sumpter Twp MI PD
+Taylor MI PD
+Three Rivers MI PD
+Traverse City MI PD
+Trenton PD MI
+Troy MI PD
+University of Michigan Ann Arbor Campus MI PD
+Utica MI PD
+Van Buren MI PD
+Village of Dundee MI PD
+Walker MI PD
+Walled Lake MI PD
+Warren MI PD
+Waterford Township MI PD
+Wayne County Airport Authority MI
+West Bloomfield Twp MI PD
+Western Michigan University MI PD
+Westland MI PD
+White Lake Twp MI PD
+Whitehall MI PD
+Wixom MI PD
+Wolverine Lake MI PD
+Wyandotte MI PD
+Wyoming MI PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Inkster MI PD.
+
+Adrian MI PD
+Albion MI DPS
+Allegan County SO MI
+Almont MI PD
+Amherst OH PD
+Anderson IN PD
+Antrim County SO MI
+Armada MI PD
+Arnold MO PD
+Auburn Hills MI PD
+Avon IN PD
+Baldwin County GA SO
+Barry County MI SO
+Battle Creek MI PD
+Baytown TX PD
+Belpre OH PD
+Berrien County MI SO
+Bethlehem PA PD
+Beverly Hills MI PD
+Birmingham MI PD
+Blackman/Leoni Public Safety MI
+Bloomfield Twp MI PD
+Bridgeport Township MI PD
+Brownstown Twp PD MI
+Bullitt County KY SO
+Buncombe County NC SO
+Burton MI PD
+Butler Township OH PD
+Calhoun County AL SO
+Calhoun County MI SO
+Cambridge City IN PD
+Canton IL PD
+Carroll County OH SO
+Cass County MI SO
+Charlotte MI PD
+Charter Township of Buena Vista MI PD
+Cheatham County TN SO
+Chesterfield Twp MI PD
+Clawson MI PD
+Clayton Township PD MI
+Clearwater FL PD
+Clinton Township MI PD
+Clio MI PD
+Cobb County GA PD
+Coldwater MI PD
+Coles County IL SO
+Cookeville TN PD
+Covert Township PD MI
+Crawfordsville IN PD
+Davison Township MI PD
+Dearborn County IN SO
+Dearborn Heights MI PD
+Dearborn MI PD
+Dickinson County MI SO
+Dickson TN PD
+Dolton IL PD
+Dover DE PD
+Eaton Rapids MI PD
+Ecorse MI PD
+Elizabethtown KY PD
+Elk Rapids MI PD
+Elkhart PD IN
+Fairmount IN PD
+Farmington Hills MI PD
+Farmington MI DPS
+Fenton MI PD
+Ferndale MI PD [INACTIVE]
+Flat Rock MI PD
+Flint MI PD
+Flint Township MI PD
+Florence Co. WI SO
+Florissant MO PD
+Flushing City MI PD
+Forest Park OH PD
+Fort Worth TX PD
+Frankenmuth MI PD - New Business
+Franklin IN PD
+Fraser MI DPS
+Garden City MI PD
+Garrard County KY SO
+Genesee County MI SO
+Gogebic County MI SO
+Goshen IN PD
+Grand Beach/Michiana MI PD
+Grand Blanc Twp MI PD
+Grand Haven MI DPS
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Grand Valley State University MI
+Grandville PD MI
+Grant County IN SO
+Grosse Ile MI PD
+Gun Lake Tribal PD MI
+Hamilton County IN SO
+Hamtramck MI PD
+Hancock County IN SO
+Harrington DE PD
+Harrison County IN SO
+Hazel Park MI PD
+Hazelwood MO PD
+Henderson KY PD
+Henry County OH SO
+Hermitage PA PD
+Highland Park MI PD
+Holland MI PD
+Homer Village NY PD
+Hoopeston IL PD
+Houston TX PD
+Howard County IN SO
+Huntington IN PD
+Huron Township MI PD
+IN - Angola PD
+Ironwood PSD MI
+Jackson County MI SO
+Jackson MI PD
+Jefferson County MO SO
+Kalamazoo County MI SO
+Kalamazoo Township MI PD
+Kellogg Community College Campus MI PD
+Kenosha County WI SO
+Kent County MI SO
+Kentwood MI PD
+Kokomo IN PD
+Lafayette TN PD
+Lapeer City MI PD
+Lathrup Village MI PD
+Lawrence County District Attorney's Office PA
+Lee County IL SO
+Lehigh County PA (RIIC)
+Lenawee County MI SO
+Licking County OH SO
+Lincoln Park MI PD
+Louisville Metro KY PD
+Lowell MI PD
+Lyons IL PD
+Macomb County MI SO
+Madison Heights MI PD
+Mahoning Twp PA PD
+Marion Health PD (IN)
+Maryland Heights MO PD
+Marysville MI PD
+Matteson IL PD
+Mattoon IL PD
+Maumee OH PD
+Melvindale MI PD
+Menominee County SO MI
+Metamora Township MI PD
+Metro Police Authority of Genesee County MI
+MI - Riverview PD
+Michigan City IN PD
+Michigan Department of Natural Resources
+Michigan State Police
+Midlothian IL PD
+Milan MI PD
+Monon IN PD
+Monroe County MI SO
+Monroe County WI SO
+Monroe MI PD
+Mount Morris Township PD MI
+Mountain City TN PD
+Murphysboro IL PD
+Muskegon County MI SO
+Muskegon Heights MI PD
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+Napoleon Twp MI PD
+New Baltimore MI PD
+North Muskegon MI PD
+Northville Twp MI PD
+Norton Shores MI PD
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+Novi MI PD
+Oak Park MI Dept of Public Safety
+Oakland County MI SO
+Ogle County IL SO
+Ohio Attorney General's Office - OOCIC
+Ontonagon County MI SO
+Orange County FL SO
+Ottawa County MI SO
+Pentwater MI PD
+Peotone IL PD
+Perry County OH SO
+Pittsboro IN PD
+Plymouth MI PD
+Pokagon Tribal MI PD
+Port Huron MI PD
+Portage MI PD
+Redford Twp MI PD
+Rehobeth Beach DE PD (DNU)
+Richland County WI SO
+Richland Village MI PD
+River Rouge MI PD
+Robinson IL PD
+Rockford Dept of Public Safety MI
+Romulus MI PD
+Roseville MI PD
+Ross Township PA PD
+Royal Oak MI PD
+Saginaw MI PD
+Saint Clair Shores MI PD
+Sarasota FL PD
+Sawyer County WI SO
+Schoolcraft College MI PD
+Schuyler Co. IL SO
+Shelby County IN SO
+Shelby Township MI PD
+Shelbyville IN PD
+South Bend IN PD
+South Sioux City NE PD
+Southfield MI PD
+Spring Arbor MI PD
+Springdale OH PD
+Springfield OH PD
+Springfield TN PD
+Springport Twp MI PD
+St. Clair County MI SO
+St. Clair MI PD
+St. Joseph Department of Public Safety MI
+Sterling Heights MI PD
+Sturgis MI PD
+Sullivan County IN SO
+Sumpter Twp MI PD
+Surry County NC SO
+Sylvania OH PD
+Taylor MI PD
+Three Rivers MI PD
+Titusville FL PD
+Toledo OH PD
+Town of Hildebran (NC)
+Transylvania County NC SO
+Traverse City MI PD
+Trenton PD MI
+Troy MI PD
+Ulysses KS PD
+University of Michigan Ann Arbor Campus MI PD
+University of Michigan Dearborn Campus MI PD
+Utica MI PD
+Van Buren MI PD
+Vandalia OH PD
+Vernon County WI SO
+Villa Park IL PD
+Village of Dundee MI PD
+Walker MI PD
+Walled Lake MI PD
+Warren MI PD
+Warren OH PD
+Washington MO PD
+Waterford Township MI PD
+Wayne County Airport Authority MI
+Wayne MI PD
+Wells County IN SO
+West Bloomfield Twp MI PD
+Westland MI PD
+White Lake Twp MI PD
+Whitehall MI PD
+Whitehall Township PA PD
+Whitley County IN Prosector
+Wichita Falls TX PD
+Wilmington DE PD
+Wixom MI PD
+Wolverine Lake MI PD
+Woodhaven MI PD
+Wyandotte MI PD
+Wyoming MI PD
+Zeeland MI PD
+Policy & Trust
+
+What's Detected
+
+License Plate Recognition (LPR) cameras capture and analyze vehicle license plates as vehicles pass through designated areas. The technology may identify the license plate number, vehicle make, model, color, and other observable vehicle characteristics.
+
+LPR systems can also generate alerts when a vehicle matches an authorized law-enforcement hotlist, such as a stolen vehicle, wanted vehicle, or vehicle associated with an active investigation.
+
+LPR technology does not identify or track a person's identity based solely on the camera image. An alert is an investigative lead and must be independently verified by an officer before any enforcement action is taken.
+
+What's Not Detected
+
+LPR technology is focused on vehicles and license plates. It does not:
+
+1. Identify a person's name or personal identity;
+2. Recognize or identify a person's face;
+3. Record conversations or capture audio;
+4. Determine a person's race, ethnicity, religion, or other personal characteristics;
+5. Determine a person's immigration or citizenship status;
+6. Monitor a person's phone, text messages, or other personal communications;
+7. Access personal information simply because a vehicle passes an LPR camera; or
+8. Automatically establish that a person has committed a crime.
+
+LPR technology provides vehicle-related information and investigative leads. Any alert or information generated by the system must be independently verified by law-enforcement personnel before enforcement action is taken.
+
+Acceptable Use Policy
+
+License Plate Reader (LPR) data is used solely for legitimate law-enforcement and public-safety purposes, including criminal investigations, stolen or wanted vehicles, missing or endangered persons, and developing investigative leads.
+
+LPR data is owned and controlled by the Inkster Police Department and is never sold or used for commercial purposes. Access is limited to authorized personnel and may be audited to ensure compliance with Department policy and applicable law.
+
+LPR data shall not be used for personal purposes, harassment, discrimination, retaliation, or to monitor individuals engaged in lawful constitutionally protected activities.
+
+Prohibited Uses
+
+LPR technology and data shall not be used for:
+
+1. Immigration enforcement or immigration-related investigations;
+2. General traffic enforcement or issuing traffic citations;
+3. Harassment, intimidation, retaliation, or discrimination;
+4. Targeting or monitoring individuals based solely on a protected characteristic, including race, color, sex, religion, national origin, or other protected status;
+5. Monitoring lawful protests, demonstrations, political activity, religious activity, or other constitutionally protected conduct;
+6. Personal use or searches conducted out of curiosity;
+7. Monitoring family members, friends, neighbors, coworkers, or other individuals for non-law-enforcement purposes;
+8. Personal investigations or disputes;
+9. Commercial purposes or the sale of LPR data to third parties; or
+10. Any purpose that violates federal or Michigan law, Department policy, or the individual's constitutional rights.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety
