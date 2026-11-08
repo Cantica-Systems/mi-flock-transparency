@@ -4,6 +4,7 @@ This is an archive of [Flock Safety transparency portals](https://transparency.f
 
 - **Taylor MI PD**, `https://transparency.flocksafety.com/taylor-mi-pd`
 - **Sumpter Twp MI PD**, `https://transparency.flocksafety.com/sumpter-twp-mi-pd`
+- **Inkster MI PD**, `https://transparency.flocksafety.com/inkster-mi-pd`
 
 Other Michigan counties are sibling folders in this repo. See the [root README](../README.md).
 
