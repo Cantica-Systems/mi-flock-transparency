@@ -1,8 +1,4 @@
 "id","searchDate","networkCount","caseNumber","offenseType"
-"d1d47380-9d7a-49c9-939e-baf3bc18b3b7","2026-10-09T14:59:42.796Z","1","26-35014","Larceny/Theft Offenses"
-"e7f60c4e-9b08-4f80-ada1-34fedaea27d9","2026-10-09T15:04:28.195Z","1","26-35014","Larceny/Theft Offenses"
-"0b9bfef5-cb73-456f-a7b5-d784dfc55fdd","2026-10-09T16:04:23.067Z","1","26-35014","Larceny/Theft Offenses"
-"57c6985b-6400-4e63-ba71-80f982bd2b8f","2026-10-09T22:48:24.418Z","1","26-35014","Larceny/Theft Offenses"
 "6dbcb0e1-426a-4fbc-a1a0-85f78e29d5a3","2026-10-12T01:59:30.669Z","967","26-35319","Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)"
 "97afd469-31b2-42cf-9c1f-4ae4e917b52a","2026-10-12T15:13:55.592Z","970","26-35387","Financial Crime (Embezzlement/Fraud)"
 "b04e3a3c-7426-4c3c-abc1-ad43c08612f5","2026-10-12T15:27:50.310Z","249","26-35392","Traffic Infraction"
@@ -122,3 +118,4 @@
 "ee6e6ef1-d2f5-4d02-8d87-6cdca3e5bbc6","2026-11-07T11:46:57.291Z","1","26-38907","Motor Vehicle Theft/Stolen"
 "5fa9cae6-01e9-4d6e-a952-2f412d822ed8","2026-11-07T20:21:34.847Z","1","26-38964","Assault/Battery Offenses (Domestic)"
 "408b93b2-4fbc-43e5-a49c-2b55aef6e873","2026-11-07T20:38:08.831Z","927","26-102592","Assault/Battery Offenses"
+"cf59ce72-3490-4901-8652-9fa6bc1c9d38","2026-11-08T05:28:54.154Z","5280","26-38907","Motor Vehicle Theft/Stolen"
