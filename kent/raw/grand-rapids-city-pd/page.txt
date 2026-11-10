@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Mon Nov 09 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-478,370
+475,017
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-627
+622
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,023
+6,980
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -182,7 +182,6 @@ Anoka County MN SO
 Antioch IL PD
 Antrim County SO MI
 Apex NC PD
-AR - Alma PD
 Arlington PD (WA)
 Armada MI PD
 Arnold MO PD
@@ -338,7 +337,6 @@ Cass County IN SO
 Cass County MI SO
 Castle Shannon PA PD
 Cedar Bluff VA PD
-Cedar County IA SO
 Cedar Rapids IA PD
 Cedarburg WI PD [Inactive]
 Cedartown GA PD
@@ -898,7 +896,6 @@ Lapel IN PD
 Laporte County IN SO
 Las Vegas NM PD
 LaSalle Co. IL SO - New
-Lathrup Village MI PD
 Lavon TX PD
 Lawrence County District Attorney's Office PA
 Lawrence County IL SO
@@ -1419,7 +1416,6 @@ Santa Rosa County FL SO
 Sarasota FL PD
 Sarpy County NE SO
 Sauk County WI SO
-Sauk Prairie WI PD
 Sauk Village IL PD
 Savanna IL PD
 Scarborough ME PD
@@ -1619,7 +1615,6 @@ Vigo County IN SO
 Villa Park IL PD
 Village of Clearview WV PD
 Village of Dundee MI PD
-Village of Fox Crossing WI PD
 Village of French Island WI PD
 Village of Manhattan IL PD
 Village of Mukwonago WI PD
@@ -1897,7 +1892,6 @@ Cass County IN SO
 Cass County MI SO
 Caswell County NC SO
 Catawba Nation Tribal SC PD
-Cedar County IA SO
 Cedar Lake IN PD
 Cedar Rapids IA PD
 Cedartown GA PD
@@ -2319,7 +2313,6 @@ Lapeer City MI PD
 Lapel IN PD
 Laporte County IN SO
 LaSalle Co. IL SO - New
-Lathrup Village MI PD
 Laurel Park NC PD
 Laurens County GA SO
 Laurens County SC SO

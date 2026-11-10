@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Mon Nov 09 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -94,13 +94,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-532,267
+533,111
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-232
+237
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,953
+7,893
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -172,7 +172,6 @@ Anoka County MN SO
 Antioch IL PD
 Antrim County SO MI
 Apex NC PD
-AR - Alma PD
 Arlington PD (WA)
 Armada MI PD
 Arnold MO PD
@@ -907,7 +906,6 @@ Lapel IN PD
 Laporte County IN SO
 Las Vegas NM PD
 LaSalle Co. IL SO - New
-Lathrup Village MI PD
 Lavon TX PD
 Lawrence County District Attorney's Office PA
 Lawrence County IL SO
@@ -2074,7 +2072,6 @@ Lafayette TN PD
 LaGrange KY PD
 Lake Delton WI PD
 Lansing IL PD
-Lathrup Village MI PD
 Lawrence County District Attorney's Office PA
 Lawrence County IN SO
 Lawrence IN PD
