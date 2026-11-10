@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Mon Nov 09 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-415,605
+409,418
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-120
+126
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,827
+5,746
 
 Sharing Network Data With
 
@@ -141,7 +141,6 @@ Antrim County SO MI
 Apex NC PD
 App State University NC PD
 Appalachian Regional Healthcare System NC PD
-AR - Alma PD
 Arcanum OH PD
 Archbold OH PD
 Arcola IL PD
@@ -398,7 +397,6 @@ Cass County MI SO
 Castle Shannon PA PD
 Cayuga Heights Village NY PD
 Cedar Bluff VA PD
-Cedar County IA SO
 Cedar Lake IN PD
 Cedar Rapids IA PD
 Cedartown GA PD
@@ -1223,7 +1221,6 @@ Laporte County IN SO
 Laporte IN PD
 Las Vegas NM PD
 LaSalle Co. IL SO - New
-Lathrup Village MI PD
 Lauderdale County TN SO
 Lavon TX PD
 Lawrence County District Attorney's Office PA
@@ -2036,7 +2033,6 @@ Sarasota FL PD
 Sarpy County NE SO
 Sartell MN PD
 Sauk County WI SO
-Sauk Prairie WI PD
 Sauk Village IL PD
 Saukville WI PD
 Savanna IL PD
@@ -2354,7 +2350,6 @@ Village of Bloomingdale IL PD
 Village of Clearview WV PD
 Village of Diamond IL
 Village of Dundee MI PD
-Village of Fox Crossing WI PD
 Village of Fox Point WI PD
 Village of French Island WI PD
 Village of Homer Glen IL PD
