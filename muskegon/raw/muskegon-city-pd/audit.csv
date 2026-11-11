@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"65fe7519-8528-4137-8dfe-a6c4ac1ff8cc","***","2026-10-11T10:37:30.123Z","934","Hit and Run/Car Accident"
-"e3b8b0d3-532b-4805-93dc-b202636b2a75","***","2026-10-11T20:19:57.663Z","2","Hit and Run/Car Accident"
 "fe462946-f940-4704-8f6d-9dc7bb9530f3","***","2026-10-12T13:23:44.502Z","236","Assault/Battery Offenses (Domestic)"
 "3daf447a-0898-4ca0-8ed2-6095d9b44218","***","2026-10-12T13:48:37.576Z","957","Assault/Battery Offenses (Domestic)"
 "e181ef98-1965-4855-8b08-330b59c97d22","***","2026-10-12T14:35:05.490Z","955","Stolen Property Offenses"
@@ -88,3 +86,6 @@
 "85bb8716-d379-4215-833e-d083a5685bf4","***","2026-11-09T06:08:02.575Z","2","Motor Vehicle Theft/Stolen"
 "f7527cf2-8ada-48a8-b81e-f3347eb14f0f","***","2026-11-09T16:16:30.796Z","2","City Planning/Traffic Analysis"
 "5209a49b-5cd3-4586-bf2c-29685d0ee4b3","***","2026-11-09T19:57:31.732Z","930","Motor Vehicle Theft/Stolen"
+"dd485ee8-a600-49da-8241-1e06c0a3826d","***","2026-11-10T04:14:18.373Z","905","Kidnapping/Abduction"
+"3898e07a-3a51-4721-8339-09f4d18e061e","***","2026-11-10T04:18:30.389Z","232","Kidnapping/Abduction"
+"bc45b7ba-f617-43af-a56f-fd4097ba52eb","***","2026-11-10T23:52:30.045Z","2","Hit and Run/Car Accident"
