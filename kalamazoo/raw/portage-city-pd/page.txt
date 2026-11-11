@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Tue Nov 10 2026
+Last updated: Wed Nov 11 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-409,418
+409,116
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-126
+136
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,746
+5,542
 
 Sharing Network Data With
 
