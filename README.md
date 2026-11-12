@@ -7,7 +7,7 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Kent | [`kent/`](kent/) | Grand Rapids PD, Kent County SO, Walker, Wyoming, Grandville, Lowell, Rockford DPS |
 | Ottawa | [`ottawa/`](ottawa/) | Holland PD |
 | Kalamazoo | [`kalamazoo/`](kalamazoo/) | Kalamazoo DPS, Portage PD |
-| Muskegon | [`muskegon/`](muskegon/) | none yet; Muskegon PD portal is live without a public search-audit CSV |
+| Muskegon | [`muskegon/`](muskegon/) | Muskegon PD |
 | Allegan | [`allegan/`](allegan/) | none yet; guessed slugs kept for ad-hoc probe |
 | Wayne | [`wayne/`](wayne/) | Taylor PD, Sumpter Twp PD |
 | Oakland | [`oakland/`](oakland/) | none yet; Ferndale portal is inactive; Troy has no audit CSV |
@@ -35,8 +35,11 @@ Latest per-county summary: `kent/SNAPSHOT.md`, `ottawa/SNAPSHOT.md`, and so on.
   data/<agency>/sharing_*.csv
   data/<agency>/stats.csv
   raw/<agency>/page.txt
+  raw/<agency>/audit.csv
   raw/<agency>/page.html
 ```
+
+`raw/<agency>/audit.csv` is the latest search-audit file as downloaded from the portal. `page.html` is only present for some portals (currently Ferndale, Troy, and Milan). In some `stats.csv` files the last line has `backfill` in `captured_at`; it is a marker, not a snapshot, so the latest snapshot is the last row with a timestamp.
 
 Search-audit CSVs are partitioned by **search time**. Share lists are the current portal snapshot; `git log -p <county>/data/<agency>` is the history. Kent and Ottawa dumps were grafted from the old `*-co-mi-flock` repos (now archived).
 
