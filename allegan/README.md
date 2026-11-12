@@ -21,8 +21,10 @@ data/
 
 raw/
   <agency>/page.txt          visible portal text; git history is the series
-  <agency>/page.html         full HTML as served, including the inlined audit CSV
+  <agency>/audit.csv         latest search-audit CSV as downloaded from the portal
 ```
+
+Nothing is stored in this folder yet. The layout above is what a captured agency gets in the counties that have captures.
 
 Search-audit CSVs are partitioned by **search time**. A search from 31 August lives in `2026-08.csv` even if it first appeared here in September. Ids already stored are left as-is.
 
