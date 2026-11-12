@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Wed Nov 11 2026
+Last updated: Thu Nov 12 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-810,276
+812,345
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,072
+1,088
 
 Hotlists Alerted On
 
@@ -98,16 +98,16 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-5,730
+5,553
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Wanted Person (Arrest Warrant/Fugitive)
 Larceny/Theft Offenses
+Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
 Assault/Battery Offenses
-Financial Crime (Embezzlement/Fraud)
 
 Sharing Network Data With
 
@@ -341,7 +341,6 @@ Lincoln Park MI PD
 Little Falls MN PD
 Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County MI SO
-Livonia MI PD
 Lockland OH PD
 Loudoun County VA SO
 Louisville Metro KY PD
@@ -836,7 +835,6 @@ Indianapolis International Airport IN PD
 Ingalls IN PD
 Ironwood PSD MI
 Iroquois IL SO
-Irving TX PD
 Itasca IL PD
 Jackson County MI SO
 Jackson MI PD

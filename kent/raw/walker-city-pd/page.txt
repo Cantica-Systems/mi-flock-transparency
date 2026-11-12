@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Wed Nov 11 2026
+Last updated: Thu Nov 12 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-234,924
+229,468
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-535
+485
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -186,7 +186,6 @@ Lenawee County MI SO
 Lincoln Park MI PD
 Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County MI SO
-Livonia MI PD
 Lowell MI PD
 Macomb County MI SO
 Madison Heights MI PD

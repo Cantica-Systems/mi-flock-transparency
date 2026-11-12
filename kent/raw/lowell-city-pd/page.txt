@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Wed Nov 11 2026
+Last updated: Thu Nov 12 2026
 
 Overview
 
@@ -81,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-110,123
+109,886
 
 Number of Searches
 
@@ -99,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-66
+55
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -217,7 +217,6 @@ Ligonier IN PD
 Lincoln Park MI PD
 Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County MI SO
-Livonia MI PD
 Louisville Metro KY PD
 Macomb County MI SO
 Madison Heights MI PD
