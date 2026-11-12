@@ -17,13 +17,15 @@ data/
     YYYY-MM.csv              search audits, append-only, deduped on Flock id
     unknown.csv              no Flock id, or searchDate that didn't parse (rare)
     sharing_outbound.csv     agencies granted access to this agency’s data
-    sharing_inbound.csv      agencies sharing their data with this agency
+    sharing_inbound.csv      agencies sharing their data with this agency (not published by either agency)
     stats.csv                portal totals, one row per snapshot
 
 raw/
   <agency>/page.txt          visible portal text; git history is the series
-  <agency>/page.html         full HTML as served, including the inlined audit CSV
+  <agency>/audit.csv         latest search-audit CSV as downloaded from the portal
 ```
+
+The last line of each `stats.csv` has `backfill` in `captured_at`. It is a marker, not a snapshot; the latest snapshot is the last row with a timestamp.
 
 Search-audit CSVs are partitioned by **search time**. A search from 31 August lives in `2026-08.csv` even if it first appeared here in September. Ids already stored are left as-is.
 

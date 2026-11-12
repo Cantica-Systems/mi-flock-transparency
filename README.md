@@ -9,7 +9,7 @@ One repo for [Flock Safety transparency portals](https://transparency.flocksafet
 | Kalamazoo | [`kalamazoo/`](kalamazoo/) | Kalamazoo DPS, Portage PD |
 | Muskegon | [`muskegon/`](muskegon/) | Muskegon PD |
 | Allegan | [`allegan/`](allegan/) | none yet; guessed slugs kept for ad-hoc probe |
-| Wayne | [`wayne/`](wayne/) | Taylor PD, Sumpter Twp PD |
+| Wayne | [`wayne/`](wayne/) | Taylor PD, Sumpter Twp PD, Inkster PD |
 | Oakland | [`oakland/`](oakland/) | none yet; Ferndale portal is inactive; Troy has no audit CSV |
 | Macomb | [`macomb/`](macomb/) | none yet; guessed slugs kept for ad-hoc probe |
 | Washtenaw | [`washtenaw/`](washtenaw/) | none yet; Milan portal has no public search-audit CSV |
