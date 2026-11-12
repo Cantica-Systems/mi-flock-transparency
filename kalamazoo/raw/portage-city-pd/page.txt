@@ -6,7 +6,7 @@ Visit Flock
 Portage MI PD
 Transparency Portal
 
-Last updated: Wed Nov 11 2026
+Last updated: Thu Nov 12 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-409,116
+408,892
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-136
+132
 
 Hotlists Alerted On
 
@@ -87,7 +87,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,542
+5,289
 
 Sharing Network Data With
 
@@ -1273,7 +1273,6 @@ Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County IL SO
 Livingston County MI SO
 Livingston IL PD
-Livonia MI PD
 Lizton IN PD
 Lockland OH PD
 Lockport IL PD
@@ -2354,7 +2353,6 @@ Village of Fox Point WI PD
 Village of French Island WI PD
 Village of Homer Glen IL PD
 Village of Jefferson OH PD
-Village of Kingdom City (MO)
 Village of LaGrange Park IL PD
 Village of Lynwood IL PD
 Village of Manhattan IL PD
