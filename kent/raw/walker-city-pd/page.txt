@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Thu Nov 12 2026
+Last updated: Fri Nov 13 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-229,468
+224,379
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-54
+51
 
 Hotlists Alerted On
 
@@ -89,15 +89,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-485
+443
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Assault/Battery Offenses (Domestic)
 Larceny/Theft Offenses
-Hit and Run/Car Accident
 Financial Crime (Embezzlement/Fraud)
+Hit and Run/Car Accident
 Assault/Battery Offenses
 
 Sharing Network Data With
@@ -439,7 +439,6 @@ IA - Storm Lake PD
 IN - Angola PD
 Indian Hill OH PD
 Indian Hills KY PD
-Indiana State Police IN PD
 Indianapolis International Airport IN PD
 Ingalls IN PD
 Inkster MI PD
