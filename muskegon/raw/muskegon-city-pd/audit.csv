@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"a6a4d115-2311-4115-9ce8-d4680d7f8ce7","***","2026-10-13T15:01:39.521Z","2","Hit and Run/Car Accident"
-"0e2ee951-a5a0-4fa3-97c3-9626cb6d5e66","***","2026-10-13T17:42:45.869Z","2","Drugs/Narcotics"
 "ebd8fc99-1df7-4ff4-8504-1d8d898d319c","***","2026-10-15T23:02:13.759Z","2","Motor Vehicle Theft/Stolen"
 "3760b823-3a10-4125-b7d0-73e185c17cbf","***","2026-10-16T03:56:46.025Z","953","Motor Vehicle Theft/Stolen"
 "24d3387f-ba2d-4592-978d-575d7b37a8e3","***","2026-10-16T08:37:42.726Z","2","Weapons Offense (Guns/Shots Fired)"
@@ -81,3 +79,4 @@
 "dd485ee8-a600-49da-8241-1e06c0a3826d","***","2026-11-10T04:14:18.373Z","905","Kidnapping/Abduction"
 "3898e07a-3a51-4721-8339-09f4d18e061e","***","2026-11-10T04:18:30.389Z","232","Kidnapping/Abduction"
 "bc45b7ba-f617-43af-a56f-fd4097ba52eb","***","2026-11-10T23:52:30.045Z","2","Hit and Run/Car Accident"
+"b5605fbf-30b7-484b-a015-afcc94b3dda5","***","2026-11-12T17:17:20.626Z","2","Motor Vehicle Theft/Stolen"
