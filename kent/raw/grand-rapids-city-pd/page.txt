@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Fri Nov 13 2026
+Last updated: Sat Nov 14 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-471,041
+469,603
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-650
+655
 
 Hotlists Alerted On
 
@@ -123,15 +123,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,227
+6,024
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
 Wanted Person (Arrest Warrant/Fugitive)
-Weapons Offense (Guns/Shots Fired)
 Motor Vehicle Theft/Stolen
+Weapons Offense (Guns/Shots Fired)
 Obstructing the Police (Fleeing/Eluding)
 
 Sharing Network Data With
@@ -2044,6 +2044,7 @@ Elon University NC PD
 Elwood IN PD
 Elyria OH PD
 Englewood OH PD
+Enon OH PD
 Erie County OH SO
 Erwin NC PD
 Erwin TN PD
@@ -2714,7 +2715,6 @@ St. Charles County MO PD
 St. Clair County MI SO
 St. Clair MI PD
 St. Clairsville OH PD
-St. Francois County MO SO
 St. John MO PD
 St. Joseph County SO IN
 St. Joseph Department of Public Safety MI

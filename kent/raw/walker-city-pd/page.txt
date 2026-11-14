@@ -5,7 +5,7 @@ Visit Flock
 Walker MI PD
 Transparency Portal
 
-Last updated: Fri Nov 13 2026
+Last updated: Sat Nov 14 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-224,379
+222,310
 
 Number of Searches
 
@@ -89,16 +89,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-443
+414
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Assault/Battery Offenses (Domestic)
 Larceny/Theft Offenses
-Financial Crime (Embezzlement/Fraud)
 Hit and Run/Car Accident
-Assault/Battery Offenses
+Financial Crime (Embezzlement/Fraud)
+Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
 
@@ -487,7 +487,6 @@ Mackinaw IL PD
 Macomb County MI SO
 Madison Heights MI PD
 Madisonville KY PD
-Marathon County WI SO
 Marion County OH SO
 Marion IN PD
 Markle IN PD
