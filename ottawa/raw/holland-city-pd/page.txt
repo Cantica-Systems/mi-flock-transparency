@@ -6,7 +6,7 @@ Visit Flock
 Holland MI PD
 Transparency Portal
 
-Last updated: Sat Nov 14 2026
+Last updated: Sun Nov 15 2026
 
 Overview
 
@@ -103,7 +103,7 @@ Total Number of Plates searched by HPD
 
 Total user search sessions over the last 30 days.
 
-142
+141
 Top 5 Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -111,8 +111,8 @@ Offense Types used for LPR searches in the last 30 days.
 Motor Vehicle Theft/Stolen
 Drugs/Narcotics
 Assault/Battery Offenses
+Traffic Infraction
 Wanted Person (Arrest Warrant/Fugitive)
-Hit and Run/Car Accident
 Policy & Trust
 
 Holland City ALPR System
