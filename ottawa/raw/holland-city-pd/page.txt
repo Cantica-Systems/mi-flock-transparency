@@ -6,7 +6,7 @@ Visit Flock
 Holland MI PD
 Transparency Portal
 
-Last updated: Sun Nov 15 2026
+Last updated: Mon Nov 16 2026
 
 Overview
 
@@ -103,7 +103,7 @@ Total Number of Plates searched by HPD
 
 Total user search sessions over the last 30 days.
 
-141
+143
 Top 5 Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -185,7 +185,7 @@ More Info
 
 Public Search Details
 
-Click below for Public Search Details in September 2026:
+Click below for Public Search Details in October 2026:
 
 https://www.cityofholland.com/DocumentCenter/View/9614/Holland-PD-Audit-Log
 
