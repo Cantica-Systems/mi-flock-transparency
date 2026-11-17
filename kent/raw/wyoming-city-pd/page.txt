@@ -6,7 +6,7 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Mon Nov 16 2026
+Last updated: Tue Nov 17 2026
 
 Overview
 
@@ -15,6 +15,8 @@ Wyoming PD uses Flock Safety Automated License Plate Reader (ALPR) technology to
 Community Impact
 65
 MICHIGAN SUCCESS STORIES IN THE NEWS
+Featured Success Stories
+
 Featured Success Stories
 
 In addition to recovering stolen vehicles and license plates and arresting wanted individuals every year, the Flock Safety ALPR program has provided investigative leads in numerous police investigations, many of which would have gone unsolved or taken much more time and resources to solve. Below are just some of the many great successes the Wyoming Police Department has had utilizing the Flock Safety program.
@@ -94,13 +96,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-528,176
+527,517
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-251
+260
 
 Hotlists Alerted On
 
@@ -112,16 +114,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,499
+6,255
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Weapons Offense (Guns/Shots Fired)
 Hit and Run/Car Accident
+Obstructing the Police (Fleeing/Eluding)
 Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
-Obstructing the Police (Fleeing/Eluding)
 
 Sharing Network Data With
 
@@ -2501,5 +2503,9 @@ https://public.powerdms.com/WYOMPD/tree/documents/2570872
 Flock ALPR Camera - FAQ's
 
 https://ww2.wyomingmi.gov/WDPS/Flock%20Cameras-FAQs.pdf
+
+Data Retention Period
+
+ALPR images and associated data are retained for 30 days in accordance with the State of Michigan’s General Schedule #11 (GS-11), the approved records retention and disposal schedule for local law enforcement records. Specifically, Item 11.061 establishes a retention period of 30 days from the date of creation for ALPR records, including captured images and associated metadata. A full list of retention and disposal schedules, including GS-11, can be found at: https://www.michigan.gov/dtmb/services/recordsmanagement/schedules/gslocal
 
 Provided by Flock Safety

@@ -5,7 +5,7 @@ Visit Flock
 Lowell MI PD
 Transparency Portal
 
-Last updated: Mon Nov 16 2026
+Last updated: Tue Nov 17 2026
 
 Overview
 
@@ -81,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-106,921
+105,102
 
 Number of Searches
 
@@ -99,14 +99,14 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-41
+39
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Assault/Battery Offenses
+Larceny/Theft Offenses
 Stolen Property Offenses
-Disorderly Conduct/Disturbance
 Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
