@@ -20,8 +20,10 @@ data/
 
 raw/
   <agency>/page.txt
-  <agency>/page.html
+  <agency>/audit.csv
 ```
+
+Nothing is stored in this folder yet. The layout above is what a captured agency gets in the counties that have captures; `raw/<agency>/audit.csv` is the latest search-audit CSV as downloaded from the portal.
 
 Guessed slugs (ad-hoc probe, not daily): St. Clair County MI SO, Port Huron MI PD.
 
