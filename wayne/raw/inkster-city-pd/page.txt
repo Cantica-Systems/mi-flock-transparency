@@ -5,7 +5,7 @@ Visit Flock
 Inkster MI PD
 Transparency Portal
 
-Last updated: Tue Nov 17 2026
+Last updated: Wed Nov 18 2026
 
 Overview
 
@@ -69,7 +69,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-38
+37
 
 Hotlists Alerted On
 
@@ -81,7 +81,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-626
+596
 Missing Persons, Auto Theft, Accidents- Leaving the Scene.
 
 Offense Types used for LPR searches in the last 30 days.
@@ -89,8 +89,8 @@ Offense Types used for LPR searches in the last 30 days.
 Motor Vehicle Theft/Stolen
 Weapons Offense (Guns/Shots Fired)
 Larceny/Theft Offenses
-Obstructing the Police (Fleeing/Eluding)
 Stalking
+Obstructing the Police (Fleeing/Eluding)
 
 Sharing Network Data With
 
