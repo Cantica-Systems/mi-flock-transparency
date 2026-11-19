@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Wed Nov 18 2026
+Last updated: Thu Nov 19 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,099
+11,110
 
 Number of Searches
 
@@ -143,7 +143,6 @@ Lapeer City MI PD
 Lenawee County MI SO
 Lincoln Park MI PD
 Lincoln Township PD MI
-Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County MI SO
 Lowell MI PD
 Macomb County MI SO
