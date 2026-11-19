@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Wed Nov 18 2026
+Last updated: Thu Nov 19 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-91,581
+91,316
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-63
+59
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -205,7 +205,6 @@ Lapeer City MI PD
 Lenawee County MI SO
 Ligonier IN PD
 Lincoln Park MI PD
-Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County MI SO
 Lowell MI PD
 Macomb County MI SO

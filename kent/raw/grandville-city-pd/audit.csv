@@ -1,8 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"4e6458e0-b6db-4b79-8016-6a33c344cafc","***","2026-10-19T15:16:29.343Z","1","Destruction/Damage/Vandalism of Property"
-"ef73ff6e-53e6-4925-b491-4d94b1f8df78","***","2026-10-19T16:10:23.969Z","320","Drugs/Narcotics"
-"7a698d90-49fe-41a3-8fb7-bb4fa51b8be0","***","2026-10-19T20:25:23.506Z","320","Drugs/Narcotics"
-"2f1d70d9-53e5-4070-8896-5f6dd640b66a","***","2026-10-19T22:15:31.284Z","320","Drugs/Narcotics"
 "30bb1325-6da3-4c39-9484-f61fc321e622","***","2026-10-20T13:51:09.850Z","3","Destruction/Damage/Vandalism of Property"
 "4ae48746-b975-4c19-8ec3-ba0e31a0c38c","***","2026-10-21T13:32:09.974Z","1","Larceny/Theft Offenses"
 "fca1f17f-2e13-4bc1-9bd7-2b59816bfd6e","***","2026-10-21T13:58:38.705Z","320","Drugs/Narcotics"
@@ -83,3 +79,4 @@
 "10ff5e06-2e63-47c0-906b-7211d29dd370","***","2026-11-17T05:07:53.689Z","12","Obstructing the Police (Fleeing/Eluding)"
 "439381ee-36df-43f7-9791-b4e4d25288d9","***","2026-11-17T14:45:31.703Z","5132","Financial Crime (Embezzlement/Fraud)"
 "50b4097a-dd57-40ef-8ce1-239223558f5b","***","2026-11-17T20:30:09.332Z","1","Financial Crime (Embezzlement/Fraud)"
+"928c0242-4138-4fa9-ba47-a91b39a77cbc","***","2026-11-18T18:17:28.225Z","319","Drugs/Narcotics"
