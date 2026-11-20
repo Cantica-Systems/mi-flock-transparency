@@ -6,14 +6,14 @@ Visit Flock
 Wyoming MI PD
 Transparency Portal
 
-Last updated: Thu Nov 19 2026
+Last updated: Fri Nov 20 2026
 
 Overview
 
 Wyoming PD uses Flock Safety Automated License Plate Reader (ALPR) technology to capture objective evidence without compromising individual privacy. Wyoming PD uses retroactive searches to solve crimes after they occur or locate missing persons. Additionally, Wyoming PD utilizes real-time alerting of hotlist vehicles to capture wanted criminals. To ensure proper use and guardrails are in place, they have made the policies and usage statistics below available to the public.
 
 Community Impact
-65
+117
 MICHIGAN SUCCESS STORIES IN THE NEWS
 Featured Success Stories
 
@@ -38,46 +38,47 @@ In addition to recovering stolen vehicles and license plates and arresting wante
 • Auto Theft Reduction: FLOCK cameras have significantly improved the recovery of stolen vehicles and identification of suspects. Motor vehicle theft is down 60% compared to five years ago, prior to ALPR implementation. Additionally, 23% of vehicles stolen in Wyoming have been recovered due to the ALPR system.
 
 In the Michigan News
-MANCELONA, MI
-6/1/2026
+NEW BALTIMORE, MI
+10/28/2026
 
-SEXUAL ASSAULT
+VANDALISM / PROPERTY CRIME
 
-Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+Flock Camera Helps Identify Vehicle in New Baltimore Michigan Window Shootings
 LPR
 Read full story
-CLINTON TOWNSHIP, MI
-5/28/2026
+CHESTERFIELD TOWNSHIP, MI
+10/28/2026
 
-STOLEN VEHICLE RECOVERY
+VANDALISM / PROPERTY CRIME
 
-Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+Flock Camera Helps Identify Pellet Gun Vandalism Suspects in Macomb County
 LPR
 Read full story
-JACKSON, MI
-5/25/2026
+FRASER, MI
+10/26/2026
 
-STOLEN VEHICLE RECOVERY
+VEHICLE PURSUIT
 
-Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+Flock LPR Hit Leads to Pursuit and Arrest of Fleeing Suspect in Fraser, MI
 LPR
 Read full story
-SILVER CREEK TOWNSHIP, MI
-5/21/2026
+PONTIAC, MI
+10/18/2026
 
-HIT-AND-RUN
+ASSAULT / AGGRAVATED ASSAULT
 
-Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+Flock Cameras Help Oakland County Deputies Find Shooting Suspect
 LPR
 Read full story
-ORION TOWNSHIP, MI
-5/19/2026
+INKSTER, MI
+10/14/2026
 
-CARJACKING
+AMBER ALERT / CHILD ENDANGERMENT
 
-Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+Flock LPR Helps Locate Two Missing Boys After Multi-State Search From Inkster
 LPR
 Read full story
+See more solved stories
 Data & Usage Summary
 
 Data Retention
@@ -96,13 +97,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-529,134
+528,474
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-303
+311
 
 Hotlists Alerted On
 
@@ -114,13 +115,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,687
+5,391
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Weapons Offense (Guns/Shots Fired)
 Hit and Run/Car Accident
+Weapons Offense (Guns/Shots Fired)
 Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
 Obstructing the Police (Fleeing/Eluding)
@@ -1874,7 +1875,6 @@ Claiborne County TN SO
 Clarksville IN PD
 Clawson MI PD
 Clayton Township PD MI
-Clearwater FL PD
 Clinton County MI SO
 Clinton TN PD
 Clinton Township MI PD

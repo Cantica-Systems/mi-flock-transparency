@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Thu Nov 19 2026
+Last updated: Fri Nov 20 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-91,316
+91,467
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-59
+55
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -354,7 +354,6 @@ Charlotte MI PD
 Cheatham County TN SO
 Chesterfield Twp MI PD
 Clawson MI PD
-Clearwater FL PD
 Clinton Township MI PD
 Clio MI PD
 Cobb County GA PD

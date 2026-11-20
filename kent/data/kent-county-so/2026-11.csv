@@ -517,3 +517,53 @@ fcaca70c-9915-4f39-a551-5fb4a0fbdf63,***,2026-11-18T20:02:23.162Z,511,Drugs/Narc
 811cf32a-b64d-4967-994f-5d2b1738b442,***,2026-11-18T21:51:16.923Z,19,Larceny/Theft Offenses
 e1711424-3a67-4946-8edd-dfb075ba335b,***,2026-11-18T21:53:38.224Z,2,Missing/Endangered Person/Runaway
 7f4aa358-f718-42e4-87fa-157ee783ebf3,***,2026-11-18T22:00:11.702Z,0,Missing/Endangered Person/Runaway
+646eaea8-fd6c-4140-b6f1-a6b92c6be367,***,2026-11-19T00:25:08.823Z,3,Financial Crime (Embezzlement/Fraud)
+1b0d67ed-d816-441b-a7de-cb32bd963685,***,2026-11-19T02:31:56.440Z,193,Drugs/Narcotics
+64b886e9-81e7-4c84-8f75-f6daf5b9daf1,***,2026-11-19T02:38:30.317Z,9,Assault/Battery Offenses (Domestic)
+cf357950-00e8-4ebc-b724-c5c66e4261f8,***,2026-11-19T02:47:21.022Z,513,Wanted Person (Arrest Warrant/Fugitive)
+341bacf4-686e-4e6a-99f6-ddf921793e09,***,2026-11-19T02:48:13.586Z,2,Larceny/Theft Offenses
+59193040-83c0-46c5-a223-9fff40f94c68,***,2026-11-19T03:23:05.809Z,583,Assault/Battery Offenses (Domestic)
+2952f938-a304-464b-927c-2dee895382b0,***,2026-11-19T03:27:48.046Z,9,Assault/Battery Offenses (Domestic)
+ff8e2403-1059-4955-8515-677e08aad62d,***,2026-11-19T03:28:55.755Z,590,Motor Vehicle Theft/Stolen
+e9f538f6-c645-4edd-b85a-c650bcea3118,***,2026-11-19T03:44:15.129Z,513,Motor Vehicle Theft/Stolen
+5a26bd22-847a-48bd-9730-33469c9af03a,***,2026-11-19T04:04:14.551Z,583,Assault/Battery Offenses (Domestic)
+e1f7aeb8-ac99-48af-ad81-b470e183ae87,***,2026-11-19T07:31:49.422Z,3,Weapons Offense (Guns/Shots Fired)
+eb7b98dd-cd6c-4bbb-b46a-3bf2b011d4bc,***,2026-11-19T13:57:23.354Z,509,Financial Crime (Embezzlement/Fraud)
+3143c37f-e0f8-483b-a354-7f9235b51a62,***,2026-11-19T14:00:20.419Z,513,Financial Crime (Embezzlement/Fraud)
+33569e98-c986-4e1f-aa43-26192e4288af,***,2026-11-19T14:56:44.196Z,2,Motor Vehicle Theft/Stolen
+cc003b01-7727-42fa-92ce-b8516936186b,***,2026-11-19T15:52:25.950Z,2,Larceny/Theft Offenses
+5e7da937-f862-4116-b731-893a60a120ee,***,2026-11-19T15:55:19.157Z,19,Obstructing the Police (Fleeing/Eluding)
+3c8d56aa-b3cf-4c7e-b62d-38b5320040b5,***,2026-11-19T16:00:20.953Z,19,Obstructing the Police (Fleeing/Eluding)
+c0c62876-9ded-4caf-9827-f2b215b2b79d,***,2026-11-19T16:02:48.885Z,19,Larceny/Theft Offenses
+853613e9-98aa-4536-a1be-d19f038a080e,***,2026-11-19T17:10:39.416Z,588,Burglary/Breaking & Entering
+f1cc926f-f568-4462-acae-c08bdd6a6506,***,2026-11-19T17:53:46.145Z,586,Larceny/Theft Offenses
+ecb08fca-c173-47dd-84c7-07bcf199a3ea,***,2026-11-19T17:54:55.233Z,2,Obstructing the Police (Fleeing/Eluding)
+a6fafa33-c534-4155-a945-3d5f6bab7f9e,***,2026-11-19T18:09:03.960Z,2,Obstructing the Police (Fleeing/Eluding)
+8fe1cd89-81ae-4515-9aef-811ab323b31f,***,2026-11-19T18:09:39.860Z,2,Obstructing the Police (Fleeing/Eluding)
+3dfd04f7-00d0-4ddf-b0ef-ca82488c17d4,***,2026-11-19T18:10:15.018Z,7,Disorderly Conduct/Disturbance
+6e46bae1-eb71-4900-a41d-e603bc61be9f,***,2026-11-19T18:12:02.981Z,270,Disorderly Conduct/Disturbance
+417b2d8d-f5e5-4a76-b3a6-012b1de5ce19,***,2026-11-19T18:16:45.480Z,586,Larceny/Theft Offenses
+a6e6269c-dd00-48db-8114-5dc4c7e83128,***,2026-11-19T18:21:54.244Z,513,Wanted Person (Arrest Warrant/Fugitive)
+72114e2a-3c7d-499c-b57d-381e0114fef0,***,2026-11-19T18:22:15.532Z,503,Obstructing Justice
+44fab1ca-0f29-4358-8c34-9cb49e035c04,***,2026-11-19T18:23:41.242Z,588,Burglary/Breaking & Entering
+69c7c323-bcaa-4599-9b23-832be4d27eae,***,2026-11-19T18:34:06.660Z,19,Obstructing the Police (Fleeing/Eluding)
+d501c8d0-0977-4b0f-bb20-f053f923043c,***,2026-11-19T19:00:52.317Z,5200,Obstructing the Police (Fleeing/Eluding)
+9ac6a77a-3fc3-4693-a8d9-163a8a129b53,***,2026-11-19T19:07:55.105Z,2,Obstructing the Police (Fleeing/Eluding)
+0bf5bee5-f105-40fa-bce3-7435a3dc251b,***,2026-11-19T19:29:04.298Z,2,Financial Crime (Embezzlement/Fraud)
+db09713a-6f09-4a6b-9746-c199a8babc23,***,2026-11-19T19:39:44.873Z,2,Destruction/Damage/Vandalism of Property
+378af50c-296f-4541-ad25-5d98372f851b,***,2026-11-19T20:00:35.313Z,19,Larceny/Theft Offenses
+a64bb2d4-b58e-4b93-bcb9-6ab25a9b453e,***,2026-11-19T20:03:54.418Z,2,Financial Crime (Embezzlement/Fraud)
+1219517f-da1a-423e-80ab-ca10c0474bfc,***,2026-11-19T20:04:00.073Z,1,Hit and Run/Car Accident
+1f56cad9-ebd4-4273-b520-b47f02779bc7,***,2026-11-19T20:10:22.123Z,2,Financial Crime (Embezzlement/Fraud)
+e86a03c6-2d7e-42d3-b407-aa42eb6b4dad,***,2026-11-19T20:31:20.604Z,270,Disorderly Conduct/Disturbance
+66d7bbf8-7a61-4efc-a87f-22a150e7a845,***,2026-11-19T20:32:57.745Z,4,Larceny/Theft Offenses
+8e0a471a-e874-49b7-9f35-ebf73c6a1d48,***,2026-11-19T20:36:29.892Z,19,Larceny/Theft Offenses
+201b624e-cad9-4e61-be7c-a544ccf09b31,***,2026-11-19T20:58:00.276Z,5204,Financial Crime (Embezzlement/Fraud)
+91f5edad-8e8b-4cf4-9e73-2fd3abbcb8fa,***,2026-11-19T20:58:02.171Z,511,Drugs/Narcotics
+2407b861-bbee-4c63-88f6-762693a20199,***,2026-11-19T21:03:16.147Z,1,Hit and Run/Car Accident
+37f53b37-501b-4e04-b95c-4c03780f6c13,***,2026-11-19T21:11:12.111Z,270,Disorderly Conduct/Disturbance
+cc959bf4-1a7e-45be-805c-cbd8cf7177e0,***,2026-11-19T21:12:49.085Z,19,Obstructing the Police (Fleeing/Eluding)
+c21d3343-a6c2-41c9-8437-8a90b76c2a02,***,2026-11-19T21:45:20.716Z,280,Financial Crime (Embezzlement/Fraud)
+829556b5-266f-4ef2-9ddd-4d944319d800,***,2026-11-19T21:49:27.948Z,1,Hit and Run/Car Accident
+9ce10855-9570-4195-8080-4759c4190419,***,2026-11-19T21:55:17.881Z,2,Hit and Run/Car Accident
+6c179ecd-78c0-4376-94d8-385cc617197b,***,2026-11-19T22:01:22.441Z,511,Drugs/Narcotics

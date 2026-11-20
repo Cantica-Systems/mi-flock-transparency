@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Thu Nov 19 2026
+Last updated: Fri Nov 20 2026
 
 Overview
 
@@ -105,7 +105,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-190,748
+187,344
 
 Number of Searches
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-241
+233
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -671,7 +671,6 @@ Hamilton County OH SO
 Hamilton Township OH PD (Warren County)
 Hamtramck MI PD
 Hancock County IN SO
-Hancock MD PD
 Hannibal MO PD
 Hanover Park IL PD
 Hardin County KY SO
@@ -1758,7 +1757,6 @@ Charlotte MI PD
 Cheatham County TN SO
 Chesterfield Twp MI PD
 Clawson MI PD
-Clearwater FL PD
 Clinton Township MI PD
 Clio MI PD
 Cobb County GA PD

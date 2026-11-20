@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Thu Nov 19 2026
+Last updated: Fri Nov 20 2026
 
 Overview
 
@@ -80,13 +80,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-839,090
+843,877
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-967
+971
 
 Hotlists Alerted On
 
@@ -98,14 +98,14 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-4,358
+4,159
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Wanted Person (Arrest Warrant/Fugitive)
-Motor Vehicle Theft/Stolen
 Larceny/Theft Offenses
+Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
 Financial Crime (Embezzlement/Fraud)
 
@@ -668,7 +668,6 @@ Cicero IN PD
 Clark County OH SO
 Clarksville IN PD
 Clawson MI PD
-Clearwater FL PD
 Cleveland Metro Parks OH PD
 Clio MI PD
 Cobb County GA PD
@@ -996,7 +995,6 @@ OH - Jefferson County Drug Task Force
 OH - Johnny Appleseed Metropolitan Park District PD
 OH - Mariemont PD
 OH - Milford PD
-OH - South Bloomfield PD
 OH - Williamsburg PD
 OH- Springfield Township PD (Hamilton Co)
 Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
@@ -1004,7 +1002,6 @@ Olmsted Falls OH PD
 Orange Beach AL PD
 Orange County FL SO
 Oregon OH PD
-Orland Hills IL PD
 Orlando FL PD
 Ottawa County MI SO
 Ottawa County OH SO
@@ -1066,7 +1063,6 @@ Roseland IN PD
 Roseville MI PD
 Ross Township PA PD
 Rossford OH PD
-Round Lake Park IL PD
 Royal Oak MI PD
 Saginaw County MI SO
 Saginaw MI PD
