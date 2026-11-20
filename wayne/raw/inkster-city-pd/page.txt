@@ -5,7 +5,7 @@ Visit Flock
 Inkster MI PD
 Transparency Portal
 
-Last updated: Thu Nov 19 2026
+Last updated: Fri Nov 20 2026
 
 Overview
 
@@ -51,7 +51,7 @@ Total Cameras - 5
 
 Number of LPR and other cameras.
 
-41
+42
 
 LPR Cameras - 20
 
@@ -69,7 +69,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-39
+41
 
 Hotlists Alerted On
 
@@ -81,14 +81,14 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-577
+547
 Missing Persons, Auto Theft, Accidents- Leaving the Scene.
 
 Offense Types used for LPR searches in the last 30 days.
 
 Motor Vehicle Theft/Stolen
-Weapons Offense (Guns/Shots Fired)
 Larceny/Theft Offenses
+Weapons Offense (Guns/Shots Fired)
 Stalking
 Obstructing the Police (Fleeing/Eluding)
 
@@ -242,7 +242,6 @@ Cheatham County TN SO
 Chesterfield Twp MI PD
 Clawson MI PD
 Clayton Township PD MI
-Clearwater FL PD
 Clinton Township MI PD
 Clio MI PD
 Cobb County GA PD
