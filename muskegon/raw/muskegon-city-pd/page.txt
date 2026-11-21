@@ -5,14 +5,14 @@ Visit Flock
 Muskegon MI PD
 Transparency Portal
 
-Last updated: Fri Nov 20 2026
+Last updated: Sat Nov 21 2026
 
 Overview
 
 Muskegon MI PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Muskegon MI PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Muskegon MI PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
 Community Impact
-65
+117
 MICHIGAN SUCCESS STORIES IN THE NEWS
 Featured Success Stories
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-171,815
+171,720
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-78
+86
 
 Hotlists Alerted On
 
@@ -54,16 +54,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,838
+1,725
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Homicide/Death Investigation
 Motor Vehicle Theft/Stolen
+Wanted Person (Arrest Warrant/Fugitive)
 Weapons Offense (Guns/Shots Fired)
 Burglary/Breaking & Entering
-Hit and Run/Car Accident
 Policy & Trust
 
 What's Detected
