@@ -5,7 +5,7 @@ Visit Flock
 Taylor MI PD
 Transparency Portal
 
-Last updated: Fri Nov 20 2026
+Last updated: Sat Nov 21 2026
 
 Overview
 
@@ -49,44 +49,44 @@ In July 2025, 14-year-old was shot and killed following an altercation among a g
 Source: WXYZ and CBS News Detroit, July 2025.
 
 In the Michigan News
-MANCELONA, MI
-6/1/2026
+NEW BALTIMORE, MI
+10/28/2026
 
-SEXUAL ASSAULT
+VANDALISM / PROPERTY CRIME
 
-Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+Flock Camera Helps Identify Vehicle in New Baltimore Michigan Window Shootings
 LPR
 Read full story
-CLINTON TOWNSHIP, MI
-5/28/2026
+CHESTERFIELD TOWNSHIP, MI
+10/28/2026
 
-STOLEN VEHICLE RECOVERY
+VANDALISM / PROPERTY CRIME
 
-Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+Flock Camera Helps Identify Pellet Gun Vandalism Suspects in Macomb County
 LPR
 Read full story
-JACKSON, MI
-5/25/2026
+FRASER, MI
+10/26/2026
 
-STOLEN VEHICLE RECOVERY
+VEHICLE PURSUIT
 
-Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+Flock LPR Hit Leads to Pursuit and Arrest of Fleeing Suspect in Fraser, MI
 LPR
 Read full story
-SILVER CREEK TOWNSHIP, MI
-5/21/2026
+PONTIAC, MI
+10/18/2026
 
-HIT-AND-RUN
+ASSAULT / AGGRAVATED ASSAULT
 
-Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+Flock Cameras Help Oakland County Deputies Find Shooting Suspect
 LPR
 Read full story
-ORION TOWNSHIP, MI
-5/19/2026
+INKSTER, MI
+10/14/2026
 
-CARJACKING
+AMBER ALERT / CHILD ENDANGERMENT
 
-Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+Flock LPR Helps Locate Two Missing Boys After Multi-State Search From Inkster
 LPR
 Read full story
 See more solved stories
@@ -108,13 +108,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-715,835
+717,834
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-333
+336
 
 Hotlists Alerted On
 
@@ -126,7 +126,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,621
+3,450
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
