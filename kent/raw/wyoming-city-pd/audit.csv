@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"0cedc4dd-fb4b-44a6-8781-aa3ef800dda5","***","2026-10-22T21:36:13.307Z","717","Motor Vehicle Theft/Stolen"
 "946640f5-27aa-4367-9f6c-69577f206f8b","***","2026-10-23T00:43:14.907Z","3","Assault/Battery Offenses (Domestic)"
 "9c75d264-4ab6-451f-9e62-b6b056b6e2ab","***","2026-10-23T05:17:43.852Z","2","Juvenile Delinquency"
 "b3ad832b-9fcc-4651-a588-919e2060bfd2","***","2026-10-23T13:04:23.310Z","2","Larceny/Theft Offenses"
@@ -316,3 +315,5 @@
 "e0063a43-e050-462e-930c-a4e8e006bae4","***","2026-11-20T15:06:41.666Z","2","Hit and Run/Car Accident"
 "e8c1e2be-1181-41f6-bee9-d54c0afddcb2","***","2026-11-20T15:29:01.476Z","2","Hit and Run/Car Accident"
 "faebd740-8bcd-424a-bb10-b03776df8685","***","2026-11-20T16:32:08.007Z","2","Financial Crime (Embezzlement/Fraud)"
+"ea409887-59e7-4314-a5fd-aad4bcc29a5d","***","2026-11-21T01:11:22.136Z","2","Hit and Run/Car Accident"
+"412ee6f9-9cf6-4335-bc2e-05172199efbe","***","2026-11-21T13:02:38.489Z","2","Obstructing the Police (Fleeing/Eluding)"

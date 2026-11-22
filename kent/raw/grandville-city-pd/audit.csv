@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"13a1031b-5d8d-4d48-b45d-bac3604d2be1","***","2026-10-22T15:39:21.465Z","1","Larceny/Theft Offenses"
-"ec342e9a-f1fc-40ce-8a32-59e270eb5ebc","***","2026-10-22T19:03:13.507Z","1","Larceny/Theft Offenses"
-"8bf5f0ff-56b5-43a8-bdf1-bfbf16c986a6","***","2026-10-22T20:04:56.750Z","11","Larceny/Theft Offenses"
 "21d8da3a-3ef3-45e8-b54f-cadafdedea2d","***","2026-10-23T12:19:34.312Z","8","Larceny/Theft Offenses"
 "daaa6d99-eef1-4720-9763-80be23e53955","***","2026-10-23T14:19:07.937Z","2","Financial Crime (Embezzlement/Fraud)"
 "d4f31bbe-a43e-401d-bb89-ece49ceefbe4","***","2026-10-23T14:20:03.650Z","1","Larceny/Theft Offenses"
@@ -71,3 +68,4 @@
 "50b4097a-dd57-40ef-8ce1-239223558f5b","***","2026-11-17T20:30:09.332Z","1","Financial Crime (Embezzlement/Fraud)"
 "928c0242-4138-4fa9-ba47-a91b39a77cbc","***","2026-11-18T18:17:28.225Z","319","Drugs/Narcotics"
 "b587f92e-f7f4-4828-bf4f-53abdd937236","***","2026-11-19T18:40:12.365Z","1","Financial Crime (Embezzlement/Fraud)"
+"54756503-a653-48a2-a780-889790073fc4","***","2026-11-21T05:32:06.644Z","1","Traffic Infraction"
