@@ -5,7 +5,7 @@ Visit Flock
 Taylor MI PD
 Transparency Portal
 
-Last updated: Sat Nov 21 2026
+Last updated: Sun Nov 22 2026
 
 Overview
 
@@ -108,13 +108,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-717,834
+716,606
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-336
+327
 
 Hotlists Alerted On
 
@@ -126,7 +126,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,450
+3,211
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -135,7 +135,7 @@ Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
 Obstructing the Police (Fleeing/Eluding)
 Larceny/Theft Offenses
-Weapons Offense (Guns/Shots Fired)
+Assault/Battery Offenses
 Policy & Trust
 
 What's Detected
