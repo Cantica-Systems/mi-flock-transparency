@@ -6,7 +6,7 @@ Visit Flock
 Holland MI PD
 Transparency Portal
 
-Last updated: Sun Nov 22 2026
+Last updated: Mon Nov 23 2026
 
 Overview
 
@@ -109,8 +109,8 @@ Top 5 Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
 Drugs/Narcotics
+Motor Vehicle Theft/Stolen
 Assault/Battery Offenses
 Traffic Infraction
 Weapons Offense (Guns/Shots Fired)
