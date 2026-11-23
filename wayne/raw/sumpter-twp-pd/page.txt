@@ -5,7 +5,7 @@ Visit Flock
 Sumpter Twp MI PD
 Transparency Portal
 
-Last updated: Sun Nov 22 2026
+Last updated: Mon Nov 23 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-11,289
+11,283
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-15
+16
 
 Hotlists Alerted On
 
