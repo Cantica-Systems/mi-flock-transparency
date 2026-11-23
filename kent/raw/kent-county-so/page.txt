@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Sun Nov 22 2026
+Last updated: Mon Nov 23 2026
 
 Overview
 
@@ -81,13 +81,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-860,228
+858,622
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-987
+971
 
 Hotlists Alerted On
 
@@ -99,7 +99,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-3,836
+3,792
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
