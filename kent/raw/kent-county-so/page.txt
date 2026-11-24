@@ -6,7 +6,7 @@ Visit Flock
 Kent County MI SO
 Transparency Portal
 
-Last updated: Mon Nov 23 2026
+Last updated: Tue Nov 24 2026
 
 Overview
 
@@ -81,13 +81,13 @@ Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-858,622
+859,176
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-971
+1,001
 
 Hotlists Alerted On
 
@@ -99,7 +99,7 @@ Total Hotlist Alerts (Includes KCSO and Nationwide Partners)
 
 Total hotlist hits over the last 30 days.
 
-3,792
+6,285
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -118,6 +118,7 @@ Organizations granted access to Kent County MI SO data.
 [Federal] Indiana HIDTA
 [Federal] Natchez Trace Parkway MS - National Park Service
 [Federal] US Postal Inspection Service
+Adams County IN SO
 Adrian MI PD
 Albion MI DPS
 Allegan County SO MI
@@ -127,6 +128,7 @@ Anderson IN PD
 Ankeny IA PD
 Anniston AL PD
 Antrim County SO MI
+Apex NC PD
 Armada MI PD
 Arnold MO PD
 Athalia OH PD
@@ -134,11 +136,14 @@ Auburn Hills MI PD
 Austin County TX SO
 Barberton OH PD
 Barry County MI SO
+Bartow County GA SO
 Battle Creek MI PD
 Bedford County TN SO
 Bedford VA PD
 Berrien County MI SO
+Bethel Park PA PD
 Beverly Hills MI PD
+Big Bend WI PD
 Birmingham MI PD
 Blackman/Leoni Public Safety MI
 Bloomfield NM PD
@@ -205,6 +210,7 @@ East Lansing MI PD
 Eastpointe MI PD
 Eaton Rapids MI PD
 Eau Claire County WI SO
+El Cajon CA PD
 Elizabethtown KY PD
 Elk Rapids MI PD
 Elkhart County IN SO
@@ -213,7 +219,6 @@ Elyria OH PD
 Erie County OH SO
 Erwin NC PD
 Euclid OH PD
-Fairfax OH PD
 Fairmount IN PD
 Fairview Park OH PD
 Farmington Hills MI PD
@@ -281,6 +286,7 @@ Hamblen County TN SO
 Hamtramck MI PD
 Hancock County IN SO
 Hanover Park IL PD
+Hardin County OH SO
 Harper County KS SO
 Harrison OH PD
 Harrisonville MO PD
@@ -293,9 +299,7 @@ Hendersonville TN PD
 Henry County IN SO
 Herrin IL PD
 Highland Park MI PD
-Hillsborough County FL SO
 Holland MI PD
-Houston TX PD
 Huntsville AL PD
 Huron Township MI PD
 IN - Rensselaer PD
@@ -325,6 +329,7 @@ Kingston TN PD
 Kokomo IN PD
 KY - Kentucky State Police
 La Follette TN PD
+La Grange IL PD
 La Vergne TN PD
 Lafayette TN PD
 Lake County OH SO
@@ -364,6 +369,7 @@ Menominee County SO MI
 Mesquite TX PD
 Metamora Township MI PD
 Metro Police Authority of Genesee County MI
+Metropolis IL PD
 MI - Bloomfield Public Safety
 MI - Riverview PD
 Miami County OH SO
@@ -378,8 +384,10 @@ Milan MI PD
 Missouri Department of Conservation
 Missouri Information Analysis Center
 MOCIC
+Monon IN PD
 Monroe County MI SO
 Monroe MI PD
+Montgomery County IN SO
 Montgomery County KS SO
 Morristown TN PD
 Moundsville WV PD
@@ -387,6 +395,7 @@ Mount Morris Township PD MI
 Mount Pleasant WI PD
 Mountain City TN PD
 Muncie IN PD
+Murphysboro IL PD
 Muskegon County MI SO
 Muskegon Heights MI PD
 Muskegon MI PD
@@ -432,6 +441,7 @@ Ottawa County MI SO
 Ouachita Parish LA SO
 Oxford AL PD
 Oxford MS PD
+Palm Beach County FL SO
 Parma OH PD
 Penn State University Police and Public Safety PA
 Pennsylvania State PD
@@ -454,6 +464,7 @@ Racine WI PD
 Radcliff KY PD
 Raleigh NC PD
 Redford Twp MI PD
+Richland County SC SO
 Richland Village MI PD
 Richmond MO PD
 River Rouge MI PD
@@ -479,8 +490,10 @@ Schoolcraft College MI PD
 Schuyler Co. IL SO
 Schuyler County MO SO
 Seven Hills OH PD
+Shawano WI PD
 Shelby County KY SO
 Shelby Township MI PD
+Shepherdsville KY PD
 Sidney OH PD
 Silver Spring Township PA PD
 Sioux City IA PD
@@ -625,6 +638,7 @@ Belvidere IL PD
 Berea OH PD
 Berrien County MI SO
 Beverly Hills MI PD
+Big Bend WI PD
 Birmingham MI PD
 Blackman/Leoni Public Safety MI
 Bloomfield Twp MI PD
@@ -632,6 +646,7 @@ Blue Springs MO PD
 Boardman Township OH PD
 Boone County IN SO
 Bourbonnais IL PD
+Bowling Green KY PD
 Bridgeport Township MI PD
 Bristol IN PD
 Brookhaven GA PD
@@ -666,10 +681,12 @@ Chester Township OH PD
 Chesterfield Twp MI PD
 Cheviot OH PD
 Cicero IN PD
+Claiborne County TN SO
 Clark County OH SO
 Clarksville IN PD
 Clawson MI PD
 Cleveland Metro Parks OH PD
+Clinton Township MI PD
 Clio MI PD
 Cobb County GA PD
 Coldwater MI PD
@@ -756,6 +773,7 @@ Fruitport Township MI PD
 Fulshear TX PD
 Fulton County IN SO
 Gahanna OH PD
+Gallatin TN PD
 Garden City MI PD
 Garfield Heights OH PD
 Garrard County KY SO
@@ -844,6 +862,7 @@ Jasper County IN SO
 Jasper IN PD
 Jefferson County MO SO
 Jefferson County OH SO
+Jefferson County TN SO
 Jefferson Parish LA SO
 Johnston City IL PD
 Joliet IL PD
@@ -932,6 +951,7 @@ Michigan City IN PD
 Michigan Department of Corrections (MDOC)
 Michigan Department of Natural Resources
 Michigan State Police
+Middle Tennessee State TN PD
 Middlebury IN PD
 Midlothian IL PD
 Milan MI PD
@@ -947,9 +967,11 @@ Monroe County WI SO
 Monroe GA PD
 Monroe MI PD
 Montezuma IN PD
+Montgomery County TN SO
 Monticello IL PD
 Mooresville IN PD
 Morgan County IN SO
+Morristown TN PD
 Morton Grove IL PD
 Mount Morris Township PD MI
 Mount Vernon IN PD
@@ -998,6 +1020,7 @@ OH - Mariemont PD
 OH - Milford PD
 OH - Williamsburg PD
 OH- Springfield Township PD (Hamilton Co)
+Ohio County SO WV
 Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
 Olmsted Falls OH PD
 Orange Beach AL PD
@@ -1047,6 +1070,7 @@ Reading OH PD
 Redford Twp MI PD
 ReNew Kentwood Apartment Community (MI)
 Renew Millbrook (MI)
+Rhea County TN SO
 Richfield OH PD
 Richland County SC SO
 Richland County WI SO
@@ -1078,6 +1102,7 @@ Sawyer County WI SO
 Schoolcraft College MI PD
 Schuyler Co. IL SO
 SEMO Drug Task Force MO
+Sevierville TN PD
 Seymour IN PD
 Shelby County IL SO
 Shelby County IN SO
@@ -1176,6 +1201,7 @@ Whitestown IN PD
 Whitley County IN Prosector
 Willoughby OH PD
 Willow Springs IL PD
+Wilmore KY PD
 Wilton Manors FL PD
 Wixom MI PD
 Wolverine Lake MI PD

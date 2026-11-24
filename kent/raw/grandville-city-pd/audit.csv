@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"17534e7e-3b7d-4dc1-b3d4-710f638d75c7","***","2026-10-24T21:34:53.462Z","1","Larceny/Theft Offenses"
 "28496c80-a8c7-4c3b-bcb0-a3d52e121fe0","***","2026-10-26T11:37:37.482Z","3","Burglary/Breaking & Entering"
 "8c1669f1-35f7-44f7-afc2-4efe1431dc6b","***","2026-10-26T14:43:29.744Z","320","Drugs/Narcotics"
 "fda98c2e-508f-42a3-b461-4d09db464f97","***","2026-10-26T18:00:21.064Z","13","Destruction/Damage/Vandalism of Property"
@@ -66,3 +65,5 @@
 "54756503-a653-48a2-a780-889790073fc4","***","2026-11-21T05:32:06.644Z","1","Traffic Infraction"
 "2c4a21de-4f11-4613-b33d-02144f902ad2","***","2026-11-22T02:51:43.899Z","2","Hit and Run/Car Accident"
 "678e63f6-302e-4fe2-b906-c6877361c471","***","2026-11-22T03:11:54.653Z","6","Hit and Run/Car Accident"
+"2143acd0-ff57-4ad6-a906-cf1b4785285c","***","2026-11-23T20:28:06.153Z","1","Financial Crime (Embezzlement/Fraud)"
+"64daf474-2e62-48f5-b216-5130d7ca33a5","***","2026-11-23T23:05:58.188Z","316","Driving Under the Influence (DUI/DWI/OWI/OVI)"
