@@ -1,5 +1,4 @@
 "id","searchDate","networkCount","reason","offenseType"
-"6a24585f-a895-4fa6-aecf-82bae46b2504","2026-10-24T23:37:44.023Z","2","","Assault/Battery Offenses"
 "dad9d4e3-88c4-46e4-8c95-b73970a5f1f4","2026-10-25T07:38:10.993Z","5201","","Motor Vehicle Theft/Stolen"
 "6a4924ff-9814-4194-9f4a-30a0bab92b86","2026-10-25T08:30:55.689Z","2","flee and elude","Obstructing the Police (Fleeing/Eluding)"
 "98e6b15d-31a9-41d3-b8da-6001a73e27d1","2026-10-26T22:40:02.562Z","227","","Obstructing the Police (Fleeing/Eluding)"
@@ -36,3 +35,6 @@
 "0a21ab0f-2e39-4649-ad02-6b4d4961c326","2026-11-19T19:53:32.533Z","23","Larceny investigation","Larceny/Theft Offenses"
 "d48e8a0b-6d88-408e-9101-801c285ac22c","2026-11-19T20:07:32.058Z","4","investigation","Larceny/Theft Offenses"
 "99708cbb-339a-41c0-b243-639ac01cfc45","2026-11-21T08:40:00.600Z","9","STOLEN VEH","Motor Vehicle Theft/Stolen"
+"3ae6367e-3f7b-4164-9243-a62a7ac5ab68","2026-11-23T02:06:57.662Z","10","","Burglary/Breaking & Entering"
+"673d1e77-4da5-4767-a76b-6e7f4be1d58c","2026-11-23T06:09:15.569Z","39","26-24532","Assault/Battery Offenses (Domestic)"
+"deab8962-6401-4490-85b8-00a82d252104","2026-11-23T06:27:01.564Z","252","","Assault/Battery Offenses (Domestic)"
