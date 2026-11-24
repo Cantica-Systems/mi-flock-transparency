@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"bba6cf4f-1b1a-4089-abe4-cafa47c7f5a0","***","2026-10-24T03:10:34.260Z","2","Financial Crime (Embezzlement/Fraud)"
 "5efa1593-fd20-4b4a-ab52-4b7ed5ac2d7b","***","2026-10-25T01:12:26.673Z","2","Weapons Offense (Guns/Shots Fired)"
 "00441eae-ffb6-4956-ace8-d1bc43d01fa0","***","2026-10-25T01:56:36.227Z","2","Weapons Offense (Guns/Shots Fired)"
 "9e9b5141-02dc-40f5-aa83-19ced0c6f4c9","***","2026-10-25T02:00:31.903Z","5","Weapons Offense (Guns/Shots Fired)"
@@ -91,3 +90,7 @@
 "490d8895-fba9-4aeb-9ac0-81ad6a2f0398","***","2026-11-21T14:03:23.811Z","5183","Hit and Run/Car Accident"
 "c6f0e39a-036d-433c-97db-5e055c062e3e","***","2026-11-21T14:26:56.584Z","919","Weapons Offense (Guns/Shots Fired)"
 "7ce0d45a-221f-4913-9240-aff1c49c4fb9","***","2026-11-21T21:37:09.171Z","2","Weapons Offense (Guns/Shots Fired)"
+"30f0883f-b652-4a1d-8681-db27ec755397","***","2026-11-23T07:46:57.848Z","7","Motor Vehicle Theft/Stolen"
+"0bd4fa4f-1d03-4304-ba16-772e67ea9a61","***","2026-11-23T08:11:24.117Z","7","Motor Vehicle Theft/Stolen"
+"e867e2d0-d5a5-49b6-82d1-25e132d26ef6","***","2026-11-23T08:30:02.123Z","2","Motor Vehicle Theft/Stolen"
+"8a2d1374-c6ec-4592-bfb8-81f451319061","***","2026-11-23T13:55:17.245Z","919","Weapons Offense (Guns/Shots Fired)"
