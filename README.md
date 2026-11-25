@@ -75,6 +75,8 @@ This archive is provided as is, with no warranty. Every figure is whatever the p
 
 Read the label next to a figure before comparing agencies. Kent County Sheriff's Office counts hotlist alerts including nationwide partners, while other agencies count their own hits only. The two are not the same measure.
 
+Share lists are copied exactly as the portal prints them, so they can include entries that are not organizations. Since this archive's first capture on 2026-09-08, the lists of organizations sharing their data with Kent County Sheriff's Office and Lowell PD have included an entry named `Deactivated Users`. It appeared on Holland PD's list on 2026-09-15 and on Grand Rapids PD's on 2026-09-16, in the same capture that removed an entry named `Flock Safety Training` from each. The archive keeps such entries as published, so a row count of a `sharing_*.csv` file includes them.
+
 Coverage follows which agencies publish a portal, not which agencies operate the technology. An agency absent from this archive may still run cameras.
 
 This is a convenience copy for research and public accountability. It is not an official record and it is not legal advice. For an authoritative or evidentiary copy, request the records from the agency under the Michigan Freedom of Information Act.
