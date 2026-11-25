@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Mon Nov 23 2026
+Last updated: Wed Nov 25 2026
 
 Overview
 
@@ -106,13 +106,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-466,471
+463,941
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-642
+658
 
 Hotlists Alerted On
 
@@ -124,16 +124,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,258
+6,666
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
-Wanted Person (Arrest Warrant/Fugitive)
 Obstructing the Police (Fleeing/Eluding)
-Motor Vehicle Theft/Stolen
+Wanted Person (Arrest Warrant/Fugitive)
 Weapons Offense (Guns/Shots Fired)
+Assault/Battery Offenses
 
 Sharing Network Data With
 
@@ -538,7 +538,6 @@ Eureka MO PD
 Evansville IN PD
 Evendale OH PD
 Fairfax County VA PD
-Fairfax OH PD
 Fairfield CA PD
 Fairfield PD - OH
 Fairfield Township OH PD
@@ -745,7 +744,6 @@ Hudson WI PD
 Humble ISD PD TX
 Hunting Valley OH PD
 Huntingburg IN PD
-Huntington County IN SO
 Huntington IN PD
 Huntley IL PD
 Huntsville AL PD
