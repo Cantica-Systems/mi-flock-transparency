@@ -1,11 +1,11 @@
 # Kalamazoo County Flock snapshots
 
-Last updated: 2026-11-26 21:03 UTC
+Last updated: 2026-11-27 21:03 UTC
 
 | Agency | Updated | Cameras | Vehicles (30d) | Searches | Hotlist hits | Outbound | Inbound | New audit rows |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| [Kalamazoo MI PD](data/kalamazoo-city-pd/) | Wed Nov 25 2026 | 40 | 282,334 | 938 | 7,841 | 7 | — | 37 |
-| [Portage MI PD](data/portage-city-pd/) | Thu Nov 26 2026 | 31 | 405,225 | 162 | 4,644 | 2,444 | — | 10 |
+| [Kalamazoo MI PD](data/kalamazoo-city-pd/) | Thu Nov 26 2026 | 40 | 284,782 | 970 | 7,722 | 7 | — | 68 |
+| [Portage MI PD](data/portage-city-pd/) | Fri Nov 27 2026 | 31 | 404,569 | 161 | 4,692 | 2,444 | — | 2 |
 
 Search audits are append-only monthly CSVs (`data/<agency>/YYYY-MM.csv`), partitioned on search time.
 Share lists are the current portal snapshot; `git log -p` is the history.
